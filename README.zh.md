@@ -34,17 +34,17 @@
 # 翻译文本
 在import_txt目录下有 3 个json文件需要翻译。
 
-你可以运行``json2excel.py`` 把 json 文件转成excel文件，然后在 M$ Excel 或 LibreOffice calc 或随便哪个电子表格器进行编辑翻译。
+你可以运行``json2excel.py`` 把 json 文件转成excel文件，然后在 M$ Excel 或 LibreOffice calc 或随便哪个电子表格编辑器中进行编辑翻译。
 
 # 修改图片
 运行 ``images/export_imgs.py`` 
 
 这会遍历 ``PackedContent`` 目录, 把.tex转换成.png，并输出到 ``out`` 目录。
 
-挑选你需要修改的图片。把它们放在 ``new`` 目录下, 注意保持同样的目录结构。
+挑选你需要修改的图片。把它们放在 ``new`` 目录下，注意保持同样的目录结构。
 
 # 生成汉化补丁
-运行 ``run.bat``, 汉化补丁会在 ``patch`` 目录下生成.
+运行 ``run.bat``，汉化补丁会在 ``patch`` 目录下生成。
 
 # 汉化截图
 ![](screenshot/screenshot_1.jpg)
