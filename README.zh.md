@@ -1,6 +1,6 @@
 这是一个非官方的游戏汉化项目，游戏名称是EXAPUNKS。
 
-首先，你需要拥有这个游戏。你可以在 [steam](https://store.steampowered.com/app/716490/EXAPUNKS/) 或 [GOG](https://www.gog.com/game/exapunks) 或任意平台上购买到此游戏。
+首先，你需要拥有这个游戏。你可以在 [steam](https://store.steampowered.com/app/716490/EXAPUNKS/) 或 [GOG](https://www.gog.com/game/exapunks) 或任意平台上购买好此游戏。
 
 # 准备环境
 ## 1. 安装 [python](https://www.python.org/) 3 及相关依赖库
