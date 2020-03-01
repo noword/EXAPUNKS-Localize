@@ -8,6 +8,10 @@ cd font
 gen.py
 cd ..
 
+cd images
+import_imgs.py
+cd ..
+
 md patch\Content patch\PackedContent\fonts
 
 move import_txt\strings.csv patch\Content
