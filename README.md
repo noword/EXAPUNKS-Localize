@@ -38,6 +38,26 @@ There are three json files in directory ``import_txt``, they need be translated.
 
 You could run ``json2excel.py`` to convert these json files to excel, then edit them in M$ Excel or LibreOffice calc or whatever spreadsheet editor.
 
+* ``EXAPUNKS_descriptions.json``
+
+    Grabbed from Content/descriptions/*.txt
+
+    All texts in this file need been traslated.
+
+* ``EXAPUNKS_vignettes.json``
+
+    Grabbed from Content/vignettes/*.csv
+
+    All texts in this file need be translated.
+
+* ``EXAPUNKS_exe.json``
+
+    Grabbed from EXAPUNKS.exe
+
+    **Not** all texts in this file need be translated. 
+    
+    Only translate the text you actually see in the game.
+
 # Modify the textures
 Run ``images/export_imgs.py`` 
 
@@ -48,7 +68,9 @@ Pick up the images what you want to modify.
 Put them all to the ``new`` dirctory, keep the some directory struct.
 
 # Generate the localization patch
-run ``run.bat``, the localization patch will be generated in ``patch`` directory.
+Run ``run.bat``, the localization patch will be generated in ``patch`` directory.
+
+If you want to know more details about this procedure, see [details.md](details.md)
 
 # Some screenshots
 ![](screenshot/screenshot_1.jpg)
