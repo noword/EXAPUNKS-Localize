@@ -10,6 +10,8 @@ def convert(excel_name, json_name):
         return
     print('%s ==> %s' % (excel_name, json_name))
     df = pd.read_excel(excel_name)
+    df = df.drop(columns=filter(lambda x: 'Unnamed' in x, df.columns))
+    df.replace(float('nan'), '', inplace=True)
     json_str = df.to_json(force_ascii=False, indent=4)
     open(json_name, 'w', encoding='utf-8').write(json_str)
 

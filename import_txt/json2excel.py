@@ -10,6 +10,7 @@ def convert(json_name, excel_name):
         return
     print('%s ==> %s' % (json_name, excel_name))
     df = pd.read_json(json_name, encoding='utf-8')
+    df.replace(float('nan'), '', inplace=True)
     english_index = df.columns.to_list().index('English') + 2
     df.to_excel(excel_name, freeze_panes=(1, english_index))
 

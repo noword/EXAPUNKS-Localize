@@ -21,6 +21,7 @@ def get_trans(name):
     rows = filter(lambda x: sum([len(y) for y in x[trans_start_index:]]) > 0, df.itertuples(index=False))
     df = pd.DataFrame(rows)
     df = df.set_index('English')
+    df = df.drop(columns=filter(lambda x: 'Unnamed' in x, df.columns))
     if '_0' in df:
         df = df.drop(columns=['_0', ])
     trans = df.to_dict('index')

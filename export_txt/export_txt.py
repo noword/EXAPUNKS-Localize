@@ -10,7 +10,7 @@ from misc import get_trans
 
 
 def export_vignettes():
-    trans = get_trans('../import_txt/EXAPUNKS_vignettes.xlsx')
+    trans = get_trans('../import_txt/EXAPUNKS_vignettes.json')
     original = set()
     data = []
     for root, dirs, files in os.walk('Content/vignettes'):
@@ -28,13 +28,13 @@ def export_vignettes():
                             data.append({'FileName': f, 'Role': row[0], 'English': en})
 
     df = pd.DataFrame(data, columns=('FileName', 'Role', 'English', 'French', 'Chinese', 'Japanese'), dtype=str)
+    df.replace(float('nan'), '', inplace=True)
     json_str = df.to_json(force_ascii=False, indent=4)
     open('EXAPUNKS_vignettes.json', 'w', encoding='utf-8').write(json_str)
-    df.to_excel('EXAPUNKS_vignettes.xlsx', freeze_panes=(1, 0))
 
 
 def export_descriptions():
-    trans = get_trans('../import_txt/EXAPUNKS_descriptions.xlsx')
+    trans = get_trans('../import_txt/EXAPUNKS_descriptions.json')
     original = set()
     data = []
     for root, dirs, files in os.walk('Content/descriptions'):
@@ -50,9 +50,9 @@ def export_descriptions():
                         data.append({'FileName': f, 'English': line})
 
     df = pd.DataFrame(data, columns=('FileName', 'English', 'German', 'French', 'Russian', 'Chinese', 'Japanese'), dtype=str)
+    df.replace(float('nan'), '', inplace=True)
     json_str = df.to_json(force_ascii=False, indent=4)
     open('EXAPUNKS_descriptions.json', 'w', encoding='utf-8').write(json_str)
-    df.to_excel('EXAPUNKS_descriptions.xlsx')
 
 
 if __name__ == '__main__':
