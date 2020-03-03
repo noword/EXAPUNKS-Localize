@@ -32,7 +32,7 @@ First at all, you should own this game, you can buy it on [steam](https://store.
 
 * copy ``Content/descriptions/en/*`` to ``./export_txt/Content/descriptions/en/``
 * copy ``Content/vignettes/*`` to ``./export_txt/Content/vignettes``
-* copy ``PackedContent/fonts/*`` to ``./font/fonts``
+* copy ``PackedContent/fonts/*.packedfont`` to ``./font/fonts``
 * copy ``PackedContent/*.tex`` to ``./images/PackedContent``
 
 # Translate the texts

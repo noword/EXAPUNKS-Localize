@@ -31,7 +31,7 @@
 
 * 复制 ``Content/descriptions/en/*`` 到 ``./export_txt/Content/descriptions/en/``
 * 复制 ``Content/vignettes/*`` 到 ``./export_txt/Content/vignettes``
-* 复制 ``PackedContent/fonts/*`` 到 ``./font/fonts``
+* 复制 ``PackedContent/fonts/*.packedfont`` 到 ``./font/fonts``
 * 复制 ``PackedContent/*.tex`` 到 ``./images/PackedContent``
 
 # 翻译文本
