@@ -50,7 +50,7 @@ class Tex:
     @image.setter
     def image(self, im):
         assert(im.size == (self.width, self.height))
-        buf = im.tobytes()
+        buf = im.transpose(Image.FLIP_TOP_BOTTOM).tobytes()
         self.zbuf = lz4.block.compress(buf, store_size=False)
 
 
