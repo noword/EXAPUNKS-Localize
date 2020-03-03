@@ -1,16 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import pandas as pd
-import re
-import os
-import csv
 import sys
 sys.path.append('../import_txt')
-from misc import get_trans
+from translation import Translation, try_to_get_translation
+import csv
+import os
 
 
 def export_vignettes():
-    trans = get_trans('../import_txt/EXAPUNKS_vignettes.json')
+    trans = try_to_get_translation('../import_txt/EXAPUNKS_vignettes.json')
     original = set()
     data = []
     for root, dirs, files in os.walk('Content/vignettes'):
@@ -22,19 +20,17 @@ def export_vignettes():
                     if en not in original:
                         original.add(en)
                         if en in trans:
-                            trans[en]["English"] = en
                             data.append(trans[en])
                         else:
                             data.append({'FileName': f, 'Role': row[0], 'English': en})
 
-    df = pd.DataFrame(data, columns=('FileName', 'Role', 'English', 'French', 'Chinese', 'Japanese'), dtype=str)
-    df.replace(float('nan'), '', inplace=True)
-    json_str = df.to_json(force_ascii=False, indent=4)
-    open('EXAPUNKS_vignettes.json', 'w', encoding='utf-8').write(json_str)
+    translation = Translation()
+    translation.set_data(data, ('FileName', 'Role', 'English', 'French', 'Chinese', 'Japanese'))
+    translation.save('EXAPUNKS_vignettes.json')
 
 
 def export_descriptions():
-    trans = get_trans('../import_txt/EXAPUNKS_descriptions.json')
+    trans = try_to_get_translation('../import_txt/EXAPUNKS_descriptions.json')
     original = set()
     data = []
     for root, dirs, files in os.walk('Content/descriptions'):
@@ -44,15 +40,13 @@ def export_descriptions():
                 if line not in original:
                     original.add(line)
                     if line in trans:
-                        trans[line]["English"] = line
                         data.append(trans[line])
                     else:
                         data.append({'FileName': f, 'English': line})
 
-    df = pd.DataFrame(data, columns=('FileName', 'English', 'German', 'French', 'Russian', 'Chinese', 'Japanese'), dtype=str)
-    df.replace(float('nan'), '', inplace=True)
-    json_str = df.to_json(force_ascii=False, indent=4)
-    open('EXAPUNKS_descriptions.json', 'w', encoding='utf-8').write(json_str)
+    translation = Translation()
+    translation.set_data(data, ('FileName', 'English', 'German', 'French', 'Russian', 'Chinese', 'Japanese'))
+    translation.save('EXAPUNKS_descriptions.json')
 
 
 if __name__ == '__main__':

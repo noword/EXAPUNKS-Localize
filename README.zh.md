@@ -12,7 +12,10 @@
     ```
     pip install pandas
     ```
-
+* 安装 [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+    ```
+    pip install openpyxl
+    ```
 
 * 安装 [Pillow](https://python-pillow.org/)
     ```

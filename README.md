@@ -14,8 +14,10 @@ First at all, you should own this game, you can buy it on [steam](https://store.
     ```
     pip install pandas
     ```
-
-
+* install [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+    ```
+    pip install openpyxl
+    ```
 * install [Pillow](https://python-pillow.org/)
     ```
     pip install pillow

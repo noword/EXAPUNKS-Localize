@@ -4,11 +4,11 @@ import os
 from io import StringIO
 import csv
 import re
-from misc import get_trans
+from translation import Translation
 
 
 def import_strings():
-    trans = get_trans('EXAPUNKS_exe.json')
+    trans = Translation('EXAPUNKS_exe.json').get_translation()
     csv_writer = csv.writer(open('strings.csv', 'w', encoding='utf-8'), lineterminator='\n', escapechar='\\')
     for key, value in trans.items():
         row = [key, '']
@@ -17,7 +17,7 @@ def import_strings():
 
 
 def import_vignettes():
-    trans = get_trans('EXAPUNKS_vignettes.json')
+    trans = Translation('EXAPUNKS_vignettes.json').get_translation()
     for root, dirs, files in os.walk('../export_txt/Content/vignettes'):
         for f in files:
             name = os.path.join(root, f)
@@ -49,7 +49,7 @@ def import_descriptions():
              'Japanese': 'ja'
              }
 
-    trans = get_trans('EXAPUNKS_descriptions.json')
+    trans = Translation('EXAPUNKS_descriptions.json').get_translation()
     for root, dirs, files in os.walk('../export_txt/Content/descriptions/en'):
         for f in files:
             name = os.path.join(root, f)
