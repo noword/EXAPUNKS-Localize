@@ -65,7 +65,7 @@ Run ``images/export_imgs.py``
 
 It will traverse directory ``PackedContent``, convert all .tex files to .png into the directory ``out``.
 
-Pick up the images what you want to modify.
+Pick up the images what you want to modify. (No need for ``half``'s, we will generate them automatically.)
 
 Put them all to the ``new`` dirctory, keep the some directory struct.
 
