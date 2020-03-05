@@ -77,4 +77,5 @@ if __name__ == "__main__":
 
     for root, dirs, files in os.walk("fonts"):
         for f in files:
-            do(os.path.join(root, f))
+            if 'mono' not in f:
+                do(os.path.join(root, f))

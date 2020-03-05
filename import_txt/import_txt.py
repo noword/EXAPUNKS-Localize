@@ -8,6 +8,7 @@ from translation import Translation
 
 
 def import_strings():
+    print('EXAPUNKS_exe.json\t\t%.2f%%' % Translation('EXAPUNKS_exe.json').get_percent('Chinese'))
     trans = Translation('EXAPUNKS_exe.json').get_translation()
     csv_writer = csv.writer(open('strings.csv', 'w', encoding='utf-8'), lineterminator='\n', escapechar='\\')
     for key, value in trans.items():
@@ -17,6 +18,7 @@ def import_strings():
 
 
 def import_vignettes():
+    print('EXAPUNKS_vignettes.json\t\t%.2f%%' % Translation('EXAPUNKS_vignettes.json').get_percent('Chinese'))
     trans = Translation('EXAPUNKS_vignettes.json').get_translation()
     for root, dirs, files in os.walk('../export_txt/Content/vignettes'):
         for f in files:
@@ -49,6 +51,7 @@ def import_descriptions():
              'Japanese': 'ja'
              }
 
+    print('EXAPUNKS_descriptions.json\t%.2f%%' % Translation('EXAPUNKS_descriptions.json').get_percent('Chinese'))
     trans = Translation('EXAPUNKS_descriptions.json').get_translation()
     for root, dirs, files in os.walk('../export_txt/Content/descriptions/en'):
         for f in files:

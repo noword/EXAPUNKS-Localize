@@ -68,6 +68,10 @@ class Translation:
     def set_data(self, data, columns):
         self.set_dataframe(pd.DataFrame(data, columns=columns, dtype=str))
 
+    def get_percent(self, target_index):
+        count = len(self._df[self._df[target_index] != ''])
+        return count / len(self._df.index) * 100
+
 
 def try_to_get_translation(name):
     if os.path.exists(name):
