@@ -74,6 +74,13 @@ Run ``run.bat``, the localization patch will be generated in ``patch`` directory
 
 If you want to know more details about this procedure, see [details.md](details.md)
 
+# Change game settings
+Edit %USERPROFILE%\Documents\My Games\EXAPUNKS\xxxxxx\config.cfg
+```
+Language = English
+```
+Change 'English' to 'Chinese | Japanese | French'
+
 # Some screenshots
 ![](screenshot/screenshot_1.jpg)
 

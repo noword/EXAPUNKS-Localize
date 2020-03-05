@@ -71,6 +71,13 @@
 
 如果你想了解此过程的详细情况，请看[details.zh.md](details.zh.md)
 
+# 修改游戏设置
+编辑 %USERPROFILE%\Documents\My Games\EXAPUNKS\xxxxxx\config.cfg
+```
+Language = English
+```
+把 'English' 改成 'Chinese'
+
 # 汉化截图
 ![](screenshot/screenshot_1.jpg)
 
