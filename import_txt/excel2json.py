@@ -14,7 +14,7 @@ if __name__ == '__main__':
     if args.excel_name is not None:
         json_name = args.json_name
         if json_name is None:
-            json_name = os.path.splitext(args.excel_name)[0] + '.xlsx'
+            json_name = os.path.splitext(args.excel_name)[0] + '.json'
         convert(args.excel_name, json_name)
     else:
         convert_all('.xlsx', '.json')

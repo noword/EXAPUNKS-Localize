@@ -38,7 +38,7 @@ First at all, you should own this game, you can buy it on [steam](https://store.
 # Translate the texts
 There are three json files in directory ``import_txt``, they need be translated.
 
-You could run ``json2excel.py`` to convert these json files to excel, then edit them in M$ Excel or LibreOffice calc or whatever spreadsheet editor.
+You could run ``json2excel.py`` to generate excel files from these json files, then edit them in M$ Excel or LibreOffice calc or whatever spreadsheet editor.
 
 * ``EXAPUNKS_descriptions.json``
 
@@ -60,6 +60,23 @@ You could run ``json2excel.py`` to convert these json files to excel, then edit 
     
     Only translate the text you actually see in the game.
 
+## How to use json2excel.py
+```
+json2excel.py EXAPUNKS_descriptions.json EXAPUNKS_descriptions.xlsx
+```
+
+generate EXAPUNKS_descriptions.xlsx from EXAPUNKS_descriptions.json
+```
+json2excel.py EXAPUNKS_descriptions.json
+```
+do the same thing
+  
+```
+json2excel.py
+```  
+traverse current directory, generate .xlsx files from  all .json files.
+
+
 # Modify the textures
 Run ``images/export_imgs.py`` 
 
@@ -75,7 +92,7 @@ Run ``run.bat``, the localization patch will be generated in ``patch`` directory
 If you want to know more details about this procedure, see [details.md](details.md)
 
 # Change game settings
-Edit %USERPROFILE%\Documents\My Games\EXAPUNKS\xxxxxx\config.cfg
+Edit ``%USERPROFILE%\Documents\My Games\EXAPUNKS\xxxxxx\config.cfg``
 ```
 Language = English
 ```

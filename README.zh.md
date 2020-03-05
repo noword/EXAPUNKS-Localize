@@ -37,7 +37,7 @@
 # 翻译文本
 在import_txt目录下有 3 个json文件需要翻译。
 
-你可以运行``json2excel.py`` 把 json 文件转成excel文件，然后在 M$ Excel 或 LibreOffice calc 或随便哪个电子表格编辑器中进行编辑翻译。
+你可以运行``json2excel.py`` 从 json 文件生成 excel 文件，然后在 M$ Excel 或 LibreOffice calc 或随便哪个电子表格编辑器中进行编辑翻译。
 
 * ``EXAPUNKS_descriptions.json``
 
@@ -59,6 +59,21 @@
     
     仅仅翻译你在游戏中实际看到的文本。
 
+## 如何使用 json2excel.py
+```
+json2excel.py EXAPUNKS_descriptions.json EXAPUNKS_descriptions.xlsx
+```
+从 EXAPUNKS_descriptions.json 生成 EXAPUNKS_descriptions.xlsx
+```
+json2excel.py EXAPUNKS_descriptions.json
+```
+做和上面一样的事
+  
+```
+json2excel.py
+```  
+遍历当前目录，从所有的 .json 文件中生成 .xlsx。
+
 # 修改图片
 运行 ``images/export_imgs.py`` 
 
@@ -72,7 +87,7 @@
 如果你想了解此过程的详细情况，请看[details.zh.md](details.zh.md)
 
 # 修改游戏设置
-编辑 %USERPROFILE%\Documents\My Games\EXAPUNKS\xxxxxx\config.cfg
+编辑 ``%USERPROFILE%\Documents\My Games\EXAPUNKS\xxxxxx\config.cfg``
 ```
 Language = English
 ```
