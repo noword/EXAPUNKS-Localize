@@ -20,8 +20,11 @@ def do(name, width=512, height=512):
 
     texts = TEXTS
     pf.f2 *= 1.5
-
-    font_gen.set_font_name("Arial Unicode MS")
+    if 'mono' in name:
+        font_gen.set_font_name("Consolas")
+        size += 2
+    else:
+        font_gen.set_font_name("Arial Unicode MS")
     font_gen.set_font_size(-size)
     font_gen.set_texture_format("png")
     font_gen.set_chars(texts)
@@ -77,5 +80,4 @@ if __name__ == "__main__":
 
     for root, dirs, files in os.walk("fonts"):
         for f in files:
-            if 'mono' not in f:
-                do(os.path.join(root, f))
+            do(os.path.join(root, f))

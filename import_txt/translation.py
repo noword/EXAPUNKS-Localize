@@ -34,7 +34,8 @@ class Translation:
 
     def save_excel(self, name, index='English'):
         def set_styles(ws, frezze_index):
-            fill = openpyxl.styles.GradientFill(stop=('d7fffd', 'edffea'))
+            trans_fill = openpyxl.styles.GradientFill(stop=('D5F5E3', 'EAFAF1'))
+            org_fill = openpyxl.styles.GradientFill(stop=('D6EAF8', 'EBF5FB'))
             border = Border(left=Side(style='hair'),
                             right=Side(style='hair'),
                             top=Side(style='hair'),
@@ -43,7 +44,7 @@ class Translation:
             rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
                                                        formula=['""'],
                                                        border=border,
-                                                       fill=fill)
+                                                       fill=trans_fill)
             cond_start = chr(ord('A') + frezze_index) + '2'
             cond_end = chr(ord('A') + ws.max_column - 1) + str(ws.max_row)
             ws.conditional_formatting.add('%s:%s' % (cond_start, cond_end), rule)
@@ -51,7 +52,7 @@ class Translation:
             start = chr(ord('A') + frezze_index - 1)
             index_cells = ws['%s2:%s%d' % (start, start, ws.max_row)]
             for cell in index_cells:
-                cell[0].fill = fill
+                cell[0].fill = org_fill
                 cell[0].border = border
 
         frezze_index = self._df.columns.to_list().index(index) + 2
