@@ -60,19 +60,19 @@
     仅仅翻译你在游戏中实际看到的文本。
 
 ## 如何使用 json2excel.py
+从 EXAPUNKS_descriptions.json 生成 EXAPUNKS_descriptions.xlsx
 ```
 json2excel.py EXAPUNKS_descriptions.json EXAPUNKS_descriptions.xlsx
 ```
-从 EXAPUNKS_descriptions.json 生成 EXAPUNKS_descriptions.xlsx
+做和上面一样的事
 ```
 json2excel.py EXAPUNKS_descriptions.json
 ```
-做和上面一样的事
-  
+遍历当前目录，从所有的 .json 文件中生成 .xlsx。
 ```
 json2excel.py
 ```  
-遍历当前目录，从所有的 .json 文件中生成 .xlsx。
+
 
 # 修改图片
 运行 ``images/export_imgs.py`` 

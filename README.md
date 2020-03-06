@@ -61,21 +61,18 @@ You could run ``json2excel.py`` to generate excel files from these json files, t
     Only translate the text you actually see in the game.
 
 ## How to use json2excel.py
+generate EXAPUNKS_descriptions.xlsx from EXAPUNKS_descriptions.json
 ```
 json2excel.py EXAPUNKS_descriptions.json EXAPUNKS_descriptions.xlsx
 ```
-
-generate EXAPUNKS_descriptions.xlsx from EXAPUNKS_descriptions.json
+do the same thing
 ```
 json2excel.py EXAPUNKS_descriptions.json
 ```
-do the same thing
-  
+traverse current directory, generate .xlsx files from  all .json files.  
 ```
 json2excel.py
 ```  
-traverse current directory, generate .xlsx files from  all .json files.
-
 
 # Modify the textures
 Run ``images/export_imgs.py`` 

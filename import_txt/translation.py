@@ -4,6 +4,7 @@ import pandas as pd
 import os
 import re
 import openpyxl
+from openpyxl.styles.borders import Border, Side
 
 
 class Translation:
@@ -32,10 +33,37 @@ class Translation:
             raise TypeError('not support type: "%s"' % ext)
 
     def save_excel(self, name, index='English'):
+        def set_styles(ws, frezze_index):
+            fill = openpyxl.styles.GradientFill(stop=('d7fffd', 'edffea'))
+            border = Border(left=Side(style='hair'),
+                            right=Side(style='hair'),
+                            top=Side(style='hair'),
+                            bottom=Side(style='hair'),
+                            )
+            rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
+                                                       formula=['""'],
+                                                       border=border,
+                                                       fill=fill)
+            cond_start = chr(ord('A') + frezze_index) + '2'
+            cond_end = chr(ord('A') + ws.max_column - 1) + str(ws.max_row)
+            ws.conditional_formatting.add('%s:%s' % (cond_start, cond_end), rule)
+
+            start = chr(ord('A') + frezze_index - 1)
+            index_cells = ws['%s2:%s%d' % (start, start, ws.max_row)]
+            for cell in index_cells:
+                cell[0].fill = fill
+                cell[0].border = border
+
         frezze_index = self._df.columns.to_list().index(index) + 2
         self._df.to_excel(name, freeze_panes=(1, frezze_index))
+
         wb = openpyxl.load_workbook(name)
-        for row in wb.active:
+        ws = wb.active
+        set_styles(ws, frezze_index)
+        font = openpyxl.styles.Font(name='Consolas')
+        for i, row in enumerate(ws):
+            if i == 0:
+                continue
             for cell in row:
                 if cell.value is None:
                     cell.value = ''
@@ -44,6 +72,7 @@ class Translation:
                 cell.number_format = '@'
                 cell.data_type = 's'
                 cell.quotePrefix = True
+                cell.font = font
         wb.save(name)
 
     def save_json(self, name):
@@ -59,6 +88,10 @@ class Translation:
         rows = filter(lambda x: sum([len(y) for y in x[start_index:]]) > 0, self._df.itertuples(index=False))
         df = pd.DataFrame(rows)
         df.set_index(index, drop=False, inplace=True)
+        for row in df.iterrows():
+            for i, cell in enumerate(row[1]):
+                if len(cell) == 0:
+                    row[1][i] = row[0]
         return df.to_dict('index')
 
     def set_dataframe(self, df):

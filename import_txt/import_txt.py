@@ -30,7 +30,9 @@ def import_vignettes():
             for row in csv_reader:
                 if len(row) > 1:
                     en = row[1]
-                    if en in trans:
+                    if en in trans \
+                            and len(trans[en]) > 0 \
+                            and en != trans[en]:
                         need_save = True
                         row.extend([trans[en][lang] for lang in ('French', 'Chinese', 'Japanese')])
                 csv_writer.writerow(row)
@@ -62,7 +64,10 @@ def import_descriptions():
                 need_save = False
                 for line in lines:
                     line = line.strip()
-                    if len(line) > 0 and line in trans and trans[line][country]:
+                    if len(line) > 0 \
+                            and line in trans \
+                            and len(trans[line][country]) \
+                            and line != trans[line][country]:
                         line = trans[line][country]
                         need_save = True
                     out.write(line + '\n')
