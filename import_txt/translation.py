@@ -61,9 +61,7 @@ class Translation:
         ws = wb.active
         set_styles(ws, frezze_index)
         font = openpyxl.styles.Font(name='Consolas')
-        for i, row in enumerate(ws):
-            if i == 0:
-                continue
+        for row in ws.iter_rows(min_row=2):
             for cell in row:
                 if cell.value is None:
                     cell.value = ''
