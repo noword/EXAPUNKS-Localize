@@ -37,7 +37,7 @@ First at all, you should own this game, you can buy it on [steam](https://store.
   
   ``Content\vignettes\nivas-3.csv`` miss a double quote at line 9, fix it by youself.
   
-## 3. (Optional) install fonts
+## 3. install fonts (optional) 
 * install [Wen Quan Yi microhei](https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/)
 * install [Noto Sans Mono CJK](https://www.google.com/get/noto/help/cjk/)
 
@@ -83,11 +83,11 @@ json2excel.py
 # Modify the textures
 Run ``images/export_imgs.py`` 
 
-It will traverse directory ``PackedContent``, convert all .tex files to .png into the directory ``out``.
+It will traverse directory ``images/PackedContent``, convert all .tex files to .png into the directory ``out``.
 
-Pick up the images what you want to modify. (No need for ``half``'s, we will generate them automatically.)
+Pick up the images what you want to modify. (No need for ``half``'s, will be generated  automatically.)
 
-Put them all to the ``new`` dirctory, keep the some directory struct.
+Put all of them to the ``new`` dirctory, keep the some directory struct.
 
 # Generate the localization patch
 Run ``run.bat``, the localization patch will be generated in ``patch`` directory.
