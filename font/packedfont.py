@@ -70,4 +70,5 @@ if __name__ == "__main__":
     chars = pf.get_chars()
     for i, g in enumerate(pf.glyphs):
         print('%x' % ord(chars[i]), g["index"], g["x"], g["y"], g["w"], g["h"], g["offsetx"], g["offsety"], g["adv"])
-    pf.textures[0].save("1.png")
+    for i, t in enumerate(pf.textures):
+        pf.textures[i].save("%d.png" % i)

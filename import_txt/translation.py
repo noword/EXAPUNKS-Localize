@@ -7,8 +7,30 @@ import openpyxl
 from openpyxl.styles.borders import Border, Side
 
 
+EXCEL_FONT = 'WenQuanYi Micro Hei Mono'
+
+
+class Theme:
+    original_background_color_start = 'D6EAF8'
+    original_background_color_end = 'EAFAF1'
+    original_color = '000000'
+    translation_background_color_start = 'D5F5E3'
+    translation_background_color_end = 'EAFAF1'
+    translation_color = '000000'
+
+
+class DarkTheme:
+    original_background_color_start = '212830'
+    original_background_color_end = '212830'
+    original_color = 'fdf6e3'
+    translation_background_color_start = '032b36'
+    translation_background_color_end = '032b36'
+    translation_color = 'efe9d5'
+
+
 class Translation:
-    def __init__(self, name=None):
+    def __init__(self, name=None, theme=Theme()):
+        self.theme = theme
         if name is not None:
             self.load(name)
 
@@ -32,36 +54,46 @@ class Translation:
         else:
             raise TypeError('not support type: "%s"' % ext)
 
+    def __set_styles(self, ws, frezze_index):
+        org_fill = openpyxl.styles.GradientFill(
+            stop=(
+                self.theme.original_background_color_start,
+                self.theme.original_background_color_end))
+        org_font = openpyxl.styles.Font(name=EXCEL_FONT, color=self.theme.original_color)
+        trans_fill = openpyxl.styles.GradientFill(
+            stop=(
+                self.theme.translation_background_color_start,
+                self.theme.translation_background_color_end))
+        trans_font = openpyxl.styles.Font(name=EXCEL_FONT, color=self.theme.translation_color)
+
+        border = Border(left=Side(style='hair'),
+                        right=Side(style='hair'),
+                        top=Side(style='hair'),
+                        bottom=Side(style='hair'),
+                        )
+        rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
+                                                   formula=['""'],
+                                                   border=border,
+                                                   fill=trans_fill,
+                                                   font=trans_font)
+        cond_start = chr(ord('A') + frezze_index) + '2'
+        cond_end = chr(ord('A') + ws.max_column - 1) + str(ws.max_row)
+        ws.conditional_formatting.add('%s:%s' % (cond_start, cond_end), rule)
+
+        start = chr(ord('A') + frezze_index - 1)
+        index_cells = ws['%s2:%s%d' % (start, start, ws.max_row)]
+        for cell in index_cells:
+            cell[0].fill = org_fill
+            cell[0].font = org_font
+            cell[0].border = border
+
     def save_excel(self, name, index='English'):
-        def set_styles(ws, frezze_index):
-            trans_fill = openpyxl.styles.GradientFill(stop=('D5F5E3', 'EAFAF1'))
-            org_fill = openpyxl.styles.GradientFill(stop=('D6EAF8', 'EBF5FB'))
-            border = Border(left=Side(style='hair'),
-                            right=Side(style='hair'),
-                            top=Side(style='hair'),
-                            bottom=Side(style='hair'),
-                            )
-            rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
-                                                       formula=['""'],
-                                                       border=border,
-                                                       fill=trans_fill)
-            cond_start = chr(ord('A') + frezze_index) + '2'
-            cond_end = chr(ord('A') + ws.max_column - 1) + str(ws.max_row)
-            ws.conditional_formatting.add('%s:%s' % (cond_start, cond_end), rule)
-
-            start = chr(ord('A') + frezze_index - 1)
-            index_cells = ws['%s2:%s%d' % (start, start, ws.max_row)]
-            for cell in index_cells:
-                cell[0].fill = org_fill
-                cell[0].border = border
-
         frezze_index = self._df.columns.to_list().index(index) + 2
         self._df.to_excel(name, freeze_panes=(1, frezze_index))
 
         wb = openpyxl.load_workbook(name)
         ws = wb.active
-        set_styles(ws, frezze_index)
-        font = openpyxl.styles.Font(name='Consolas')
+        font = openpyxl.styles.Font(name=EXCEL_FONT)
         for row in ws.iter_rows(min_row=2):
             for cell in row:
                 if cell.value is None:
@@ -72,6 +104,7 @@ class Translation:
                 cell.data_type = 's'
                 cell.quotePrefix = True
                 cell.font = font
+        self.__set_styles(ws, frezze_index)
         wb.save(name)
 
     def save_json(self, name):
@@ -82,15 +115,16 @@ class Translation:
         self._df.replace(float('nan'), '', inplace=True)
         self._df.drop(columns=filter(lambda x: 'Unnamed' in x or re.search(r'_\d', x), self._df.columns), inplace=True)
 
-    def get_translation(self, index='English'):
+    def get_translation(self, index='English', fill_empty=False):
         start_index = self._df.columns.to_list().index(index) + 1
         rows = filter(lambda x: sum([len(y) for y in x[start_index:]]) > 0, self._df.itertuples(index=False))
         df = pd.DataFrame(rows)
         df.set_index(index, drop=False, inplace=True)
-        for row in df.iterrows():
-            for i, cell in enumerate(row[1]):
-                if len(cell) == 0:
-                    row[1][i] = row[0]
+        if fill_empty:
+            for row in df.iterrows():
+                for i, cell in enumerate(row[1]):
+                    if len(cell) == 0:
+                        row[1][i] = row[0]
         return df.to_dict('index')
 
     def set_dataframe(self, df):

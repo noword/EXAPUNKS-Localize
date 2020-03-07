@@ -34,6 +34,12 @@ First at all, you should own this game, you can buy it on [steam](https://store.
 * copy ``Content/vignettes/*`` to ``./export_txt/Content/vignettes``
 * copy ``PackedContent/fonts/*.packedfont`` to ``./font/fonts``
 * copy ``PackedContent/*.tex`` to ``./images/PackedContent``
+  
+  ``Content\vignettes\nivas-3.csv`` miss a double quote at line 9, fix it by youself.
+  
+## 3. (Optional) install fonts
+* install [Wen Quan Yi microhei](https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/)
+* install [Noto Sans Mono CJK](https://www.google.com/get/noto/help/cjk/)
 
 # Translate the texts
 There are three json files in directory ``import_txt``, they need be translated.

@@ -30,9 +30,7 @@ def import_vignettes():
             for row in csv_reader:
                 if len(row) > 1:
                     en = row[1]
-                    if en in trans \
-                            and len(trans[en]) > 0 \
-                            and en != trans[en]:
+                    if en in trans and len(trans[en]) > 0:
                         need_save = True
                         row.extend([trans[en][lang] for lang in ('French', 'Chinese', 'Japanese')])
                 csv_writer.writerow(row)
@@ -61,23 +59,22 @@ def import_descriptions():
             lines = open(name, 'r', encoding='utf_8_sig').readlines()
             for country, abbr in LANGS.items():
                 out = StringIO()
-                need_save = False
+                need_save = True
                 for line in lines:
                     line = line.strip()
                     if len(line) > 0 \
                             and line in trans \
-                            and len(trans[line][country]) \
-                            and line != trans[line][country]:
+                            and len(trans[line][country]) > 0:
                         line = trans[line][country]
-                        need_save = True
+                        # need_save = True
                     out.write(line + '\n')
                 if need_save:
-                    name = name.replace('../export_txt', '../patch').replace('/en', '/' + abbr, 1)
+                    new_name = name.replace('../export_txt', '../patch').replace('/en', '/' + abbr, 1)
                     try:
-                        os.makedirs(os.path.split(name)[0])
+                        os.makedirs(os.path.split(new_name)[0])
                     except BaseException:
                         pass
-                    open(name, 'w', encoding='utf').write(out.getvalue())
+                    open(new_name, 'w', encoding='utf').write(out.getvalue())
 
 
 if __name__ == '__main__':

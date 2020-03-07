@@ -11,5 +11,5 @@ if __name__ == '__main__':
             if ext == '.json':
                 chars |= set(open(os.path.join(root, f), 'r', encoding='utf-8').read())
 
-    chars_list = sorted(chars)
+    chars_list = sorted(filter(lambda x: ord(x) >= 0x20, chars))
     open('../font/chars.txt', 'w', encoding='utf-8').write(''.join(chars_list))

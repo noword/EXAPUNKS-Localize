@@ -8,6 +8,9 @@ from bmfont import Fnt
 from packedfont import PackedFont
 import sys
 
+MONO_FONT_NAME = 'Noto Sans Mono CJK SC Regular'
+NORMAL_FONT_NAME = 'WenQuanYi Micro Hei'
+
 
 def do(name, width=512, height=512):
     print(name)
@@ -19,12 +22,12 @@ def do(name, width=512, height=512):
     font_gen = FontGenerator()
 
     texts = TEXTS
-    pf.f2 *= 1.5
     if 'mono' in name:
-        font_gen.set_font_name("Consolas")
+        font_gen.set_font_name(MONO_FONT_NAME)
         size += 2
     else:
-        font_gen.set_font_name("Arial Unicode MS")
+        font_gen.set_font_name(NORMAL_FONT_NAME)
+
     font_gen.set_font_size(-size)
     font_gen.set_texture_format("png")
     font_gen.set_chars(texts)
@@ -57,7 +60,7 @@ def do(name, width=512, height=512):
             "w": c["width"],
             "h": c["height"],
             "offsetx": c["xoffset"],
-            "offsety": size - fnt.common.base - 3,
+            "offsety": c["yoffset"] - 3 - (fnt.common.lineHeight - fnt.common.base),
             "adv": c["xadvance"]
         })
 
@@ -74,9 +77,6 @@ if __name__ == "__main__":
             codes[-1][1] += 1
         else:
             codes.append([t, t])
-
-    # for i, c in enumerate(codes):
-        # print i, c
 
     for root, dirs, files in os.walk("fonts"):
         for f in files:
