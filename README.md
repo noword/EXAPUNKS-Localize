@@ -35,7 +35,11 @@ First at all, you should own this game, you can buy it on [steam](https://store.
 * copy ``PackedContent/fonts/*.packedfont`` to ``./font/fonts``
 * copy ``PackedContent/*.tex`` to ``./images/PackedContent``
   
-  ``Content\vignettes\nivas-3.csv`` miss a double quote at line 9, fix it by youself.
+  Note: **must** be fixed files:
+
+  ``Content\vignettes\ember-7.csv`` miss a double quote at line 12
+
+  ``Content\vignettes\nivas-3.csv`` miss a double quote at line 9  
   
 ## 3. install fonts (optional) 
 * install [Wen Quan Yi microhei](https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/)
