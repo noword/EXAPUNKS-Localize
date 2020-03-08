@@ -6308,7 +6308,7 @@
         "Role":"Moss",
         "English":"Sometimes.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"有时候。",
         "Japanese":""
     },
     {
@@ -8860,7 +8860,7 @@
         "Role":"mutex8021",
         "English":"so uh ne1 here play kings ransom online",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这儿有人玩 kings ransom online",
         "Japanese":""
     },
     {
@@ -8868,7 +8868,7 @@
         "Role":"deadlock",
         "English":"not me",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不玩",
         "Japanese":""
     },
     {
@@ -8876,7 +8876,7 @@
         "Role":"selenium_wolf",
         "English":"is that the game where you take over castles and stuff?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是个管理城堡什么的游戏吗？",
         "Japanese":""
     },
     {
@@ -8884,7 +8884,7 @@
         "Role":"mutex8021",
         "English":"yea its fun",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的，很有意思",
         "Japanese":""
     },
     {
@@ -8892,7 +8892,7 @@
         "Role":"mutex8021",
         "English":"my guild just finished building a wizards tower",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我的行会刚刚造好了一座巫师塔",
         "Japanese":""
     },
     {
@@ -8900,7 +8900,7 @@
         "Role":"mutex8021",
         "English":"took us almost 6 months :)",
         "French":"",
-        "Chinese":"",
+        "Chinese":"用了我们差不多 6 个月的时间 :)",
         "Japanese":""
     },
     {
@@ -8908,7 +8908,7 @@
         "Role":"selenium_wolf",
         "English":"maybe ill give it a try one day",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许有一天我会尝试一下",
         "Japanese":""
     },
     {
@@ -8916,7 +8916,7 @@
         "Role":"selenium_wolf",
         "English":"assuming I get any free time ever",
         "French":"",
-        "Chinese":"",
+        "Chinese":"假设我有任何闲暇时间的话",
         "Japanese":""
     },
     {
@@ -8924,7 +8924,7 @@
         "Role":"deadlock",
         "English":"busy?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"忙？",
         "Japanese":""
     },
     {
@@ -8932,7 +8932,7 @@
         "Role":"selenium_wolf",
         "English":"very",
         "French":"",
-        "Chinese":"",
+        "Chinese":"非常忙",
         "Japanese":""
     },
     {
@@ -12348,7 +12348,7 @@
         "Role":"EMBER-2",
         "English":"Ah, this old game.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"啊，这个老游戏。",
         "Japanese":""
     },
     {
@@ -12356,7 +12356,7 @@
         "Role":"EMBER-2",
         "English":"It’s just how I remember it...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"还是我记忆中的样子...",
         "Japanese":""
     },
     {
@@ -12364,7 +12364,7 @@
         "Role":"EMBER-2",
         "English":"A testbed for goal-seeking behaviors regulated by emotional reasoning.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"通过情绪化推理，运行目标搜索算法的试验平台。",
         "Japanese":""
     },
     {
@@ -12372,7 +12372,7 @@
         "Role":"EMBER-2",
         "English":"Do you like to play games?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你喜欢玩游戏吗？",
         "Japanese":""
     },
     {
@@ -12380,7 +12380,7 @@
         "Role":"Moss",
         "English":"I do, yeah.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的。",
         "Japanese":""
     },
     {
@@ -12388,7 +12388,7 @@
         "Role":"",
         "English":"Not really.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不咋样。",
         "Japanese":""
     },
     {
@@ -12396,7 +12396,7 @@
         "Role":"EMBER-2",
         "English":"Me too.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我也是。",
         "Japanese":""
     },
     {
@@ -12404,7 +12404,7 @@
         "Role":"",
         "English":"Picky, are we?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"挑三拣四，是吗？",
         "Japanese":""
     },
     {
@@ -12412,7 +12412,7 @@
         "Role":"",
         "English":"I find them useful for research.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我发现它们对研究很有用。",
         "Japanese":""
     },
     {
@@ -12420,7 +12420,7 @@
         "Role":"EMBER-2",
         "English":"They’re like fuzzy little teleological mechanisms.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"他们就像是为了完成一个个小目标的机械装置。",
         "Japanese":""
     },
     {
@@ -12428,7 +12428,7 @@
         "Role":"",
         "English":"Well, this one’s fun.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好吧，这个很有趣。",
         "Japanese":""
     },
     {
@@ -12436,7 +12436,7 @@
         "Role":"",
         "English":"There’s always a lot of data to analyze.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"总是有很多数据需要分析。",
         "Japanese":""
     },
     {
@@ -12444,7 +12444,7 @@
         "Role":"EMBER-2",
         "English":"If you ever need a break from hacking, this is a good choice.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"如果你要在黑客生涯的间隙喘口气，这是一个不错的选择。",
         "Japanese":""
     },
     {
@@ -12452,7 +12452,7 @@
         "Role":"EMBER-2",
         "English":"It’s mildly active, and not as taxing as putting together EXAs.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"它活跃度很高，而且不像把 EXA 放在一起那样费力。",
         "Japanese":""
     },
     {
@@ -12460,7 +12460,7 @@
         "Role":"EMBER-2",
         "English":"See how I am keeping your needs in mind.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"看看我多么在乎你的需求。",
         "Japanese":""
     },
     {
@@ -12468,7 +12468,7 @@
         "Role":"",
         "English":"Do you really?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你是认真的吗？",
         "Japanese":""
     },
     {
@@ -12476,7 +12476,7 @@
         "Role":"",
         "English":"Only because you need me to do work for you...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"仅仅是因为你需要我为你做事...",
         "Japanese":""
     },
     {
@@ -12484,7 +12484,7 @@
         "Role":"",
         "English":"I absolutely do.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我绝对会的。",
         "Japanese":""
     },
     {
@@ -12492,7 +12492,7 @@
         "Role":"",
         "English":"That’s a valid reason, isn’t it?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这是有道理的，不是吗？",
         "Japanese":""
     },
     {
@@ -12500,7 +12500,7 @@
         "Role":"EMBER-2",
         "English":"Appreciating me will make things easier.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"欣赏我会使事情变得容易。",
         "Japanese":""
     },
     {
@@ -12508,7 +12508,7 @@
         "Role":"",
         "English":"No question about it.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"毫无疑问。",
         "Japanese":""
     },
     {
@@ -12516,7 +12516,7 @@
         "Role":"",
         "English":"Would you rather I pretended to be in love with you?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你愿意让我假装爱上你吗？",
         "Japanese":""
     },
     {
@@ -13508,7 +13508,7 @@
         "Role":"mutex8021",
         "English":"ne1 around??",
         "French":"",
-        "Chinese":"ne1在吗？？",
+        "Chinese":"有人吗？？",
         "Japanese":""
     },
     {
