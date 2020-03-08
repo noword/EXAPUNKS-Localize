@@ -9,12 +9,13 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('json_name', action='store', nargs="?")
     parser.add_argument('excel_name', action='store', nargs="?")
+    parser.add_argument('--auto', action='store_true')
     args = parser.parse_args()
 
     if args.json_name is not None:
         excel_name = args.excel_name
         if excel_name is None:
             excel_name = os.path.splitext(args.json_name)[0] + '.xlsx'
-        convert(args.json_name, excel_name)
+        convert(args.json_name, excel_name, args.auto)
     else:
-        convert_all('.json', '.xlsx')
+        convert_all('.json', '.xlsx', args.auto)

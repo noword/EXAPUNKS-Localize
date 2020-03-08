@@ -78,7 +78,10 @@ json2excel.py EXAPUNKS_descriptions.json
 ```
 json2excel.py
 ```  
-
+自动根据更新日期决定是否需要覆盖
+```
+json2excel.py --auto
+```
 
 # 修改图片
 运行 ``images/export_imgs.py`` 

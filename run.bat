@@ -1,6 +1,6 @@
 cd import_txt
 :: Convert all xlsx files to json
-excel2json.py
+excel2json.py --auto
 :: Grab used character in json, save them to font/chars.txt
 get_chars.py
 :: Read translated texts, generate the text patch

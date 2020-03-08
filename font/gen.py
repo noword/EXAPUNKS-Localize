@@ -21,8 +21,7 @@ def do(name, width=512, height=512):
     print(pf.f0, pf.f1, pf.f2, size)
     font_gen = FontGenerator()
 
-    texts = TEXTS
-    if 'mono' in name:
+    if 'mono' in name or size <= 13:
         font_gen.set_font_name(MONO_FONT_NAME)
         size += 2
     else:
@@ -30,7 +29,7 @@ def do(name, width=512, height=512):
 
     font_gen.set_font_size(-size)
     font_gen.set_texture_format("png")
-    font_gen.set_chars(texts)
+    font_gen.set_chars(TEXTS)
     font_gen.set_texture_size(width, height)
     font_gen.set_fixed_height(True)
     font_gen.set_enable_kernings(False)

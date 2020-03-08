@@ -78,7 +78,11 @@ json2excel.py EXAPUNKS_descriptions.json
 traverse current directory, generate .xlsx files from  all .json files.  
 ```
 json2excel.py
-```  
+```
+automatically decide whether to overwrite based on update date
+```
+json2excel.py --auto
+```
 
 # Modify the textures
 Run ``images/export_imgs.py`` 
