@@ -16,12 +16,12 @@ def do(name, width=512, height=512):
     print(name)
     pf = PackedFont(open(name, "rb"))
     size = int(pf.f0)
-    if size < 13:
-        size = 13
+    if size < 14:
+        size = 14
     print(pf.f0, pf.f1, pf.f2, size)
     font_gen = FontGenerator()
 
-    if 'mono' in name or size <= 13:
+    if 'mono' in name or size == 14:
         font_gen.set_font_name(MONO_FONT_NAME)
         size += 2
     else:
