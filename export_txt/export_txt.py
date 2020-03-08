@@ -17,7 +17,7 @@ def export_vignettes():
             for row in csv_reader:
                 if len(row) > 1:
                     en = row[1]
-                    if en not in original:
+                    if len(en) > 0 and en not in original:
                         original.add(en)
                         if en in trans:
                             data.append(trans[en])
@@ -37,7 +37,7 @@ def export_descriptions():
         for f in files:
             for line in open(os.path.join(root, f), 'r', encoding='utf_8_sig'):
                 line = line.strip()
-                if line not in original:
+                if len(line) > 0 and line not in original:
                     original.add(line)
                     if line in trans:
                         data.append(trans[line])

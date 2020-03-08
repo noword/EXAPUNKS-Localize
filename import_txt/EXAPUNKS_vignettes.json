@@ -1113,14 +1113,6 @@
     },
     {
         "FileName":"battle-1.csv",
-        "Role":"SECTION-PRE",
-        "English":"",
-        "French":"",
-        "Chinese":"",
-        "Japanese":""
-    },
-    {
-        "FileName":"battle-1.csv",
         "Role":"EMBER-2",
         "English":"You’re going to join in on a hacker battle?",
         "French":"",
