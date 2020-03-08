@@ -15,19 +15,19 @@ NORMAL_FONT_NAME = 'WenQuanYi Micro Hei'
 def do(name, width=512, height=512):
     print(name)
     pf = PackedFont(open(name, "rb"))
-    size = int(pf.f0)
-    if size < 14:
-        size = 14
+    size = int(pf.f2)
+    if size < 13:
+        size = 13
     print(pf.f0, pf.f1, pf.f2, size)
     font_gen = FontGenerator()
 
-    if 'mono' in name or size == 14:
+    if 'mono' in name or 'pixel' in name:
         font_gen.set_font_name(MONO_FONT_NAME)
-        size += 2
+        size = int(size * 1.3)
     else:
         font_gen.set_font_name(NORMAL_FONT_NAME)
 
-    font_gen.set_font_size(-size)
+    font_gen.set_font_size(size)
     font_gen.set_texture_format("png")
     font_gen.set_chars(TEXTS)
     font_gen.set_texture_size(width, height)

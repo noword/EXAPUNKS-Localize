@@ -108,7 +108,7 @@ class Translation:
         wb.save(name)
 
     def save_json(self, name):
-        json_str = self._df.to_json(force_ascii=False, indent=4)
+        json_str = self._df.to_json(orient='records', force_ascii=False, indent=4)
         open(name, 'w', encoding='utf-8').write(json_str)
 
     def __process_dataframe(self):

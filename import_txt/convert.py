@@ -14,8 +14,8 @@ def convert(input_name, output_name, auto=False):
                 return
             elif input('file "%s" is newer, overwrite? [Y/N]' % output_name).lower() != 'y':
                 return
-        print('%s ==> %s' % (input_name, output_name))
-        Translation(input_name).save(output_name)
+    print('%s ==> %s' % (input_name, output_name))
+    Translation(input_name).save(output_name)
 
 
 def convert_all(input_ext, output_ext, auto=False):
