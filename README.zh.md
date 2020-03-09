@@ -45,6 +45,8 @@
 
 你可以运行``json2excel.py`` 从 json 文件生成 excel 文件，然后在 M$ Excel 或 LibreOffice calc 或随便哪个电子表格编辑器中进行编辑翻译。
 
+![](screenshot/excel_example.gif)
+
 * ``EXAPUNKS_descriptions.json``
 
     抓取自 Content/descriptions/*.txt

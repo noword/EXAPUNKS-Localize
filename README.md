@@ -50,6 +50,8 @@ There are three json files in directory ``import_txt``, they need be translated.
 
 You could run ``json2excel.py`` to generate excel files from these json files, then edit them in M$ Excel or LibreOffice calc or whatever spreadsheet editor.
 
+![](screenshot/excel_example.gif)
+
 * ``EXAPUNKS_descriptions.json``
 
     Grabbed from Content/descriptions/*.txt
