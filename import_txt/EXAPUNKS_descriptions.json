@@ -1094,7 +1094,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在 * users * 主机中找到 EMBER-2 的用户文件，并覆盖它，以使总和相同，但单个值均不超过 $75。 除最后一个值外，所有值都必须为最大值（$75）。 你将需要添加其他的变量来完成此操作。",
         "Japanese":""
     },
     {
@@ -1103,7 +1103,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"EMBER-2 的用户名在文件 300 中 。",
         "Japanese":""
     },
     {
@@ -1112,7 +1112,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"注意，EMBER-2 帐户中的总和，应始终小于10,000美元。",
         "Japanese":""
     },
     {

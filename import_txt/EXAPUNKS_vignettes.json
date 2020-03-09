@@ -796,7 +796,7 @@
         "Role":"",
         "English":"You’re welcome.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"别客气。",
         "Japanese":""
     },
     {
@@ -3812,7 +3812,7 @@
         "Role":"EMBER-2",
         "English":"I have an important question for you.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我有一个重要的问题要问你。",
         "Japanese":""
     },
     {
@@ -3820,15 +3820,15 @@
         "Role":"EMBER-2",
         "English":"Imagine there’s an out-of-control trolley, and five humans tied up on the track ahead of it.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"想象一下，那里有一辆失控的有轨电车，有五个人被绑在前面的轨道上。",
         "Japanese":""
     },
     {
         "FileName":"ember-2.csv",
         "Role":"EMBER-2",
-        "English":"But, you can stop the trolley by... hm.",
+        "English":"But, you can stop the trolley by... hm",
         "French":"",
-        "Chinese":"",
+        "Chinese":"但是，你可以将车停下...嗯。",
         "Japanese":""
     },
     {
@@ -3836,7 +3836,7 @@
         "Role":"EMBER-2",
         "English":"Maybe if...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"如果...",
         "Japanese":""
     },
     {
@@ -3844,7 +3844,7 @@
         "Role":"Moss",
         "English":"Throwing a switch?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"猛击一个开关？",
         "Japanese":""
     },
     {
@@ -3852,7 +3852,7 @@
         "Role":"",
         "English":"Pushing someone in front of it?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"把某人推到前面？",
         "Japanese":""
     },
     {
@@ -3860,7 +3860,7 @@
         "Role":"",
         "English":"Blowing up the trolley?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"炸了电车？",
         "Japanese":""
     },
     {
@@ -3868,7 +3868,7 @@
         "Role":"EMBER-2",
         "English":"No, that wasn’t the one I was going to ask.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不，那不是我要问的。",
         "Japanese":""
     },
     {
@@ -3876,7 +3876,7 @@
         "Role":"EMBER-2",
         "English":"Recalibrating.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"重新校准。",
         "Japanese":""
     },
     {
@@ -3884,7 +3884,7 @@
         "Role":"EMBER-2",
         "English":"Say you had a friend, and you knew the friend could help you become stronger.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"假设你有一个朋友，并且你知道他可以帮你变得更强。",
         "Japanese":""
     },
     {
@@ -3892,7 +3892,7 @@
         "Role":"EMBER-2",
         "English":"Would you ask for their help?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你会向他寻求帮助吗？",
         "Japanese":""
     },
     {
@@ -3916,7 +3916,7 @@
         "Role":"",
         "English":"I don’t know enough about the situation to say.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不知道足够的情况，我说不上来。",
         "Japanese":""
     },
     {
@@ -3924,7 +3924,7 @@
         "Role":"EMBER-2",
         "English":"Let’s say it was a situation where the friend had to sacrifice something in order for that to occur.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"假设，朋友必须牺牲些东西才能让这发生。",
         "Japanese":""
     },
     {
@@ -3932,7 +3932,7 @@
         "Role":"",
         "English":"Probably not?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"可能不会？",
         "Japanese":""
     },
     {
@@ -3940,7 +3940,7 @@
         "Role":"",
         "English":"I still don’t know enough about the situation to say.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我还是知道得不够。",
         "Japanese":""
     },
     {
@@ -3956,7 +3956,7 @@
         "Role":"EMBER-2",
         "English":"Good to know.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"很高兴知道了。",
         "Japanese":""
     },
     {
@@ -3964,7 +3964,7 @@
         "Role":"EMBER-2",
         "English":"I am going to process this information.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我将会处理这条信息。",
         "Japanese":""
     },
     {
@@ -4028,7 +4028,7 @@
         "Role":"EMBER-2",
         "English":"Say there’s a trolley on a track heading toward five people.",
         "French":"",
-        "Chinese":"假设有一辆火车，面对五个人。",
+        "Chinese":"假设有一辆有轨电车，面对五个人。",
         "Japanese":""
     },
     {
@@ -4044,7 +4044,7 @@
         "Role":"Moss",
         "English":"Go on.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"继续。",
         "Japanese":""
     },
     {
@@ -4052,7 +4052,7 @@
         "Role":"",
         "English":"Not this again...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不会又来吧。",
         "Japanese":""
     },
     {
@@ -6044,7 +6044,7 @@
         "Role":"EMBER-2",
         "English":"Yeah? Like Ghast? The EXAPUNKS?",
         "French":"",
-        "Chinese":"是吗？就像 Ghast？那群 EXA朋克？",
+        "Chinese":"是吗？就像 Ghast？还有那群 EXA 朋克？",
         "Japanese":""
     },
     {
@@ -6092,7 +6092,7 @@
         "Role":"EMBER-2",
         "English":"Do friends not communicate back and forth?",
         "French":"",
-        "Chinese":"朋友间不互相交流吗？",
+        "Chinese":"朋友间不应该互相交流吗？",
         "Japanese":""
     },
     {
@@ -8404,7 +8404,7 @@
         "Role":"mutex8021",
         "English":"stepping too much in exodus",
         "French":"",
-        "Chinese":"在 exodus 中单步执行了很多次",
+        "Chinese":"在 exodus 中单步执行了太多次",
         "Japanese":""
     },
     {
@@ -8436,7 +8436,7 @@
         "Role":"mutex8021",
         "English":"i didn't know",
         "French":"",
-        "Chinese":"我不知道",
+        "Chinese":"我不知道这个",
         "Japanese":""
     },
     {
@@ -8452,7 +8452,7 @@
         "Role":"mutex8021",
         "English":"too late for tab key :(",
         "French":"",
-        "Chinese":"对 tab 键来说，太晚了 :(",
+        "Chinese":"但对 tab 键来说，已经太晚了 :(",
         "Japanese":""
     },
     {
@@ -8796,7 +8796,7 @@
         "Role":"Nivas",
         "English":"I found out something interesting the other day.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"前几天我发现了一些有趣的东西。",
         "Japanese":""
     },
     {
@@ -8804,7 +8804,7 @@
         "Role":"Nivas",
         "English":"You ever hear about these things called EXAs?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你听说过这些叫做 EXA 的东西吗？",
         "Japanese":""
     },
     {
@@ -8812,7 +8812,7 @@
         "Role":"Nivas",
         "English":"They’re these little guys running around inside computers.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"它们是些在计算机内部到处乱跑的小家伙。",
         "Japanese":""
     },
     {
@@ -8820,7 +8820,7 @@
         "Role":"Nivas",
         "English":"They make it all work. Banks, commerce, government... anything you can think of.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"它们在所有地方运作。银行，商业，政府...任何你能想到的。",
         "Japanese":""
     },
     {
@@ -8828,7 +8828,7 @@
         "Role":"Nivas",
         "English":"Funny, how it’s all based on the same stuff on the inside.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"有趣的是，这全部是基于内部的相同的东东。",
         "Japanese":""
     },
     {
@@ -8836,7 +8836,7 @@
         "Role":"Nivas",
         "English":"Just something I’ve been thinking about lately.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这是我最近一直在考虑的事儿。",
         "Japanese":""
     },
     {
@@ -12452,7 +12452,7 @@
         "Role":"EMBER-2",
         "English":"It’s mildly active, and not as taxing as putting together EXAs.",
         "French":"",
-        "Chinese":"它活跃度很高，而且不像把 EXA 放在一起那样费力。",
+        "Chinese":"它有点用，而且不像把 EXA 放在一起那样费力。",
         "Japanese":""
     },
     {
@@ -13564,7 +13564,7 @@
         "Role":"EMBER-2",
         "English":"I’m probably going too fast.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"可能是我的速度太快了。",
         "Japanese":""
     },
     {
@@ -13572,7 +13572,7 @@
         "Role":"",
         "English":"Oops.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"诶哟。",
         "Japanese":""
     },
     {
@@ -13580,7 +13580,7 @@
         "Role":"",
         "English":"I may have been too fast.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许是我太快了。",
         "Japanese":""
     },
     {
@@ -13596,7 +13596,7 @@
         "Role":"EMBER-2",
         "English":"Once again.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"再来。",
         "Japanese":""
     },
     {
@@ -13604,7 +13604,7 @@
         "Role":"EMBER-2",
         "English":"Guess we have to clear this up.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我想我们必须解决这个问题。",
         "Japanese":""
     },
     {
@@ -13716,7 +13716,7 @@
         "Role":"x10x10x",
         "English":"hey =p how’s the wardialer",
         "French":"",
-        "Chinese":"",
+        "Chinese":"嗨 =p wardialer 怎么样了？",
         "Japanese":""
     },
     {
@@ -13724,7 +13724,7 @@
         "Role":"x10x10x",
         "English":"is it working now",
         "French":"",
-        "Chinese":"",
+        "Chinese":"现在能用了吗？",
         "Japanese":""
     },
     {
@@ -13732,7 +13732,7 @@
         "Role":"plastered",
         "English":"it works yeah",
         "French":"",
-        "Chinese":"",
+        "Chinese":"能用了耶",
         "Japanese":""
     },
     {
@@ -13740,7 +13740,7 @@
         "Role":"plastered",
         "English":"but its kinda… slow",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不过有点...慢",
         "Japanese":""
     },
     {
@@ -13748,7 +13748,7 @@
         "Role":"selenium_wolf",
         "English":"it takes time to dial a number",
         "French":"",
-        "Chinese":"",
+        "Chinese":"要花时间拨打号码",
         "Japanese":""
     },
     {
@@ -13756,7 +13756,7 @@
         "Role":"plastered",
         "English":"yeah so",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的",
         "Japanese":""
     },
     {
@@ -13764,7 +13764,7 @@
         "Role":"plastered",
         "English":"im thinking i need to paraleleize",
         "French":"",
-        "Chinese":"我想我需要并型",
+        "Chinese":"我想我需要栟发运行",
         "Japanese":""
     },
     {
@@ -13772,7 +13772,7 @@
         "Role":"plastered",
         "English":"pararllellize",
         "French":"",
-        "Chinese":"并形",
+        "Chinese":"饼发运行",
         "Japanese":""
     },
     {
@@ -13780,7 +13780,7 @@
         "Role":"Ghast",
         "English":"parallelize.",
         "French":"",
-        "Chinese":"并行",
+        "Chinese":"并发运行",
         "Japanese":""
     },
     {
