@@ -54,46 +54,31 @@ class Translation:
         else:
             raise TypeError('not support type: "%s"' % ext)
 
-    def __set_styles(self, ws, frezze_index):
-        org_fill = openpyxl.styles.GradientFill(
-            stop=(
-                self.theme.original_background_color_start,
-                self.theme.original_background_color_end))
+    def __set_excel_styles(self, workbook, frezze_index):
+        org_fill = openpyxl.styles.GradientFill(stop=(self.theme.original_background_color_start,
+                                                      self.theme.original_background_color_end))
         org_font = openpyxl.styles.Font(name=EXCEL_FONT, color=self.theme.original_color)
-        trans_fill = openpyxl.styles.GradientFill(
-            stop=(
-                self.theme.translation_background_color_start,
-                self.theme.translation_background_color_end))
+
+        trans_fill = openpyxl.styles.GradientFill(stop=(self.theme.translation_background_color_start,
+                                                        self.theme.translation_background_color_end))
         trans_font = openpyxl.styles.Font(name=EXCEL_FONT, color=self.theme.translation_color)
+
+        font = openpyxl.styles.Font(name=EXCEL_FONT)
 
         border = Border(left=Side(style='hair'),
                         right=Side(style='hair'),
                         top=Side(style='hair'),
                         bottom=Side(style='hair'),
                         )
+
         rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
                                                    formula=['""'],
                                                    border=border,
                                                    fill=trans_fill,
                                                    font=trans_font)
-        cond_start = chr(ord('A') + frezze_index) + '2'
-        cond_end = chr(ord('A') + ws.max_column - 1) + str(ws.max_row)
-        ws.conditional_formatting.add('%s:%s' % (cond_start, cond_end), rule)
 
-        start = chr(ord('A') + frezze_index - 1)
-        index_cells = ws['%s2:%s%d' % (start, start, ws.max_row)]
-        for cell in index_cells:
-            cell[0].fill = org_fill
-            cell[0].font = org_font
-            cell[0].border = border
-
-    def save_excel(self, name, index='English'):
-        frezze_index = self._df.columns.to_list().index(index) + 2
-        self._df.to_excel(name, freeze_panes=(1, frezze_index))
-
-        wb = openpyxl.load_workbook(name)
-        ws = wb.active
-        font = openpyxl.styles.Font(name=EXCEL_FONT)
+        ws = workbook.active
+        # the global style
         for row in ws.iter_rows(min_row=2):
             for cell in row:
                 if cell.value is None:
@@ -104,7 +89,25 @@ class Translation:
                 cell.data_type = 's'
                 cell.quotePrefix = True
                 cell.font = font
-        self.__set_styles(ws, frezze_index)
+
+        # the translation style
+        cond_start = chr(ord('A') + frezze_index) + '2'
+        cond_end = chr(ord('A') + ws.max_column - 1) + str(ws.max_row)
+        ws.conditional_formatting.add('%s:%s' % (cond_start, cond_end), rule)
+
+        # the original style
+        start = chr(ord('A') + frezze_index - 1)
+        index_cells = ws['%s2:%s%d' % (start, start, ws.max_row)]
+        for cell in index_cells:
+            cell[0].fill = org_fill
+            cell[0].font = org_font
+            cell[0].border = border
+
+    def save_excel(self, name, index='English'):
+        frezze_index = self._df.columns.to_list().index(index) + 2
+        self._df.to_excel(name, freeze_panes=(1, frezze_index))
+        wb = openpyxl.load_workbook(name)
+        self.__set_excel_styles(wb, frezze_index)
         wb.save(name)
 
     def save_json(self, name):
