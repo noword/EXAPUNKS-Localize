@@ -11,12 +11,15 @@ EXCEL_FONT = 'WenQuanYi Micro Hei Mono'
 
 
 class Theme:
+    header_background_color_start = 'FCF3CF'
+    header_background_color_end = 'FEF9E7'
+    header_color = '333300'
     original_background_color_start = 'D6EAF8'
     original_background_color_end = 'EAFAF1'
-    original_color = '000000'
+    original_color = '000033'
     translation_background_color_start = 'D5F5E3'
     translation_background_color_end = 'EAFAF1'
-    translation_color = '000000'
+    translation_color = '003300'
 
 
 class DarkTheme:
@@ -55,6 +58,10 @@ class Translation:
             raise TypeError('not support type: "%s"' % ext)
 
     def __set_excel_styles(self, workbook, frezze_index):
+        header_fill = openpyxl.styles.GradientFill(stop=(self.theme.header_background_color_start,
+                                                         self.theme.header_background_color_end))
+        header_font = openpyxl.styles.Font(name=EXCEL_FONT, bold=True, color=self.theme.header_color)
+
         org_fill = openpyxl.styles.GradientFill(stop=(self.theme.original_background_color_start,
                                                       self.theme.original_background_color_end))
         org_font = openpyxl.styles.Font(name=EXCEL_FONT, color=self.theme.original_color)
@@ -79,7 +86,7 @@ class Translation:
 
         ws = workbook.active
         # the global style
-        for row in ws.iter_rows(min_row=2):
+        for i, row in enumerate(ws.iter_rows()):
             for cell in row:
                 if cell.value is None:
                     cell.value = ''
@@ -88,7 +95,12 @@ class Translation:
                 cell.number_format = '@'
                 cell.data_type = 's'
                 cell.quotePrefix = True
-                cell.font = font
+
+                if i == 0:
+                    cell.font = header_font
+                    cell.fill = header_fill
+                else:
+                    cell.font = font
 
         # the translation style
         cond_start = chr(ord('A') + frezze_index) + '2'

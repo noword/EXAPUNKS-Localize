@@ -4212,7 +4212,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"让自动柜员机吐出现金。",
         "Japanese":""
     },
     {
@@ -4228,7 +4228,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"心脏",
         "Japanese":""
     },
     {
@@ -4236,7 +4236,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"黑入心脏，使其继续正常跳动。",
         "Japanese":""
     },
     {
@@ -26660,7 +26660,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"人头牌安装 *同花色* 和 *不论次序* 的规则来堆叠并移动。但是，一堆完整的人头牌直接放上桌板后 ，将无法移动。",
+        "Chinese":"花面牌安装 *同花色* 和 *不论次序* 的规则来堆叠并移动。但是，一堆完整的花面牌放上桌板后 ，将无法移动。",
         "Japanese":""
     },
     {
@@ -26668,7 +26668,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"要赢得游戏，请排好四叠数字牌和四叠人头牌。",
+        "Chinese":"要赢得游戏，请排好四叠数字牌和四叠花面牌。",
         "Japanese":""
     },
     {

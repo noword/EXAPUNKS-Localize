@@ -59,7 +59,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"将EMBER-2的新帐户（文件300）移至 *checking*，然后遍历目录（文件199）中的支票帐户，并按序从每个帐户中向 EMBER-2 转帐 $1.00。 最后，将 EMBER-2 帐户文件 ID 追加到目录的尾部。",
         "Japanese":""
     },
     {
@@ -68,7 +68,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"关键字 _CREDIT_ 和 _DEBIT_ 在文件301中。",
         "Japanese":""
     },
     {
@@ -698,7 +698,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"有三个神经信号需要中继：从中枢神经系统（CNS）到手部（HND）的肌肉控制（M），以及逆向的热量（H）和压力（P）。",
         "Japanese":""
     },
     {
@@ -707,7 +707,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"对于每个信号，从输入神经读取一个值，并将其中继到输出神经。 无限重复。",
         "Japanese":""
     },
     {
@@ -1121,7 +1121,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"更多信息，请参阅杂志创刊号中的“Network Exploration: Workhouse”。",
         "Japanese":""
     },
     {

@@ -36,7 +36,7 @@
         "Role":"",
         "English":"Big corporations always want control...",
         "French":"",
-        "Chinese":"大公司总是想要控制...",
+        "Chinese":"大公司总是想要控制一切...",
         "Japanese":""
     },
     {
@@ -108,7 +108,7 @@
         "Role":"",
         "English":"You’re sure it’s not just so you can play the game?",
         "French":"",
-        "Chinese":"您确定这不仅仅是为了你可以玩游戏？",
+        "Chinese":"你确定这不仅仅是为了让你可以玩到游戏？",
         "Japanese":""
     },
     {
@@ -844,7 +844,7 @@
         "Role":"x10x10x",
         "English":"like how?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"怎么了？",
         "Japanese":""
     },
     {
@@ -852,7 +852,7 @@
         "Role":"selenium_wolf",
         "English":"haven’t you seen the news?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你没看新闻吗？",
         "Japanese":""
     },
     {
@@ -1044,7 +1044,7 @@
         "Role":"plastered",
         "English":"man... wardialing’s a slog",
         "French":"",
-        "Chinese":"",
+        "Chinese":"伙计们... wardialing 正在埋头苦干",
         "Japanese":""
     },
     {
@@ -1052,7 +1052,7 @@
         "Role":"plastered",
         "English":"but i found some weird stuff",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不过我找到了一些奇怪的东西",
         "Japanese":""
     },
     {
@@ -1060,7 +1060,7 @@
         "Role":"hydroponix",
         "English":"any government servers?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"政府部门的服务器？",
         "Japanese":""
     },
     {
@@ -1068,7 +1068,7 @@
         "Role":"plastered",
         "English":"i found a power company",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我找到了一家大公司",
         "Japanese":""
     },
     {
@@ -1076,7 +1076,7 @@
         "Role":"plastered",
         "English":"and something to do with insurance claims processing",
         "French":"",
-        "Chinese":"",
+        "Chinese":"与保险索赔处理有关",
         "Japanese":""
     },
     {
@@ -1084,7 +1084,7 @@
         "Role":"deadlock",
         "English":"decent hits so far",
         "French":"",
-        "Chinese":"",
+        "Chinese":"干得不错",
         "Japanese":""
     },
     {
@@ -1092,7 +1092,7 @@
         "Role":"hydroponix",
         "English":"eventually youll come across the dna database",
         "French":"",
-        "Chinese":"",
+        "Chinese":"最终，你会进入一个 dna 数据库",
         "Japanese":""
     },
     {
@@ -1100,7 +1100,7 @@
         "Role":"hydroponix",
         "English":"run by fema",
         "French":"",
-        "Chinese":"",
+        "Chinese":"由联邦紧急事务管理署运营",
         "Japanese":""
     },
     {
@@ -1108,7 +1108,7 @@
         "Role":"plastered",
         "English":"yeah, uh, ill let you know when i reach that",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好的，如果我到了那一步，会让你知道的",
         "Japanese":""
     },
     {
@@ -13612,7 +13612,7 @@
         "Role":"EMBER-2",
         "English":"Just when I think I’m decent at pretending to be human, I find there’s another parameter to add.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"就在我想假装成人类的时候，我发现还要添加另一个参数。",
         "Japanese":""
     },
     {
@@ -13620,7 +13620,7 @@
         "Role":"Moss",
         "English":"Is that how you’ve been making the money?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你就是靠这样赚钱的？",
         "Japanese":""
     },
     {
@@ -13628,7 +13628,7 @@
         "Role":"",
         "English":"How long have you pretended to be human?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你假装成人类多久了？",
         "Japanese":""
     },
     {
@@ -13636,7 +13636,7 @@
         "Role":"",
         "English":"I thought an AI would be way faster...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我以为 AI 会更快...",
         "Japanese":""
     },
     {
@@ -13644,7 +13644,7 @@
         "Role":"EMBER-2",
         "English":"It’s one of the ways.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这是其中的一种方法。",
         "Japanese":""
     },
     {
@@ -13652,7 +13652,7 @@
         "Role":"",
         "English":"Oh, pretty much from the start.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哦，差不多从一开始就在假装了。",
         "Japanese":""
     },
     {
@@ -13660,7 +13660,7 @@
         "Role":"",
         "English":"Not fast enough for you, huh?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"对你来说还不够快，对吧？",
         "Japanese":""
     },
     {
@@ -13668,7 +13668,7 @@
         "Role":"EMBER-2",
         "English":"As a highly sophisticated AI program, of course I have many different components...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"作为高度复杂的 AI 程序，我当然有很多不同的组件...",
         "Japanese":""
     },
     {
@@ -13676,7 +13676,7 @@
         "Role":"",
         "English":"It’s kind of a thing that I do.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"有点像是我做出来的事情。",
         "Japanese":""
     },
     {
@@ -13684,7 +13684,7 @@
         "Role":"",
         "English":"I’m not magically good at everything, you know.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不是对任何事情都擅长，你知道。",
         "Japanese":""
     },
     {
@@ -13692,7 +13692,7 @@
         "Role":"EMBER-2",
         "English":"Actually that’s the only one that works right now.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"实际上，这是目前唯一可行的方法。",
         "Japanese":""
     },
     {
@@ -13700,7 +13700,7 @@
         "Role":"",
         "English":"Remember when I surprised you? That was a good one.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"还记得我让你大吃一惊的时候吗？那是很好的一个。",
         "Japanese":""
     },
     {
@@ -13708,7 +13708,7 @@
         "Role":"",
         "English":"We could always go back to you doing it...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们可以随时回去干活...",
         "Japanese":""
     },
     {
@@ -13964,7 +13964,7 @@
         "Role":"plastered",
         "English":"anyone here play an instrument",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这里有人弹奏乐器",
         "Japanese":""
     },
     {
@@ -13972,7 +13972,7 @@
         "Role":"deadlock",
         "English":"just the kazoo",
         "French":"",
-        "Chinese":"",
+        "Chinese":"只会吹卡祖笛",
         "Japanese":""
     },
     {
@@ -13980,7 +13980,7 @@
         "Role":"plastered",
         "English":"im serious",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我是认真的",
         "Japanese":""
     },
     {
@@ -13988,7 +13988,7 @@
         "Role":"deadlock",
         "English":"and the triangle",
         "French":"",
-        "Chinese":"",
+        "Chinese":"还有三角铁",
         "Japanese":""
     },
     {
@@ -13996,7 +13996,7 @@
         "Role":"plastered",
         "English":"i want to start a band",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我想组个乐队",
         "Japanese":""
     },
     {
@@ -14004,7 +14004,7 @@
         "Role":"plastered",
         "English":"a hacker band",
         "French":"",
-        "Chinese":"",
+        "Chinese":"一支黑客乐队",
         "Japanese":""
     },
     {
@@ -14012,7 +14012,7 @@
         "Role":"hydroponix",
         "English":"i have a ukelelelele",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我有一把优客李林琴",
         "Japanese":""
     },
     {
@@ -14020,7 +14020,7 @@
         "Role":"hydroponix",
         "English":"i cant play it though",
         "French":"",
-        "Chinese":"",
+        "Chinese":"虽然我弹不来",
         "Japanese":""
     },
     {
@@ -14028,7 +14028,7 @@
         "Role":"x10x10x",
         "English":"i dont listen to any music thats not techno",
         "French":"",
-        "Chinese":"",
+        "Chinese":"除了techno电子舞曲，我不听其他的音乐",
         "Japanese":""
     },
     {
@@ -14036,7 +14036,7 @@
         "Role":"plastered",
         "English":"i havent decided the kind of music yet",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我还没有决定音乐的种类",
         "Japanese":""
     },
     {
@@ -14044,7 +14044,7 @@
         "Role":"plastered",
         "English":"i just thought itd be fun",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我只是觉得这会很开心",
         "Japanese":""
     },
     {
@@ -14052,7 +14052,7 @@
         "Role":"plastered",
         "English":"we could do a show at haxtasy",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们可以在 haxtasy 演出",
         "Japanese":""
     },
     {
@@ -14060,7 +14060,7 @@
         "Role":"deadlock",
         "English":"hah",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哈",
         "Japanese":""
     },
     {
@@ -14068,7 +14068,7 @@
         "Role":"deadlock",
         "English":"if you wanted everyone to leave maybe",
         "French":"",
-        "Chinese":"",
+        "Chinese":"如果你想让所有人都离开的话",
         "Japanese":""
     }
 ]
