@@ -26644,7 +26644,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"回到游戏",
         "Japanese":""
     },
     {
@@ -26652,7 +26652,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"数字牌按照 *交替花色* 和 *从大到小* 的规则来堆叠，\\ n任意大小的牌堆都可以一起移动。",
         "Japanese":""
     },
     {
@@ -26660,7 +26660,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"人头牌安装 *同花色* 和 *不论次序* 的规则来堆叠并移动。但是，一堆完整的人头牌直接放上桌板后 ，将无法移动。",
         "Japanese":""
     },
     {
@@ -26668,7 +26668,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"要赢得游戏，请排好四叠数字牌和四叠人头牌。",
         "Japanese":""
     },
     {
@@ -26676,7 +26676,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"右上角的*自由格*可以存储任何类型的单张牌。",
         "Japanese":""
     },
     {
@@ -26684,7 +26684,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"指令",
+        "Chinese":"说明",
         "Japanese":""
     },
     {
