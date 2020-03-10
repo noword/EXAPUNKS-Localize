@@ -13,6 +13,11 @@ def print_percent(name, lang='Chinese'):
 
 def import_strings():
     print_percent('EXAPUNKS_exe.json')
+    for v in Translation('EXAPUNKS_exe.json').check_variables(regex=r'\{\d*\}',
+                                                              org_index='English',
+                                                              trans_index='Chinese',
+                                                              ordered=False):
+        print('Warning: ', v)
     trans = Translation('EXAPUNKS_exe.json').get_translation()
     csv_writer = csv.writer(open('strings.csv', 'w', encoding='utf-8'), lineterminator='\n', escapechar='\\')
     for key, value in trans.items():

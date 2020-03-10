@@ -7,10 +7,11 @@ import openpyxl
 from openpyxl.styles.borders import Border, Side
 
 
-EXCEL_FONT = 'WenQuanYi Micro Hei Mono'
+EXCEL_FONT_NAME = 'WenQuanYi Micro Hei Mono'
 
 
 class Theme:
+    font_name = EXCEL_FONT_NAME
     header_background_color_start = 'FCF3CF'
     header_background_color_end = 'FEF9E7'
     header_color = '333300'
@@ -20,6 +21,27 @@ class Theme:
     translation_background_color_start = 'D5F5E3'
     translation_background_color_end = 'EAFAF1'
     translation_color = '003300'
+
+    def __init__(self):
+        self.header_fill = openpyxl.styles.GradientFill(stop=(self.header_background_color_start,
+                                                              self.header_background_color_end))
+        self.header_font = openpyxl.styles.Font(name=self.font_name, bold=True, color=self.header_color)
+
+        self.org_fill = openpyxl.styles.GradientFill(stop=(self.original_background_color_start,
+                                                           self.original_background_color_end))
+        self.org_font = openpyxl.styles.Font(name=self.font_name, color=self.original_color)
+
+        self.trans_fill = openpyxl.styles.GradientFill(stop=(self.translation_background_color_start,
+                                                             self.translation_background_color_end))
+        self.trans_font = openpyxl.styles.Font(name=self.font_name, color=self.translation_color)
+
+        self.font = openpyxl.styles.Font(name=self.font_name)
+
+        self.border = Border(left=Side(style='hair'),
+                             right=Side(style='hair'),
+                             top=Side(style='hair'),
+                             bottom=Side(style='hair'),
+                             )
 
 
 class DarkTheme:
@@ -40,7 +62,7 @@ class Translation:
     def load(self, name):
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
-            self._df = pd.read_excel(name)
+            self._df = pd.read_excel(name, engine='openpyxl')
         elif ext == '.json':
             self._df = pd.read_json(name)
         else:
@@ -58,31 +80,11 @@ class Translation:
             raise TypeError('not support type: "%s"' % ext)
 
     def __set_excel_styles(self, workbook, frezze_index):
-        header_fill = openpyxl.styles.GradientFill(stop=(self.theme.header_background_color_start,
-                                                         self.theme.header_background_color_end))
-        header_font = openpyxl.styles.Font(name=EXCEL_FONT, bold=True, color=self.theme.header_color)
-
-        org_fill = openpyxl.styles.GradientFill(stop=(self.theme.original_background_color_start,
-                                                      self.theme.original_background_color_end))
-        org_font = openpyxl.styles.Font(name=EXCEL_FONT, color=self.theme.original_color)
-
-        trans_fill = openpyxl.styles.GradientFill(stop=(self.theme.translation_background_color_start,
-                                                        self.theme.translation_background_color_end))
-        trans_font = openpyxl.styles.Font(name=EXCEL_FONT, color=self.theme.translation_color)
-
-        font = openpyxl.styles.Font(name=EXCEL_FONT)
-
-        border = Border(left=Side(style='hair'),
-                        right=Side(style='hair'),
-                        top=Side(style='hair'),
-                        bottom=Side(style='hair'),
-                        )
-
         rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
                                                    formula=['""'],
-                                                   border=border,
-                                                   fill=trans_fill,
-                                                   font=trans_font)
+                                                   border=self.theme.border,
+                                                   fill=self.theme.trans_fill,
+                                                   font=self.theme.trans_font)
 
         ws = workbook.active
         # the global style
@@ -97,10 +99,10 @@ class Translation:
                 cell.quotePrefix = True
 
                 if i == 0:
-                    cell.font = header_font
-                    cell.fill = header_fill
+                    cell.font = self.theme.header_font
+                    cell.fill = self.theme.header_fill
                 else:
-                    cell.font = font
+                    cell.font = self.theme.font
 
         # the translation style
         cond_start = chr(ord('A') + frezze_index) + '2'
@@ -111,9 +113,9 @@ class Translation:
         start = chr(ord('A') + frezze_index - 1)
         index_cells = ws['%s2:%s%d' % (start, start, ws.max_row)]
         for cell in index_cells:
-            cell[0].fill = org_fill
-            cell[0].font = org_font
-            cell[0].border = border
+            cell[0].fill = self.theme.org_fill
+            cell[0].font = self.theme.org_font
+            cell[0].border = self.theme.border
 
     def save_excel(self, name, index='English'):
         frezze_index = self._df.columns.to_list().index(index) + 2
@@ -130,12 +132,15 @@ class Translation:
         self._df.replace(float('nan'), '', inplace=True)
         self._df.drop(columns=filter(lambda x: 'Unnamed' in x or re.search(r'_\d', x), self._df.columns), inplace=True)
 
-    def get_translation(self, index='English', fill_empty=False):
+    def get_translation(self, index='English', fill_empty_with_org=False, empty_filter=True):
         start_index = self._df.columns.to_list().index(index) + 1
-        rows = filter(lambda x: sum([len(y) for y in x[start_index:]]) > 0, self._df.itertuples(index=False))
-        df = pd.DataFrame(rows)
+        if empty_filter:
+            rows = filter(lambda x: sum([len(y) for y in x[start_index:]]) > 0, self._df.itertuples(index=False))
+            df = pd.DataFrame(rows)
+        else:
+            df = self._df.copy()
         df.set_index(index, drop=False, inplace=True)
-        if fill_empty:
+        if fill_empty_with_org:
             for row in df.iterrows():
                 for i, cell in enumerate(row[1]):
                     if len(cell) == 0:
@@ -152,6 +157,23 @@ class Translation:
     def get_percent(self, target_index):
         count = len(self._df[self._df[target_index] != ''])
         return count / len(self._df.index) * 100
+
+    def check_variables(self, regex, org_index, trans_index, ordered=True):
+        resuls = []
+        trans = self.get_translation(index=org_index, empty_filter=False)
+        for i, (org, row) in enumerate(trans.items()):
+            if len(row[trans_index]) > 0:
+                org_vars = re.findall(regex, org)
+                trans_vars = re.findall(regex, row[trans_index])
+                if len(org_vars) != len(trans_vars):
+                    resuls.append([i, org_vars, trans_vars])
+                else:
+                    if not ordered:
+                        org_vars = set(org_vars)
+                        trans_vars = set(trans_vars)
+                    if org_vars != trans_vars:
+                        resuls.append([i, org_vars, trans_vars])
+        return resuls
 
 
 def try_to_get_translation(name):

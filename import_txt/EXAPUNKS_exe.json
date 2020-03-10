@@ -1496,14 +1496,6 @@
         "Japanese":""
     },
     {
-        "English":"",
-        "German":"",
-        "French":"",
-        "Russian":"",
-        "Chinese":"",
-        "Japanese":""
-    },
-    {
         "English":"NEGATIVE_INFINITY",
         "German":"",
         "French":"",
@@ -3081,14 +3073,6 @@
     },
     {
         "English":"!--",
-        "German":"",
-        "French":"",
-        "Russian":"",
-        "Chinese":"",
-        "Japanese":""
-    },
-    {
-        "English":"",
         "German":"",
         "French":"",
         "Russian":"",
@@ -5985,14 +5969,6 @@
     },
     {
         "English":"[SimSpecialRegister: {0}]",
-        "German":"",
-        "French":"",
-        "Russian":"",
-        "Chinese":"",
-        "Japanese":""
-    },
-    {
-        "English":"",
         "German":"",
         "French":"",
         "Russian":"",
@@ -17044,7 +17020,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"安装 EMBER-2 的帐户文件。",
         "Japanese":""
     },
     {
@@ -17052,7 +17028,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"将钱存入 EMBER-2 的帐户。",
         "Japanese":""
     },
     {
@@ -17060,7 +17036,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"从其他帐户中提取现金。",
         "Japanese":""
     },
     {
@@ -17780,7 +17756,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"加密传输 EMBER-2 的视频数据。",
         "Japanese":""
     },
     {
