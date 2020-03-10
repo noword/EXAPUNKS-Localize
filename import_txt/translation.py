@@ -73,7 +73,7 @@ class Translation:
     def save(self, name, index='English'):
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
-            self.save_excel(name, engine='openpyxl')
+            self.save_excel(name)
         elif ext == '.json':
             self.save_json(name)
         else:
@@ -119,7 +119,7 @@ class Translation:
 
     def save_excel(self, name, index='English'):
         frezze_index = self._df.columns.to_list().index(index) + 2
-        self._df.to_excel(name, freeze_panes=(1, frezze_index))
+        self._df.to_excel(name, freeze_panes=(1, frezze_index), engine='openpyxl')
         wb = openpyxl.load_workbook(name)
         self.__set_excel_styles(wb, frezze_index)
         wb.save(name)
