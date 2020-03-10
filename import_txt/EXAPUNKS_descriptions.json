@@ -41,7 +41,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"让所有连网的 ATM 机吐出现金。",
         "Japanese":""
     },
     {
@@ -50,7 +50,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"更多信息，请参阅杂志创刊号中的“Network Exploration: Equity First Bank”。",
         "Japanese":""
     },
     {
@@ -68,7 +68,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"关键字 _CREDIT_ 和 _DEBIT_ 在文件301中。",
+        "Chinese":"关键字 ‗CREDIT‗ 和 ‗DEBIT‗ 在文件301中。",
         "Japanese":""
     },
     {
@@ -536,7 +536,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在主机中创建一个文件，其中包含来自垃圾文件（文件199）的16个连续值，该序列是一个有效的信用卡号。 这样的序列将只有一个。",
         "Japanese":""
     },
     {
@@ -545,7 +545,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"更多信息，请参阅第二期杂志上的“How to Validate Credit Card Numbers”。",
         "Japanese":""
     },
     {
@@ -590,7 +590,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"从每条视神经中读取一个值，并将正确的值写入你的深层视皮层（V-CTX）神经中。 确定写入的值，对大于-55的读取值进行计数，将该数乘以5，然后减去75。_无限_重复。",
+        "Chinese":"从每条视神经中读取一个值，并将正确的值写入你的深层视皮层（V-CTX）神经中。 确定写入的值，对大于-55的读取值进行计数，将该数乘以5，然后减去75。‗无限‗重复。",
         "Japanese":""
     },
     {
@@ -608,7 +608,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在 EMBER-2 的引导下，查找并替换目标消息（文件 212）中的关键词。",
         "Japanese":""
     },
     {
@@ -617,7 +617,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"文件 300 中提供关键词替换列表。例如，‗AI‗ 应替换为 ‗COLLECTIVE‗。 每个关键词只会出现一次，但可以以任何顺序出现。",
         "Japanese":""
     },
     {
@@ -626,7 +626,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"此外，将文件 200 移动到 *outbox*。",
         "Japanese":""
     },
     {
@@ -779,7 +779,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"从中枢神经系统（CNS）中读取一个值，并将其中继到手臂（ARM）的神经中。并限制该值的范围，使其永远不会低于-120或高于50。_无穷_重复。",
+        "Chinese":"从中枢神经系统（CNS）中读取一个值，并将其中继到手臂（ARM）的神经中。并限制该值的范围，使其永远不会低于-120或高于50。‗无穷‗重复。",
         "Japanese":""
     },
     {
@@ -797,7 +797,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"注意，＃NERV是一个_硬件寄存器_，而不是文件。 你可以像其他寄存器一样直接在代码中使用它。",
+        "Chinese":"注意，＃NERV是一个‗硬件寄存器‗，而不是文件。 你可以像其他寄存器一样直接在代码中使用它。",
         "Japanese":""
     },
     {
@@ -833,7 +833,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"从花生糕配方（文件 237）中删除关键字“_PEANUTS_”（文件 300）。",
+        "Chinese":"从花生糕配方（文件 237）中删除关键字“‗PEANUTS‗”（文件 300）。",
         "Japanese":""
     },
     {
@@ -941,7 +941,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"通过设置方位角，仰角和频率，将碟形天线对准目标卫星。然后，使用电视台的密钥（文件 199）对 EMBER-2 的视频（文件 301）进行加密之后，发送该加密数据。",
         "Japanese":""
     },
     {
@@ -950,7 +950,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"目标卫星的方位角，仰角和频率在文件 300 中。",
         "Japanese":""
     },
     {
@@ -959,7 +959,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"注意，在传输任何数据之前，必须先对准卫星天线。",
         "Japanese":""
     },
     {
@@ -968,7 +968,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"更多信息，请参阅第二期杂志中的“Look to the Stars with Satellite Uplink Systems”。",
         "Japanese":""
     },
     {
@@ -977,7 +977,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"终止所有其他的 EXA，并将它们保存的文件带回主机。只有中央主机的 EXA 会保存文件，并且文件 ID 始终在 200 到 299 之间（含 200 和 299）。",
         "Japanese":""
     },
     {
@@ -986,7 +986,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"注意，由于你的操作，某些链路可能变得不可访问。",
         "Japanese":""
     },
     {

@@ -73,7 +73,7 @@ class Translation:
     def save(self, name, index='English'):
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
-            self.save_excel(name)
+            self.save_excel(name, engine='openpyxl')
         elif ext == '.json':
             self.save_json(name)
         else:
