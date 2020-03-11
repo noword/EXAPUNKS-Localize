@@ -30,6 +30,8 @@
 ## 3. 安装字体
 * 安装 [文泉驿微米黑](https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/)
 * 安装 [Noto Sans Mono CJK](https://www.google.com/get/noto/help/cjk/)
+
+不安装的话，到``import_txt/translation.py`` 和 ``font/gen.py`` 中修改你喜欢的字体
   
 ## 2. 复制游戏文件到汉化工作目录
 
@@ -38,7 +40,11 @@
 * 复制 ``PackedContent/fonts/*.packedfont`` 到 ``./font/fonts``
 * 复制 ``PackedContent/*.tex`` 到 ``./images/PackedContent``
 
-``Content\vignettes\nivas-3.csv`` 第九行少了个双引号, 自己加一下。
+``Content/vignettes/ember-7.csv`` 第十二行少了个双引号
+
+``Content/vignettes/nivas-3.csv`` 第九行少了个双引号
+
+自己加一下。
 
 # 翻译文本
 在import_txt目录下有 3 个json文件需要翻译。
