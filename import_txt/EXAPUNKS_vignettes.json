@@ -1260,7 +1260,7 @@
         "Role":"mutex8021",
         "English":"who is moss",
         "French":"",
-        "Chinese":"",
+        "Chinese":"moss是谁",
         "Japanese":""
     },
     {
@@ -1268,7 +1268,7 @@
         "Role":"deadlock",
         "English":"moss!!!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"moss！！！",
         "Japanese":""
     },
     {
@@ -1276,7 +1276,7 @@
         "Role":"mutex8021",
         "English":"moss came into the tv station and beat me",
         "French":"",
-        "Chinese":"",
+        "Chinese":"moss 在电视台打败了我",
         "Japanese":""
     },
     {
@@ -1284,7 +1284,7 @@
         "Role":"x10x10x",
         "English":"woah",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哇",
         "Japanese":""
     },
     {
@@ -1292,7 +1292,7 @@
         "Role":"x10x10x",
         "English":"nobodys heard from moss in years",
         "French":"",
-        "Chinese":"",
+        "Chinese":"已经有好多年没人听到过 moss 的消息了",
         "Japanese":""
     },
     {
@@ -1300,7 +1300,7 @@
         "Role":"deadlock",
         "English":"what if moss is back",
         "French":"",
-        "Chinese":"",
+        "Chinese":"要是 moss 回来了会怎样",
         "Japanese":""
     },
     {
@@ -1308,7 +1308,7 @@
         "Role":"deadlock",
         "English":"aaaah",
         "French":"",
-        "Chinese":"",
+        "Chinese":"啊啊啊",
         "Japanese":""
     },
     {
@@ -1316,7 +1316,7 @@
         "Role":"plastered",
         "English":"i thought moss died",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我以为 moss 死了",
         "Japanese":""
     },
     {
@@ -1324,7 +1324,7 @@
         "Role":"Ghast",
         "English":"I can confirm moss is alive.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我确定 moss 还活着。",
         "Japanese":""
     },
     {
@@ -1332,7 +1332,7 @@
         "Role":"plastered",
         "English":"really?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"真的？",
         "Japanese":""
     },
     {
@@ -1340,7 +1340,7 @@
         "Role":"plastered",
         "English":"how do u know",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你怎么知道的",
         "Japanese":""
     },
     {
@@ -1348,7 +1348,7 @@
         "Role":"Ghast",
         "English":"let’s just say I’m pretty confident.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我对此信心十足。",
         "Japanese":""
     },
     {
@@ -11188,7 +11188,7 @@
         "Role":"deadlock",
         "English":"just got issue 2!! {hell} yeah",
         "French":"",
-        "Chinese":"",
+        "Chinese":"刚拿到第二期杂志！！耶",
         "Japanese":""
     },
     {
@@ -11196,7 +11196,7 @@
         "Role":"deadlock",
         "English":"can’t wait to dig in",
         "French":"",
-        "Chinese":"",
+        "Chinese":"等不及手不释卷了",
         "Japanese":""
     },
     {
@@ -11204,7 +11204,7 @@
         "Role":"mutex8021",
         "English":"i like that its on paper :)",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我喜欢在纸上阅读的感觉 :)",
         "Japanese":""
     },
     {
@@ -11212,7 +11212,7 @@
         "Role":"mutex8021",
         "English":"its quaint and olde timey",
         "French":"",
-        "Chinese":"",
+        "Chinese":"很复古",
         "Japanese":""
     },
     {
@@ -11220,7 +11220,7 @@
         "Role":"Ghast",
         "English":"oof. way to make me feel old, mutex.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哦，让我觉得我老了，mutex",
         "Japanese":""
     },
     {
@@ -11228,7 +11228,7 @@
         "Role":"SYSTEM",
         "English":"=plastered shakes his cane at the kids",
         "French":"",
-        "Chinese":"",
+        "Chinese":"=plastered 向孩子们挥了挥拐杖",
         "Japanese":""
     },
     {
@@ -11236,7 +11236,7 @@
         "Role":"plastered",
         "English":"get off my lawn",
         "French":"",
-        "Chinese":"",
+        "Chinese":"离开我家的草坪",
         "Japanese":""
     },
     {
@@ -11244,7 +11244,7 @@
         "Role":"mutex8021",
         "English":"D:",
         "French":"",
-        "Chinese":"",
+        "Chinese":"D:",
         "Japanese":""
     },
     {
@@ -11252,7 +11252,7 @@
         "Role":"deadlock",
         "English":"uncle plastered gettin riled up over here",
         "French":"",
-        "Chinese":"",
+        "Chinese":" plastered 大叔被惹毛了",
         "Japanese":""
     },
     {

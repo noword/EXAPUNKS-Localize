@@ -1720,7 +1720,7 @@
         "Japanese":""
     },
     {
-        "English":"DirectX adapter #{0}\r\\n",
+        "English":"DirectX adapter #{0}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -1728,7 +1728,7 @@
         "Japanese":""
     },
     {
-        "English":"\r\\n",
+        "English":"_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -1784,7 +1784,7 @@
         "Japanese":""
     },
     {
-        "English":"<!doctype html>\r\\n<html>\r\\n\r\\n<head>\r\\n\r\\n\\t<title>Zachtronics Support<\/title>\r\\n\\t\r\\n\\t<script src='http:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.0.0\/jquery.min.js'><\/script>\r\\n\\t\r\\n    <style>\r\\n    html, body, div, span, applet, object, iframe,\r\\n    h1, h2, h3, h4, h5, h6, p, blockquote, pre,\r\\n    a, abbr, acronym, address, big, cite, code,\r\\n    del, dfn, em, img, ins, kbd, q, s, samp,\r\\n    small, strike, strong, sub, sup, tt, var,\r\\n    b, u, i, center,\r\\n    dl, dt, dd, ol, ul, li,\r\\n    fieldset, form, label, legend,\r\\n    table, caption, tbody, tfoot, thead, tr, th, td,\r\\n    article, aside, canvas, details, figcaption, figure, \r\\n    footer, header, hgroup, menu, nav, section, summary,\r\\n    time, mark, audio, video {\r\\n\\t    margin: 0;\r\\n\\t    padding: 0;\r\\n\\t    border: 0;\r\\n\\t    outline: 0;\r\\n\\t    font-size: 100%;\r\\n\\t    font: inherit;\r\\n\\t    vertical-align: baseline;\r\\n    }\r\\n    \/* HTML5 display-role reset for older browsers *\/\r\\n    article, aside, details, figcaption, figure, \r\\n    footer, header, hgroup, menu, nav, section {\r\\n\\t    display: block;\r\\n    }\r\\n    body {\r\\n\\t    line-height: 1;\r\\n    }\r\\n    ol, ul {\r\\n\\t    list-style: none;\r\\n    }\r\\n    blockquote, q {\r\\n\\t    quotes: none;\r\\n    }\r\\n    blockquote:before, blockquote:after,\r\\n    q:before, q:after {\r\\n\\t    content: '';\r\\n\\t    content: none;\r\\n    }\r\\n    ins {\r\\n\\t    text-decoration: none;\r\\n    }\r\\n    del {\r\\n\\t    text-decoration: line-through;\r\\n    }\r\\n\r\\n    table {\r\\n\\t    border-collapse: collapse;\r\\n\\t    border-spacing: 0;\r\\n    }\r\\n    <\/style>\r\\n\r\\n    <style>\r\\n    \/*--------------------------------------------------------------\r\\n    Body\r\\n    ----------------------------------------------------------------*\/\r\\n    body {\r\\n\\t    background: #373737;\r\\n\\t    font-size: 100%;\r\\n\\t    font-family: Arial, Helvetica, sans-serif;\r\\n\\t    line-height: 1.5;\r\\n    }\r\\n\r\\n    \/*--------------------------------------------------------------\r\\n    Basic typography\r\\n    ----------------------------------------------------------------*\/\r\\n    h1, h2, h3 {\r\\n\\t    font-family: Arial, Hellovetica, sans-serif;\r\\n\\t    line-height: 1em;\r\\n    }\r\\n\r\\n    h1 { font-size: 2em; }\r\\n    h2 { font-size: 1.6em; }\r\\n    h3 { font-size: 1.6em; }\r\\n\r\\n    em { font-style: italic; }\r\\n    strong { font-weight: bold; }\r\\n\r\\n    p {\r\\n\\t    padding: 0.3em 0;\r\\n    }\r\\n\r\\n    \/* Links *\/\r\\n\r\\n    a { color: #e33533; text-decoration: none }\r\\n\r\\n    a:hover { text-decoration: underline }\r\\n    \/*--------------------------------------------------------------\r\\n    Elements\r\\n    ----------------------------------------------------------------*\/\r\\n\r\\n    \/* forms *\/ \r\\n    input, textarea {\r\\n\\t    background: #fff9de;\r\\n\\t    border: 1px solid #a6a6a6;\r\\n\\t    border-radius: 5px;\r\\n\\t\\t    -moz-border-radius: 5px;\r\\n\\t\\t    -webkit-border-radius: 5px;\r\\n\\t    font-family: Arial, Helvetica, sans-serif;\\t\\t\r\\n\\t    font-size: 1.1em;\r\\n\\t    padding: 0.2em;\r\\n\\t    vertical-align: top;\\t\r\\n    }\r\\n\r\\n    input:focus, input:hover, textarea:focus, text-area:hover {\r\\n\\t    background: #fff;\r\\n\\t    border: 1px solid #e33533;\r\\n\\t    outline: none;\r\\n    }\r\\n\r\\n    \/* lists *\/\r\\n    ul { list-style: none; margin-left: 1em; }\r\\n    ul li { \r\\n        list-style-type: disc;\r\\n    }\r\\n\r\\n    \/*--------------------------------------------------------------\r\\n    Structure\r\\n    ----------------------------------------------------------------*\/\r\\n    header, footer {\r\\n\\t    background: #373737;\\t\r\\n\\t    color: #fff;\r\\n    }\r\\n\r\\n    section {\\tbackground: #e0e0e0;\r\\n\\t    border-radius: 5px;\r\\n\\t\\t    -moz-border-radius: 5px;\r\\n\\t\\t    -webkit-border-radius: 5px;\r\\n\\t    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);\\t\\t\r\\n\\t\\t    -moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);\\t\r\\n\\t\\t    -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0,0.35);\r\\n\\t    margin: 1.25em auto;\r\\n\\t    padding: 0.6em;\r\\n\\t    width: 960px;\r\\n    }\r\\n\r\\n    section:after {\r\\n\\t    content: '';\r\\n\\t    display: table;\r\\n\\t    clear: both;\r\\n    }\r\\n\r\\n    #container {\r\\n\\t    background: #f2f2f2;\r\\n    }\r\\n\r\\n    \/* Header *\/\r\\n\r\\n    header { padding: 1em 0; }\r\\n\r\\n    header a {\r\\n\\t    margin: 0 auto;\r\\n\\t    padding: 0;\r\\n\\t    background: transparent url(data:image\/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAABkCAMAAAA8PfCDAAAABGdBTUEAALGPC\/xhBQAAAEJQTFRF\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/AAAA\/8wArKGKRzEm1sGX4zUz\/\/\/\/U\/gN+QAAABB0Uk5TcK9QMI9gz9+f7xAgQL9\/AE+Uw7AAAAmhSURBVHja7Z3rmqMoEIY9oKIc3Jmd3P+tbrrTiRyqKFQQdx7qV7cSQvHiJxSladZqf401t2yV1FwpxXR\/g7b0jX62pdXdUsjTVxGu5WUw1QMzqw3aOgVXJfhWYtZ2F2q\/Xrkd0va\/oH19xDowKjYI1K9h2kq2TndujTE\/\/zmovCPbIdrTdxE2b0W4uBVMZp2Cmr\/YRR5zlxnmi2gDdqWc7GLtAjdmOAIz7OnPV8x2GX0Q5p\/N0sFU+KkfD0evAnYBzGdXAj0xeKWmHmwMPwCT8PS7SOuPuuU+MO2RPsSwtLoqH8xnTy8kyydzATVm3g+T8vTLoCLjfWBSosHBKoZLYLqjvp8f4c40GtPvhkl5ihZhd4Hp9LTy7lFwFdvlkBWmQ3OEC2kIpt4Lk\/QU90TeBGZHSMaE1MGvgfloCZG1p64aHJZxMElP8SLqJjA10LM4a6ADM8M0G4v1JTiyjIl5FEzaU3wwPfpTMCOQxsHkWMtf1qKV6ItgTqTIPaVwAWB2+2DSngZ6lN0DpgrK\/2J1mZqATs4Nc2uRtQhU1v2zA2CyXTAjPDWLKCk1OOIywWTKtAkBhk8mXGHhz+HfT941nBrmrEZEQyd7XmS2hQMwp10wIzwdnE8NuKAlh4nq5Yxder5gMNdr6c3ZaZjg0FGhE2bE7tPcxe27zp+3afCOEQMzwlPm3iNVaH2eEyayDpbhiZnylEy5nHLAtNfv0qu19S5VCOawB2aEp8q96Af6ptlEcdwJswNnBs8v8+YS2MLE6y6VEeYqZq8Oo6mNpzY9ALPdAzPC09k9sNCLkywwOYJLg3cwoI8nD1RWmGa1LfZFwSOGozEwIzz1r8ORDOllgTkj0UYVG+tTF8MU3g1xN8zP6m8fTEXD1H7vXQgTU1kgQNbdA6bZsqMwdW6YvAhMjm1ZhgKdZWHy8zBVLpjMv0ldCHOGg51rHw6GloSp3TXGfpjvcZscptfG6cIJUIdt6UgiaFwQZufWewBmlxTm6I2SgWvdSbljP\/MPYWdUViMBmRvAlAlg8qQwWzpGcAVMTGXBzVbx98CcksJs4pILMsNEVXabW08DEbn9X8L8GZiJYIqo7ejcMFGV3S5ZJd3wyo1g9odhNilhmjdNdQbmP192FCaqsqvR6WD\/32M2ux6G2SaF2WDL8Qth4iorIZgq2MeLfFufFyZLAXM+AdPz1NLZaSkDE1dZ80apoI3WCF3JHwEaj8N8HT8GM7yPSCQ\/Z4OJq6w2bksttDYpB3M5H2j\/fH8ymDIq7ycnTFxlLYA6mHF6OUw\/afIQzDEpTCuUPR6B+ftjx6a0uMpa0gquTYrBXOZ96DCY3x6ngykfO4U2NUxcZS0vZTB9OArmM7j1bTxppsG8noHZJYVpbxn2l8PscZUVZtxLQBue+2A+iD2YaJhyfASTtSJgjsanE8K0Ls2IGW1imAxXWftiDOaCXwdz0nwCd8v3wZTzNjdPCNMOgLKrYU64yjaWGI1AXkkBmOguzk6Y7RbRSwlzmR97onppYQZU1rhopXU7WO4EUx6E2WwRvZQw7ccYSKFtAIym7YPJApm6Nj4GjLfyMPl6EKbY5CgpTHsOxC6FOQUWRpMVJ4AeIS8O03ikbyfMj3epYYo9QpsUZu9tISArE3htUhqm+caCvTD556+0MO1cY0Jok8IMqWyPwWxvA7Nbj8PsPkqYGKYttPo6mCGV7ZwGASVLw9QnYC4fb1LDtIVWXAUzqLLaOTX7ofbSMNUJmJ8LaEkN057RKhLm7ygjkYZU1lj\/Skc9RMFw3gN8wuAIzPc\/TXKY9pO5w0UwQyprwOudFsqCgfbJGgziBMwev9DPwrRCB9M1MIMq68mq9suW2TUR4Mx\/N8x1zgbTFlp9Ccygyi7u0Br8pXChLbAZ+vx+mG0+mFbd83IFzKDKeglLMsbpS2AqKJy8H+aQEaYltM0FMMMqO7ghM+HfBQrBZND9aD9MkRGmNVKmiKXJv6AFsO5R2eCaojDMAdq12w\/Te3FQSphW6GDID3MMJqyoB71V4bvYf95fwvLBlNAM6ABMdgam5+mKbe37m4vpYYqwqo8BmB3q4jVJ0FAFB2B2Z2BK6loNJFelh9mEY04xgZtSMEdgzB+AuWSFKSJ0NhnMsMqKEExeGGYLtPwATPdWkgjm4i9P2EGYIFdi4DREahI27SsFE3q+\/AhMnQ6meL5gTT\/fejZvTeroWVMqmE04KTAcIC8MU55PG\/EWZydhQuNrfkCPAeSAOYbXQSwIcykLUwCicgSmE9FLDVNdBVMQmSoqCFOWhWlA4Kdg8hwwF6BJ52H++rKI5AYo9XoOwmwKw1T+DOgQzCEHTHk5TEJlgyuTD4RiMJnfTYdgir8CJqWyZod\/TLkeFYM5nM5oh0IjZ2B2gFP8IpiUynbQbn7jips\/v+2ugem\/7dX8oi4eJtsNE\/FUAsE7BaZEpIdJqayGulW6HikvhsTcmUmm5zN9XfEvDeXNSXyYXSRM0tMFSGZJus7EYVIqa0QvOPgpN5Pk3YGTeyATzCkgez\/DU\/hXkw5lvgRh0p7Onlh0UOJ9BphmfKeRji0r8J5jx0k\/gtI76i2zwmxD+3GvyTb3awNgqjiYtKfKi44qens6Cia12SapRSQcI3ZHo1nN3MiufQSULddj8D2Ahdlt0TjMJg4m7amJ++uV\/AsnpiWXwVzgpyWUq834arRds8Ls\/NHW4B71OMw+DibtqRUanL+DtOT85xqYEt6KY66TeNBvyAtT+Pf8BW0LEFiQUHQkBJP2dMJ7lBWF2cArJO8nC9GNsmnNCxMqyqnuBmHyOJi0pwFlEEVhanirs\/MY8\/j+SwsTCGILqrtBmEMcTNrTZaa2f0MwX\/brYwlhKrhX\/a0nxAO15obJgHGvwxlLMEwRCZP0FP3tt1mUhTkh3e0PyI5ofi6YjZ+RhOQtgYnSEoqfhPOBOxIUD2dMlYL5IGFqKEH07WG\/ZocJVgL9kjBfCZgsEibl6Yr8lB\/54FBmmD28MoFzyQdXf8Z+zQ8T+V1ohWzWBWDGZ+qHPYXnvHPwZaVXwJTYcreFvBQKk7WcMCd4FddYHa76lYQZ\/WvwhKcv35zRxIPP2qaBKXTAxCq3f5y2wid69tY31Qj0E8L\/cuf9DduJgTwxIG1chvb9wibuvh5Cem2xahrIdoQ8fZdoPvECrAgO8y72TE+T4i6NMV7pW8LT5R3iXv+nMKsdsAqzwqxWYVarMKtVmBVmtQqzWoVZrcKsVmFWmNUqzGoVZrUKs1qFWWFWqzCrVZjVKswKs1qFWa3CrJba\/gP20cw\/hqSbfgAAAABJRU5ErkJggg==) no-repeat 10px 0px;\r\\n\\t    display: block;\r\\n\\t    height: 80px;\r\\n\\t    width: 460px;\r\\n\\t    text-indent: -9999px;\r\\n    }\r\\n\r\\n    header a:hover {\r\\n\\t    background: transparent url(data:image\/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAABkCAMAAAA8PfCDAAAABGdBTUEAALGPC\/xhBQAAAEJQTFRF\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/AAAA\/8wArKGKRzEm1sGX\/1BP\/\/\/\/V9coAAAAABB0Uk5TcK9QMI9gz9+f7xAgQL9\/AE+Uw7AAAAmhSURBVHja7Z3rmqMoEIY9oKIc3Jmd3P+tbrrTiRyqKFQQdx7qV7cSQvHiJxSladZqf401t2yV1FwpxXR\/g7b0jX62pdXdUsjTVxGu5WUw1QMzqw3aOgVXJfhWYtZ2F2q\/Xrkd0va\/oH19xDowKjYI1K9h2kq2TndujTE\/\/zmovCPbIdrTdxE2b0W4uBVMZp2Cmr\/YRR5zlxnmi2gDdqWc7GLtAjdmOAIz7OnPV8x2GX0Q5p\/N0sFU+KkfD0evAnYBzGdXAj0xeKWmHmwMPwCT8PS7SOuPuuU+MO2RPsSwtLoqH8xnTy8kyydzATVm3g+T8vTLoCLjfWBSosHBKoZLYLqjvp8f4c40GtPvhkl5ihZhd4Hp9LTy7lFwFdvlkBWmQ3OEC2kIpt4Lk\/QU90TeBGZHSMaE1MGvgfloCZG1p64aHJZxMElP8SLqJjA10LM4a6ADM8M0G4v1JTiyjIl5FEzaU3wwPfpTMCOQxsHkWMtf1qKV6ItgTqTIPaVwAWB2+2DSngZ6lN0DpgrK\/2J1mZqATs4Nc2uRtQhU1v2zA2CyXTAjPDWLKCk1OOIywWTKtAkBhk8mXGHhz+HfT941nBrmrEZEQyd7XmS2hQMwp10wIzwdnE8NuKAlh4nq5Yxder5gMNdr6c3ZaZjg0FGhE2bE7tPcxe27zp+3afCOEQMzwlPm3iNVaH2eEyayDpbhiZnylEy5nHLAtNfv0qu19S5VCOawB2aEp8q96Af6ptlEcdwJswNnBs8v8+YS2MLE6y6VEeYqZq8Oo6mNpzY9ALPdAzPC09k9sNCLkywwOYJLg3cwoI8nD1RWmGa1LfZFwSOGozEwIzz1r8ORDOllgTkj0UYVG+tTF8MU3g1xN8zP6m8fTEXD1H7vXQgTU1kgQNbdA6bZsqMwdW6YvAhMjm1ZhgKdZWHy8zBVLpjMv0ldCHOGg51rHw6GloSp3TXGfpjvcZscptfG6cIJUIdt6UgiaFwQZufWewBmlxTm6I2SgWvdSbljP\/MPYWdUViMBmRvAlAlg8qQwWzpGcAVMTGXBzVbx98CcksJs4pILMsNEVXabW08DEbn9X8L8GZiJYIqo7ejcMFGV3S5ZJd3wyo1g9odhNilhmjdNdQbmP192FCaqsqvR6WD\/32M2ux6G2SaF2WDL8Qth4iorIZgq2MeLfFufFyZLAXM+AdPz1NLZaSkDE1dZ80apoI3WCF3JHwEaj8N8HT8GM7yPSCQ\/Z4OJq6w2bksttDYpB3M5H2j\/fH8ymDIq7ycnTFxlLYA6mHF6OUw\/afIQzDEpTCuUPR6B+ftjx6a0uMpa0gquTYrBXOZ96DCY3x6ngykfO4U2NUxcZS0vZTB9OArmM7j1bTxppsG8noHZJYVpbxn2l8PscZUVZtxLQBue+2A+iD2YaJhyfASTtSJgjsanE8K0Ls2IGW1imAxXWftiDOaCXwdz0nwCd8v3wZTzNjdPCNMOgLKrYU64yjaWGI1AXkkBmOguzk6Y7RbRSwlzmR97onppYQZU1rhopXU7WO4EUx6E2WwRvZQw7ccYSKFtAIym7YPJApm6Nj4GjLfyMPl6EKbY5CgpTHsOxC6FOQUWRpMVJ4AeIS8O03ikbyfMj3epYYo9QpsUZu9tISArE3htUhqm+caCvTD556+0MO1cY0Jok8IMqWyPwWxvA7Nbj8PsPkqYGKYttPo6mCGV7ZwGASVLw9QnYC4fb1LDtIVWXAUzqLLaOTX7ofbSMNUJmJ8LaEkN057RKhLm7ygjkYZU1lj\/Skc9RMFw3gN8wuAIzPc\/TXKY9pO5w0UwQyprwOudFsqCgfbJGgziBMwev9DPwrRCB9M1MIMq68mq9suW2TUR4Mx\/N8x1zgbTFlp9Ccygyi7u0Br8pXChLbAZ+vx+mG0+mFbd83IFzKDKeglLMsbpS2AqKJy8H+aQEaYltM0FMMMqO7ghM+HfBQrBZND9aD9MkRGmNVKmiKXJv6AFsO5R2eCaojDMAdq12w\/Te3FQSphW6GDID3MMJqyoB71V4bvYf95fwvLBlNAM6ABMdgam5+mKbe37m4vpYYqwqo8BmB3q4jVJ0FAFB2B2Z2BK6loNJFelh9mEY04xgZtSMEdgzB+AuWSFKSJ0NhnMsMqKEExeGGYLtPwATPdWkgjm4i9P2EGYIFdi4DREahI27SsFE3q+\/AhMnQ6meL5gTT\/fejZvTeroWVMqmE04KTAcIC8MU55PG\/EWZydhQuNrfkCPAeSAOYbXQSwIcykLUwCicgSmE9FLDVNdBVMQmSoqCFOWhWlA4Kdg8hwwF6BJ52H++rKI5AYo9XoOwmwKw1T+DOgQzCEHTHk5TEJlgyuTD4RiMJnfTYdgir8CJqWyZod\/TLkeFYM5nM5oh0IjZ2B2gFP8IpiUynbQbn7jips\/v+2ugem\/7dX8oi4eJtsNE\/FUAsE7BaZEpIdJqayGulW6HikvhsTcmUmm5zN9XfEvDeXNSXyYXSRM0tMFSGZJus7EYVIqa0QvOPgpN5Pk3YGTeyATzCkgez\/DU\/hXkw5lvgRh0p7Onlh0UOJ9BphmfKeRji0r8J5jx0k\/gtI76i2zwmxD+3GvyTb3awNgqjiYtKfKi44qens6Cia12SapRSQcI3ZHo1nN3MiufQSULddj8D2Ahdlt0TjMJg4m7amJ++uV\/AsnpiWXwVzgpyWUq834arRds8Ls\/NHW4B71OMw+DibtqRUanL+DtOT85xqYEt6KY66TeNBvyAtT+Pf8BW0LEFiQUHQkBJP2dMJ7lBWF2cArJO8nC9GNsmnNCxMqyqnuBmHyOJi0pwFlEEVhanirs\/MY8\/j+SwsTCGILqrtBmEMcTNrTZaa2f0MwX\/brYwlhKrhX\/a0nxAO15obJgHGvwxlLMEwRCZP0FP3tt1mUhTkh3e0PyI5ofi6YjZ+RhOQtgYnSEoqfhPOBOxIUD2dMlYL5IGFqKEH07WG\/ZocJVgL9kjBfCZgsEibl6Yr8lB\/54FBmmD28MoFzyQdXf8Z+zQ8T+V1ohWzWBWDGZ+qHPYXnvHPwZaVXwJTYcreFvBQKk7WcMCd4FddYHa76lYQZ\/WvwhKcv35zRxIPP2qaBKXTAxCq3f5y2wid69tY31Qj0E8L\/cuf9DduJgTwxIG1chvb9wibuvh5Cem2xahrIdoQ8fZdoPvECrAgO8y72TE+T4i6NMV7pW8LT5R3iXv+nMKsdsAqzwqxWYVarMKtVmBVmtQqzWoVZrcKsVmFWmNUqzGoVZrUKs1qFWWFWqzCrVZjVKswKs1qFWa3CrJba\/gP20cw\/hqSbfgAAAABJRU5ErkJggg==) no-repeat 10px 0px;\r\\n    }\r\\n\r\\n    \/* Footer *\/\r\\n\r\\n    footer { \r\\n\\t    padding: 0.5em 0; \r\\n\\t    text-align: center;\\t\r\\n    }\r\\n\r\\n    footer a {\r\\n\\t    margin: 0 auto;\r\\n\\t    padding: 0;\r\\n\\t    display: block;\r\\n\\t    height: 20px;\r\\n\\t    width: 55px;\r\\n\\t    text-indent: -9999px;\\t\r\\n    }\r\\n\r\\n\r\\n    \/*--------------------------------------------------------------\r\\n    Directions\/Main content\r\\n    ----------------------------------------------------------------*\/\r\\n\r\\n    #welcome p{\r\\n\\t    padding-left: 10px;\r\\n    }\r\\n\r\\n    #welcome h1 {\r\\n\\t    padding-top: 5px;\r\\n\\t    padding-left: 10px;\r\\n    }\r\\n\r\\n    .step {}\r\\n\r\\n    .step h1 {\r\\n\\t    background: #373737;\r\\n\\t    border-radius: 200px;\r\\n\\t\\t    -moz-border-radius: 200px;\r\\n\\t\\t    -webkit-border-radius: 200px;\r\\n\\t    color: #fff;\r\\n\\t    display: inline-block;\\t\r\\n\\t    font-weight: bold;\r\\n\\t    line-height: 1.2;\r\\n\\t    height: 40px;\r\\n\\t    width: 40px;\r\\n\\t    text-align: center;\r\\n\\t    text-shadow: 2px 1px 1px #666;\r\\n    }\r\\n\r\\n    .step h2 { display: inline-block; padding-left: 9px; }\r\\n\r\\n    .step .directions { padding-left: 55px; }\\t\r\\n\r\\n    \/*--------------------------------------------------------------\r\\n    Support Form\r\\n    ----------------------------------------------------------------*\/\r\\n    #support-form {}\r\\n    #support-form .form-element { padding: 0.5em 0; }\r\\n    #support-form label { \r\\n\\t    display: inline-block;\\t\r\\n\\t    font-weight: bold;\r\\n\\t    vertical-align: top;\r\\n\\t    width: 85px;\r\\n    }\r\\n\r\\n    #support-form span.additional-info {\r\\n    }\r\\n\\t\r\\n    #support-form input{ \r\\n\\t    height: 20px;\r\\n\\t    width: 300px; \r\\n    }\r\\n\r\\n    #support-form input#subject { width: 745px; }\r\\n\\t\r\\n    #support-form textarea { \r\\n\\t    height: 200px; \r\\n\\t    width: 745px;\r\\n    }\r\\n\r\\n    .readonly { background: #f7f7f7; }\r\\n\r\\n    .readonly:hover, .readyonly:focus {\r\\n\\t    background: #f7f7f7;\r\\n\\t    border: 1px solid #939393;\r\\n    }\r\\n\r\\n    #expand { color: #e33533; }\r\\n\r\\n    #expand:hover { \r\\n\\t    color: #e33533;\r\\n\\t    text-decoration: underline;\r\\n\\t    cursor: hand;\r\\n\\t    cursor: pointer;\r\\n    }\r\\n\r\\n    #support-form .technical-info {\r\\n\\t    background: #f7f7f7;\r\\n\\t    border: 1px solid #a6a6a6;\\t\r\\n\\t    border-radius: 5px;\r\\n\\t\\t    -moz-border-radius: 5px;\r\\n\\t\\t    -webkit-border-radius: 5px;\r\\n\\t    display: inline-block;\r\\n\\t    padding: 0.2em 0.7em;\r\\n\\t    width: 730px;\r\\n    }\r\\n\r\\n    #display-technical-info  {\r\\n\\t    font-family: Consolas, monaco, monospace;\r\\n\\t    overflow: auto;\r\\n\\t    border: none;\r\\n\\t    border-radius: none;\r\\n\\t    height: 350px;\r\\n\\t    width: 100%;\r\\n    }\r\\n\r\\n    .add-info {\r\\n\\t    border-top: 1px solid #999;\r\\n\\t    font-size: 90%;\r\\n\\t    padding: 0.2em;\r\\n\\t    margin-bottom: 1em;\r\\n    }\r\\n\r\\n    .included-data {\r\\n\\t    white-space: pre;\r\\n\\t    font-size: 80%;\r\\n    }\r\\n\r\\n    #support-form  input.submit {\r\\n\\t    color: #fff;\r\\n\\t    display: block;\r\\n\\t    font-family: LeagueGothic, Impact, sans-serif;\r\\n\\t    font-size: 2.2em;\r\\n\\t    text-transform: uppercase;\r\\n\\t    text-shadow: 2px 2px 0 #333;\\t\r\\n\\t    margin: 0.25em auto;\\t\r\\n\\t    height: 60px;\r\\n\\t    width: 140px;\r\\n\\t    box-shadow: inset -2px -2px 1px rgba(0, 0, 0, 0.25);\r\\n\\t\\t    -moz-box-shadow: inset -2px -2px 1px rgba(0, 0, 0, 0.25);\r\\n\\t\\t    -webkit-box-shadow: inset -2px -2px 1px rgba(0, 0, 0, 0.25);\r\\n\\t    \/* gradient! *\/\r\\n\\t    background: #aa0404; \/* Old browsers *\/\r\\n\\t    background: -moz-linear-gradient(top, #aa0404 0%, #cc2e2e 50%, #aa0404 100%); \/* FF3.6+ *\/\r\\n\\t    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#aa0404), color-stop(50%,#cc2e2e), color-stop(100%,#aa0404)); \/* Chrome,Safari4+ *\/\r\\n\\t    background: -webkit-linear-gradient(top, #aa0404 0%,#cc2e2e 50%,#aa0404 100%); \/* Chrome10+,Safari5.1+ *\/\r\\n\\t    background: -o-linear-gradient(top, #aa0404 0%,#cc2e2e 50%,#aa0404 100%); \/* Opera 11.10+ *\/\r\\n\\t    background: -ms-linear-gradient(top, #aa0404 0%,#cc2e2e 50%,#aa0404 100%); \/* IE10+ *\/\r\\n\\t    background: linear-gradient(to bottom, #aa0404 0%,#cc2e2e 50%,#aa0404 100%); \/* W3C *\/\r\\n\\t    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aa0404', endColorstr='#aa0404',GradientType=0 ); \/* IE6-9 *\/\\t\r\\n    }\r\\n\r\\n    #support-form input.submit:hover {\r\\n\\t    box-shadow: inset 2px 2px 1px rgba(0, 0, 0, 0.5);\r\\n\\t\\t    -moz-box-shadow: inset 2px 2px 1px rgba(0, 0, 0, 0.5);\r\\n\\t\\t    -webkit-box-shadow: inset 2px 2px 1px rgba(0, 0, 0, 0.5);\r\\n\\t    position: relative;\r\\n\\t    top: 1px;\r\\n\\t    text-shadow: -2px -2px 0 #333;\r\\n\\t    cursor: hand;\r\\n\\t    cursor: pointer;\r\\n    }\r\\n    <\/style>\r\\n\r\\n<\/head>\r\\n\r\\n<body>\r\\n\r\\n\\t<div id='container'>\r\\n\\t\r\\n\\t\\t<header>\r\\n\\t\\t\\t<a href='http:\/\/zachtronics.com' class='zachtronics'><\/a>\r\\n\\t\\t<\/header>\r\\n\r\\n\\t\\t<section id='welcome'>\r\\n\\t\\t\\t<h1>Oh no! It looks like your game crashed.<\/h1>\r\\n\\t\\t\\t<p>Follow these steps to get things back up and running!<\/p>\r\\n\\t\\t<\/section>\r\\n\r\\n\\t\\t<section id='step-1' class='step'>\r\\n\\t\\t\\t<h1>1<\/h1>\r\\n\\t\\t\\t<h2>Launch the game again.<\/h2>\r\\n\\t\\t\\t<div class='directions'>\r\\n\\t\\t\\t\\t<p>If this is the first time the game has crashed, close this page and launch the game again. Sometimes these things just happen!<\/p>\r\\n\\t\\t\\t<\/div>\r\\n\\t\\t<\/section>\r\\n\r\\n        <section id='step-2' class='step'>\r\\n\\t\\t\\t<h1>2<\/h1>\r\\n\\t\\t\\t<h2>Check your antivirus software.<\/h2>\r\\n\\t\\t\\t<div class='directions'>\r\\n\\t\\t\\t\\t<p>Lately we've been getting many reports of crashes caused by antivirus and anti-malware software blocking the game from either reading its files or saving to its save directory. Newer versions of Windows 10 will even sometimes block programs from saving to the My Documents folder. If you're running an antivirus or anti-malware program, please make sure that it's not the culprit by checking that program's logs and\/or temporarily disabling it.<\/p>\r\\n\\t\\t\\t<\/div>\r\\n\\t\\t<\/section>\r\\n\r\\n\\t\\t<section id='step-3' class='step'>\r\\n\\t\\t\\t<h1>3<\/h1>\r\\n\\t\\t\\t<h2>Update your video drivers and restart your computer.<\/h2>\r\\n\\t\\t\\t<div class='directions'>\r\\n\\t\\t\\t\\t<p>Another thing to try before contacting us is to update your video drivers. Find your video card manufacturer in the list below, and then click either the link to the manual or automatic driver download page. After updating your drivers, be sure to restart your computer!<\/p>\r\\n\\t\\t\\t\\t<ul>\r\\n\\t\\t\\t\\t\\t<li>NVIDIA (<a href='http:\/\/www.nvidia.com\/Download\/index.aspx'>Manual<\/a>, <a href='http:\/\/www.nvidia.com\/Download\/Scan.aspx'>Automatic<\/a>)<\/li>\r\\n\\t\\t\\t\\t\\t<li>AMD (<a href='http:\/\/support.amd.com\/us\/gpudownload\/Pages\/index.aspx'>Manual<\/a>, <a href='http:\/\/support.amd.com\/us\/gpudownload\/windows\/Pages\/auto_detect.aspx'>Automatic<\/a>)<\/li>\r\\n\\t\\t\\t\\t\\t<li>Intel (<a href='https:\/\/downloadcenter.intel.com\/default.aspx'>Manual<\/a>, <a href='http:\/\/www.intel.com\/p\/en_US\/support\/detect?iid=dc_iduu'>Automatic<\/a>)<\/li>\r\\n\\t\\t\\t\\t<\/ul>\r\\n\\t\\t\\t<\/div>\r\\n\\t\\t<\/section>\r\\n\r\\n\\t\\t<section id='step-4' class='step'>\r\\n\\t\\t\\t<h1>4<\/h1>\r\\n\\t\\t\\t<h2>If all else fails, ask Zach!<\/h2>\r\\n\\t\\t\\t<div class='directions'>\r\\n\\t\\t\\t\\t<p>If the steps above haven't solved the problem, use the form below to email Zach. Fill in your email address in the 'from' field and then briefly describe what you were doing when the game crashed. The email will automatically include information about the crash, your system, and your save file.<\/p>\r\\n\\t\\t\\t\\t<p>And yes, this form literally emails Zach directly. He'll get back to you as soon as possible!<\/p>\r\\n\r\\n\\t\\t\\t\\t<form id='support-form' action='http:\/\/zachtronics.webfactional.com\/ironcladtactics\/crash_report' method='post'>\r\\n\\t\\t\\t\\t\\t<div class='form-element'>\r\\n\\t\\t\\t\\t\\t\\t<label for='email'>To:<\/label>\r\\n\\t\\t\\t\\t\\t\\t<input type='email' name='to' class='readonly' id='to'  value='zach@zachtronics.com' readonly \/>\r\\n\\t\\t\\t\\t\\t<\/div>\r\\n\\t\\t\\t\\t\\t<div class='form-element'>\r\\n\\t\\t\\t\\t\\t\\t<label for='email'>From:<\/label>\r\\n\\t\\t\\t\\t\\t\\t<input type='email' name='from' id='from' placeholder='Your email address' \/>\r\\n\\t\\t\\t\\t\\t<\/div>\r\\n\\t\\t\\t\\t\\t<div class='form-element'>\r\\n\\t\\t\\t\\t\\t\\t<label for='subject'>Subject:<\/label>\r\\n\\t\\t\\t\\t\\t\\t<input type='text' name='subject' class='readonly' id='subject' value='Crash report #REPLACE_TICKET_ID for REPLACE_GAME_TITLE' readonly \/>\r\\n\\t\\t\\t\\t\\t<\/div>\r\\n\\t\\t\\t\\t\\t<div class='form-element'>\r\\n\\t\\t\\t\\t\\t\\t<label for='message'>Details:<\/label>\r\\n\\t\\t\\t\\t\\t\\t<textarea class='message' id='message' name='message' placeholder='Describe what you were doing when the game crashed.'><\/textarea>\r\\n\\t\\t\\t\\t\\t<\/div>\r\\n\\t\\t\\t\\t\\t<div class='form-element'>\r\\n\\t\\t\\t\\t\\t\\t<label for='tech-info'>Attached:<\/label>\r\\n\\t\\t\\t\\t\\t\\t<div class='technical-info'>\r\\n\\t\\t\\t\\t\\t\\t\\t<p id='expand'>Click here to view the attached information.<\/p>\r\\n\\t\\t\\t\\t\\t\\t\\t<div id='display-technical-info'>\r\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class='add-info'>\r\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<em>Attached Data:<\/em>\r\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class='included-data'><a href='REPLACE_ZIP_PATH'>REPLACE_GAME_IDENTIFIER-save-directory.zip<\/a><\/div>\r\\n\\t\\t\\t\\t\\t\\t\\t\\t<\/div>\r\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class='add-info'>\r\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<em>Crash Info:<\/em>\r\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class='included-data'>REPLACE_REPORT_TEXT<\/div>\r\\n\\t\\t\\t\\t\\t\\t\\t\\t<\/div>\r\\n\\t\\t\\t\\t\\t\\t\\t<\/div>\r\\n\\t\\t\\t\\t\\t\\t<\/div>\r\\n\\t\\t\\t\\t\\t<\/div>\r\\n\r\\n\\t\\t\\t\\t\\t<input type='hidden' name='ticket' id='ticket' value='REPLACE_TICKET_ID' \/>\r\\n\\t\\t\\t\\t\\t<input type='hidden' name='report' id='report' value='REPLACE_ZIP_DATA' \/>\r\\n\\t\\t\\t\\t\\t<input type='submit' value='Submit' class='submit' id='submit' \/>\r\\n\\t\\t\\t\\t\\t\r\\n\\t\\t\\t\\t<\/form>\r\\n\\t\\t\\t<\/div>\r\\n\\t\\t<\/section>\r\\n\r\\n\\t\\t<footer>\r\\n\\t\\t\\t<p><a href='http:\/\/zachtronics.com' class='zachtronics'><\/a><\/p>\r\\n\\t\\t<\/footer>\r\\n\\t\\t\r\\n\\t<\/div>\r\\n\\t\r\\n\\t<script>\r\\n\\t\\t$('#display-technical-info').hide();\r\\n\\t\\t\r\\n\\t\\t$('#expand').click(function() {\r\\n\\t\\t\\t$('#display-technical-info').toggle('slow');\r\\n\\t\\t});\r\\n\\t<\/script>\r\\n\r\\n<\/body>\r\\n\r\\n<\/html>",
+        "English":"<!doctype html>_x000D_\\n<html>_x000D_\\n_x000D_\\n<head>_x000D_\\n_x000D_\\n\\t<title>Zachtronics Support<\/title>_x000D_\\n\\t_x000D_\\n\\t<script src='http:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.0.0\/jquery.min.js'><\/script>_x000D_\\n\\t_x000D_\\n    <style>_x000D_\\n    html, body, div, span, applet, object, iframe,_x000D_\\n    h1, h2, h3, h4, h5, h6, p, blockquote, pre,_x000D_\\n    a, abbr, acronym, address, big, cite, code,_x000D_\\n    del, dfn, em, img, ins, kbd, q, s, samp,_x000D_\\n    small, strike, strong, sub, sup, tt, var,_x000D_\\n    b, u, i, center,_x000D_\\n    dl, dt, dd, ol, ul, li,_x000D_\\n    fieldset, form, label, legend,_x000D_\\n    table, caption, tbody, tfoot, thead, tr, th, td,_x000D_\\n    article, aside, canvas, details, figcaption, figure, _x000D_\\n    footer, header, hgroup, menu, nav, section, summary,_x000D_\\n    time, mark, audio, video {_x000D_\\n\\t    margin: 0;_x000D_\\n\\t    padding: 0;_x000D_\\n\\t    border: 0;_x000D_\\n\\t    outline: 0;_x000D_\\n\\t    font-size: 100%;_x000D_\\n\\t    font: inherit;_x000D_\\n\\t    vertical-align: baseline;_x000D_\\n    }_x000D_\\n    \/* HTML5 display-role reset for older browsers *\/_x000D_\\n    article, aside, details, figcaption, figure, _x000D_\\n    footer, header, hgroup, menu, nav, section {_x000D_\\n\\t    display: block;_x000D_\\n    }_x000D_\\n    body {_x000D_\\n\\t    line-height: 1;_x000D_\\n    }_x000D_\\n    ol, ul {_x000D_\\n\\t    list-style: none;_x000D_\\n    }_x000D_\\n    blockquote, q {_x000D_\\n\\t    quotes: none;_x000D_\\n    }_x000D_\\n    blockquote:before, blockquote:after,_x000D_\\n    q:before, q:after {_x000D_\\n\\t    content: '';_x000D_\\n\\t    content: none;_x000D_\\n    }_x000D_\\n    ins {_x000D_\\n\\t    text-decoration: none;_x000D_\\n    }_x000D_\\n    del {_x000D_\\n\\t    text-decoration: line-through;_x000D_\\n    }_x000D_\\n_x000D_\\n    table {_x000D_\\n\\t    border-collapse: collapse;_x000D_\\n\\t    border-spacing: 0;_x000D_\\n    }_x000D_\\n    <\/style>_x000D_\\n_x000D_\\n    <style>_x000D_\\n    \/*--------------------------------------------------------------_x000D_\\n    Body_x000D_\\n    ----------------------------------------------------------------*\/_x000D_\\n    body {_x000D_\\n\\t    background: #373737;_x000D_\\n\\t    font-size: 100%;_x000D_\\n\\t    font-family: Arial, Helvetica, sans-serif;_x000D_\\n\\t    line-height: 1.5;_x000D_\\n    }_x000D_\\n_x000D_\\n    \/*--------------------------------------------------------------_x000D_\\n    Basic typography_x000D_\\n    ----------------------------------------------------------------*\/_x000D_\\n    h1, h2, h3 {_x000D_\\n\\t    font-family: Arial, Hellovetica, sans-serif;_x000D_\\n\\t    line-height: 1em;_x000D_\\n    }_x000D_\\n_x000D_\\n    h1 { font-size: 2em; }_x000D_\\n    h2 { font-size: 1.6em; }_x000D_\\n    h3 { font-size: 1.6em; }_x000D_\\n_x000D_\\n    em { font-style: italic; }_x000D_\\n    strong { font-weight: bold; }_x000D_\\n_x000D_\\n    p {_x000D_\\n\\t    padding: 0.3em 0;_x000D_\\n    }_x000D_\\n_x000D_\\n    \/* Links *\/_x000D_\\n_x000D_\\n    a { color: #e33533; text-decoration: none }_x000D_\\n_x000D_\\n    a:hover { text-decoration: underline }_x000D_\\n    \/*--------------------------------------------------------------_x000D_\\n    Elements_x000D_\\n    ----------------------------------------------------------------*\/_x000D_\\n_x000D_\\n    \/* forms *\/ _x000D_\\n    input, textarea {_x000D_\\n\\t    background: #fff9de;_x000D_\\n\\t    border: 1px solid #a6a6a6;_x000D_\\n\\t    border-radius: 5px;_x000D_\\n\\t\\t    -moz-border-radius: 5px;_x000D_\\n\\t\\t    -webkit-border-radius: 5px;_x000D_\\n\\t    font-family: Arial, Helvetica, sans-serif;\\t\\t_x000D_\\n\\t    font-size: 1.1em;_x000D_\\n\\t    padding: 0.2em;_x000D_\\n\\t    vertical-align: top;\\t_x000D_\\n    }_x000D_\\n_x000D_\\n    input:focus, input:hover, textarea:focus, text-area:hover {_x000D_\\n\\t    background: #fff;_x000D_\\n\\t    border: 1px solid #e33533;_x000D_\\n\\t    outline: none;_x000D_\\n    }_x000D_\\n_x000D_\\n    \/* lists *\/_x000D_\\n    ul { list-style: none; margin-left: 1em; }_x000D_\\n    ul li { _x000D_\\n        list-style-type: disc;_x000D_\\n    }_x000D_\\n_x000D_\\n    \/*--------------------------------------------------------------_x000D_\\n    Structure_x000D_\\n    ----------------------------------------------------------------*\/_x000D_\\n    header, footer {_x000D_\\n\\t    background: #373737;\\t_x000D_\\n\\t    color: #fff;_x000D_\\n    }_x000D_\\n_x000D_\\n    section {\\tbackground: #e0e0e0;_x000D_\\n\\t    border-radius: 5px;_x000D_\\n\\t\\t    -moz-border-radius: 5px;_x000D_\\n\\t\\t    -webkit-border-radius: 5px;_x000D_\\n\\t    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);\\t\\t_x000D_\\n\\t\\t    -moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);\\t_x000D_\\n\\t\\t    -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0,0.35);_x000D_\\n\\t    margin: 1.25em auto;_x000D_\\n\\t    padding: 0.6em;_x000D_\\n\\t    width: 960px;_x000D_\\n    }_x000D_\\n_x000D_\\n    section:after {_x000D_\\n\\t    content: '';_x000D_\\n\\t    display: table;_x000D_\\n\\t    clear: both;_x000D_\\n    }_x000D_\\n_x000D_\\n    #container {_x000D_\\n\\t    background: #f2f2f2;_x000D_\\n    }_x000D_\\n_x000D_\\n    \/* Header *\/_x000D_\\n_x000D_\\n    header { padding: 1em 0; }_x000D_\\n_x000D_\\n    header a {_x000D_\\n\\t    margin: 0 auto;_x000D_\\n\\t    padding: 0;_x000D_\\n\\t    background: transparent url(data:image\/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAABkCAMAAAA8PfCDAAAABGdBTUEAALGPC\/xhBQAAAEJQTFRF\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/AAAA\/8wArKGKRzEm1sGX4zUz\/\/\/\/U\/gN+QAAABB0Uk5TcK9QMI9gz9+f7xAgQL9\/AE+Uw7AAAAmhSURBVHja7Z3rmqMoEIY9oKIc3Jmd3P+tbrrTiRyqKFQQdx7qV7cSQvHiJxSladZqf401t2yV1FwpxXR\/g7b0jX62pdXdUsjTVxGu5WUw1QMzqw3aOgVXJfhWYtZ2F2q\/Xrkd0va\/oH19xDowKjYI1K9h2kq2TndujTE\/\/zmovCPbIdrTdxE2b0W4uBVMZp2Cmr\/YRR5zlxnmi2gDdqWc7GLtAjdmOAIz7OnPV8x2GX0Q5p\/N0sFU+KkfD0evAnYBzGdXAj0xeKWmHmwMPwCT8PS7SOuPuuU+MO2RPsSwtLoqH8xnTy8kyydzATVm3g+T8vTLoCLjfWBSosHBKoZLYLqjvp8f4c40GtPvhkl5ihZhd4Hp9LTy7lFwFdvlkBWmQ3OEC2kIpt4Lk\/QU90TeBGZHSMaE1MGvgfloCZG1p64aHJZxMElP8SLqJjA10LM4a6ADM8M0G4v1JTiyjIl5FEzaU3wwPfpTMCOQxsHkWMtf1qKV6ItgTqTIPaVwAWB2+2DSngZ6lN0DpgrK\/2J1mZqATs4Nc2uRtQhU1v2zA2CyXTAjPDWLKCk1OOIywWTKtAkBhk8mXGHhz+HfT941nBrmrEZEQyd7XmS2hQMwp10wIzwdnE8NuKAlh4nq5Yxder5gMNdr6c3ZaZjg0FGhE2bE7tPcxe27zp+3afCOEQMzwlPm3iNVaH2eEyayDpbhiZnylEy5nHLAtNfv0qu19S5VCOawB2aEp8q96Af6ptlEcdwJswNnBs8v8+YS2MLE6y6VEeYqZq8Oo6mNpzY9ALPdAzPC09k9sNCLkywwOYJLg3cwoI8nD1RWmGa1LfZFwSOGozEwIzz1r8ORDOllgTkj0UYVG+tTF8MU3g1xN8zP6m8fTEXD1H7vXQgTU1kgQNbdA6bZsqMwdW6YvAhMjm1ZhgKdZWHy8zBVLpjMv0ldCHOGg51rHw6GloSp3TXGfpjvcZscptfG6cIJUIdt6UgiaFwQZufWewBmlxTm6I2SgWvdSbljP\/MPYWdUViMBmRvAlAlg8qQwWzpGcAVMTGXBzVbx98CcksJs4pILMsNEVXabW08DEbn9X8L8GZiJYIqo7ejcMFGV3S5ZJd3wyo1g9odhNilhmjdNdQbmP192FCaqsqvR6WD\/32M2ux6G2SaF2WDL8Qth4iorIZgq2MeLfFufFyZLAXM+AdPz1NLZaSkDE1dZ80apoI3WCF3JHwEaj8N8HT8GM7yPSCQ\/Z4OJq6w2bksttDYpB3M5H2j\/fH8ymDIq7ycnTFxlLYA6mHF6OUw\/afIQzDEpTCuUPR6B+ftjx6a0uMpa0gquTYrBXOZ96DCY3x6ngykfO4U2NUxcZS0vZTB9OArmM7j1bTxppsG8noHZJYVpbxn2l8PscZUVZtxLQBue+2A+iD2YaJhyfASTtSJgjsanE8K0Ls2IGW1imAxXWftiDOaCXwdz0nwCd8v3wZTzNjdPCNMOgLKrYU64yjaWGI1AXkkBmOguzk6Y7RbRSwlzmR97onppYQZU1rhopXU7WO4EUx6E2WwRvZQw7ccYSKFtAIym7YPJApm6Nj4GjLfyMPl6EKbY5CgpTHsOxC6FOQUWRpMVJ4AeIS8O03ikbyfMj3epYYo9QpsUZu9tISArE3htUhqm+caCvTD556+0MO1cY0Jok8IMqWyPwWxvA7Nbj8PsPkqYGKYttPo6mCGV7ZwGASVLw9QnYC4fb1LDtIVWXAUzqLLaOTX7ofbSMNUJmJ8LaEkN057RKhLm7ygjkYZU1lj\/Skc9RMFw3gN8wuAIzPc\/TXKY9pO5w0UwQyprwOudFsqCgfbJGgziBMwev9DPwrRCB9M1MIMq68mq9suW2TUR4Mx\/N8x1zgbTFlp9Ccygyi7u0Br8pXChLbAZ+vx+mG0+mFbd83IFzKDKeglLMsbpS2AqKJy8H+aQEaYltM0FMMMqO7ghM+HfBQrBZND9aD9MkRGmNVKmiKXJv6AFsO5R2eCaojDMAdq12w\/Te3FQSphW6GDID3MMJqyoB71V4bvYf95fwvLBlNAM6ABMdgam5+mKbe37m4vpYYqwqo8BmB3q4jVJ0FAFB2B2Z2BK6loNJFelh9mEY04xgZtSMEdgzB+AuWSFKSJ0NhnMsMqKEExeGGYLtPwATPdWkgjm4i9P2EGYIFdi4DREahI27SsFE3q+\/AhMnQ6meL5gTT\/fejZvTeroWVMqmE04KTAcIC8MU55PG\/EWZydhQuNrfkCPAeSAOYbXQSwIcykLUwCicgSmE9FLDVNdBVMQmSoqCFOWhWlA4Kdg8hwwF6BJ52H++rKI5AYo9XoOwmwKw1T+DOgQzCEHTHk5TEJlgyuTD4RiMJnfTYdgir8CJqWyZod\/TLkeFYM5nM5oh0IjZ2B2gFP8IpiUynbQbn7jips\/v+2ugem\/7dX8oi4eJtsNE\/FUAsE7BaZEpIdJqayGulW6HikvhsTcmUmm5zN9XfEvDeXNSXyYXSRM0tMFSGZJus7EYVIqa0QvOPgpN5Pk3YGTeyATzCkgez\/DU\/hXkw5lvgRh0p7Onlh0UOJ9BphmfKeRji0r8J5jx0k\/gtI76i2zwmxD+3GvyTb3awNgqjiYtKfKi44qens6Cia12SapRSQcI3ZHo1nN3MiufQSULddj8D2Ahdlt0TjMJg4m7amJ++uV\/AsnpiWXwVzgpyWUq834arRds8Ls\/NHW4B71OMw+DibtqRUanL+DtOT85xqYEt6KY66TeNBvyAtT+Pf8BW0LEFiQUHQkBJP2dMJ7lBWF2cArJO8nC9GNsmnNCxMqyqnuBmHyOJi0pwFlEEVhanirs\/MY8\/j+SwsTCGILqrtBmEMcTNrTZaa2f0MwX\/brYwlhKrhX\/a0nxAO15obJgHGvwxlLMEwRCZP0FP3tt1mUhTkh3e0PyI5ofi6YjZ+RhOQtgYnSEoqfhPOBOxIUD2dMlYL5IGFqKEH07WG\/ZocJVgL9kjBfCZgsEibl6Yr8lB\/54FBmmD28MoFzyQdXf8Z+zQ8T+V1ohWzWBWDGZ+qHPYXnvHPwZaVXwJTYcreFvBQKk7WcMCd4FddYHa76lYQZ\/WvwhKcv35zRxIPP2qaBKXTAxCq3f5y2wid69tY31Qj0E8L\/cuf9DduJgTwxIG1chvb9wibuvh5Cem2xahrIdoQ8fZdoPvECrAgO8y72TE+T4i6NMV7pW8LT5R3iXv+nMKsdsAqzwqxWYVarMKtVmBVmtQqzWoVZrcKsVmFWmNUqzGoVZrUKs1qFWWFWqzCrVZjVKswKs1qFWa3CrJba\/gP20cw\/hqSbfgAAAABJRU5ErkJggg==) no-repeat 10px 0px;_x000D_\\n\\t    display: block;_x000D_\\n\\t    height: 80px;_x000D_\\n\\t    width: 460px;_x000D_\\n\\t    text-indent: -9999px;_x000D_\\n    }_x000D_\\n_x000D_\\n    header a:hover {_x000D_\\n\\t    background: transparent url(data:image\/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAABkCAMAAAA8PfCDAAAABGdBTUEAALGPC\/xhBQAAAEJQTFRF\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/AAAA\/8wArKGKRzEm1sGX\/1BP\/\/\/\/V9coAAAAABB0Uk5TcK9QMI9gz9+f7xAgQL9\/AE+Uw7AAAAmhSURBVHja7Z3rmqMoEIY9oKIc3Jmd3P+tbrrTiRyqKFQQdx7qV7cSQvHiJxSladZqf401t2yV1FwpxXR\/g7b0jX62pdXdUsjTVxGu5WUw1QMzqw3aOgVXJfhWYtZ2F2q\/Xrkd0va\/oH19xDowKjYI1K9h2kq2TndujTE\/\/zmovCPbIdrTdxE2b0W4uBVMZp2Cmr\/YRR5zlxnmi2gDdqWc7GLtAjdmOAIz7OnPV8x2GX0Q5p\/N0sFU+KkfD0evAnYBzGdXAj0xeKWmHmwMPwCT8PS7SOuPuuU+MO2RPsSwtLoqH8xnTy8kyydzATVm3g+T8vTLoCLjfWBSosHBKoZLYLqjvp8f4c40GtPvhkl5ihZhd4Hp9LTy7lFwFdvlkBWmQ3OEC2kIpt4Lk\/QU90TeBGZHSMaE1MGvgfloCZG1p64aHJZxMElP8SLqJjA10LM4a6ADM8M0G4v1JTiyjIl5FEzaU3wwPfpTMCOQxsHkWMtf1qKV6ItgTqTIPaVwAWB2+2DSngZ6lN0DpgrK\/2J1mZqATs4Nc2uRtQhU1v2zA2CyXTAjPDWLKCk1OOIywWTKtAkBhk8mXGHhz+HfT941nBrmrEZEQyd7XmS2hQMwp10wIzwdnE8NuKAlh4nq5Yxder5gMNdr6c3ZaZjg0FGhE2bE7tPcxe27zp+3afCOEQMzwlPm3iNVaH2eEyayDpbhiZnylEy5nHLAtNfv0qu19S5VCOawB2aEp8q96Af6ptlEcdwJswNnBs8v8+YS2MLE6y6VEeYqZq8Oo6mNpzY9ALPdAzPC09k9sNCLkywwOYJLg3cwoI8nD1RWmGa1LfZFwSOGozEwIzz1r8ORDOllgTkj0UYVG+tTF8MU3g1xN8zP6m8fTEXD1H7vXQgTU1kgQNbdA6bZsqMwdW6YvAhMjm1ZhgKdZWHy8zBVLpjMv0ldCHOGg51rHw6GloSp3TXGfpjvcZscptfG6cIJUIdt6UgiaFwQZufWewBmlxTm6I2SgWvdSbljP\/MPYWdUViMBmRvAlAlg8qQwWzpGcAVMTGXBzVbx98CcksJs4pILMsNEVXabW08DEbn9X8L8GZiJYIqo7ejcMFGV3S5ZJd3wyo1g9odhNilhmjdNdQbmP192FCaqsqvR6WD\/32M2ux6G2SaF2WDL8Qth4iorIZgq2MeLfFufFyZLAXM+AdPz1NLZaSkDE1dZ80apoI3WCF3JHwEaj8N8HT8GM7yPSCQ\/Z4OJq6w2bksttDYpB3M5H2j\/fH8ymDIq7ycnTFxlLYA6mHF6OUw\/afIQzDEpTCuUPR6B+ftjx6a0uMpa0gquTYrBXOZ96DCY3x6ngykfO4U2NUxcZS0vZTB9OArmM7j1bTxppsG8noHZJYVpbxn2l8PscZUVZtxLQBue+2A+iD2YaJhyfASTtSJgjsanE8K0Ls2IGW1imAxXWftiDOaCXwdz0nwCd8v3wZTzNjdPCNMOgLKrYU64yjaWGI1AXkkBmOguzk6Y7RbRSwlzmR97onppYQZU1rhopXU7WO4EUx6E2WwRvZQw7ccYSKFtAIym7YPJApm6Nj4GjLfyMPl6EKbY5CgpTHsOxC6FOQUWRpMVJ4AeIS8O03ikbyfMj3epYYo9QpsUZu9tISArE3htUhqm+caCvTD556+0MO1cY0Jok8IMqWyPwWxvA7Nbj8PsPkqYGKYttPo6mCGV7ZwGASVLw9QnYC4fb1LDtIVWXAUzqLLaOTX7ofbSMNUJmJ8LaEkN057RKhLm7ygjkYZU1lj\/Skc9RMFw3gN8wuAIzPc\/TXKY9pO5w0UwQyprwOudFsqCgfbJGgziBMwev9DPwrRCB9M1MIMq68mq9suW2TUR4Mx\/N8x1zgbTFlp9Ccygyi7u0Br8pXChLbAZ+vx+mG0+mFbd83IFzKDKeglLMsbpS2AqKJy8H+aQEaYltM0FMMMqO7ghM+HfBQrBZND9aD9MkRGmNVKmiKXJv6AFsO5R2eCaojDMAdq12w\/Te3FQSphW6GDID3MMJqyoB71V4bvYf95fwvLBlNAM6ABMdgam5+mKbe37m4vpYYqwqo8BmB3q4jVJ0FAFB2B2Z2BK6loNJFelh9mEY04xgZtSMEdgzB+AuWSFKSJ0NhnMsMqKEExeGGYLtPwATPdWkgjm4i9P2EGYIFdi4DREahI27SsFE3q+\/AhMnQ6meL5gTT\/fejZvTeroWVMqmE04KTAcIC8MU55PG\/EWZydhQuNrfkCPAeSAOYbXQSwIcykLUwCicgSmE9FLDVNdBVMQmSoqCFOWhWlA4Kdg8hwwF6BJ52H++rKI5AYo9XoOwmwKw1T+DOgQzCEHTHk5TEJlgyuTD4RiMJnfTYdgir8CJqWyZod\/TLkeFYM5nM5oh0IjZ2B2gFP8IpiUynbQbn7jips\/v+2ugem\/7dX8oi4eJtsNE\/FUAsE7BaZEpIdJqayGulW6HikvhsTcmUmm5zN9XfEvDeXNSXyYXSRM0tMFSGZJus7EYVIqa0QvOPgpN5Pk3YGTeyATzCkgez\/DU\/hXkw5lvgRh0p7Onlh0UOJ9BphmfKeRji0r8J5jx0k\/gtI76i2zwmxD+3GvyTb3awNgqjiYtKfKi44qens6Cia12SapRSQcI3ZHo1nN3MiufQSULddj8D2Ahdlt0TjMJg4m7amJ++uV\/AsnpiWXwVzgpyWUq834arRds8Ls\/NHW4B71OMw+DibtqRUanL+DtOT85xqYEt6KY66TeNBvyAtT+Pf8BW0LEFiQUHQkBJP2dMJ7lBWF2cArJO8nC9GNsmnNCxMqyqnuBmHyOJi0pwFlEEVhanirs\/MY8\/j+SwsTCGILqrtBmEMcTNrTZaa2f0MwX\/brYwlhKrhX\/a0nxAO15obJgHGvwxlLMEwRCZP0FP3tt1mUhTkh3e0PyI5ofi6YjZ+RhOQtgYnSEoqfhPOBOxIUD2dMlYL5IGFqKEH07WG\/ZocJVgL9kjBfCZgsEibl6Yr8lB\/54FBmmD28MoFzyQdXf8Z+zQ8T+V1ohWzWBWDGZ+qHPYXnvHPwZaVXwJTYcreFvBQKk7WcMCd4FddYHa76lYQZ\/WvwhKcv35zRxIPP2qaBKXTAxCq3f5y2wid69tY31Qj0E8L\/cuf9DduJgTwxIG1chvb9wibuvh5Cem2xahrIdoQ8fZdoPvECrAgO8y72TE+T4i6NMV7pW8LT5R3iXv+nMKsdsAqzwqxWYVarMKtVmBVmtQqzWoVZrcKsVmFWmNUqzGoVZrUKs1qFWWFWqzCrVZjVKswKs1qFWa3CrJba\/gP20cw\/hqSbfgAAAABJRU5ErkJggg==) no-repeat 10px 0px;_x000D_\\n    }_x000D_\\n_x000D_\\n    \/* Footer *\/_x000D_\\n_x000D_\\n    footer { _x000D_\\n\\t    padding: 0.5em 0; _x000D_\\n\\t    text-align: center;\\t_x000D_\\n    }_x000D_\\n_x000D_\\n    footer a {_x000D_\\n\\t    margin: 0 auto;_x000D_\\n\\t    padding: 0;_x000D_\\n\\t    display: block;_x000D_\\n\\t    height: 20px;_x000D_\\n\\t    width: 55px;_x000D_\\n\\t    text-indent: -9999px;\\t_x000D_\\n    }_x000D_\\n_x000D_\\n_x000D_\\n    \/*--------------------------------------------------------------_x000D_\\n    Directions\/Main content_x000D_\\n    ----------------------------------------------------------------*\/_x000D_\\n_x000D_\\n    #welcome p{_x000D_\\n\\t    padding-left: 10px;_x000D_\\n    }_x000D_\\n_x000D_\\n    #welcome h1 {_x000D_\\n\\t    padding-top: 5px;_x000D_\\n\\t    padding-left: 10px;_x000D_\\n    }_x000D_\\n_x000D_\\n    .step {}_x000D_\\n_x000D_\\n    .step h1 {_x000D_\\n\\t    background: #373737;_x000D_\\n\\t    border-radius: 200px;_x000D_\\n\\t\\t    -moz-border-radius: 200px;_x000D_\\n\\t\\t    -webkit-border-radius: 200px;_x000D_\\n\\t    color: #fff;_x000D_\\n\\t    display: inline-block;\\t_x000D_\\n\\t    font-weight: bold;_x000D_\\n\\t    line-height: 1.2;_x000D_\\n\\t    height: 40px;_x000D_\\n\\t    width: 40px;_x000D_\\n\\t    text-align: center;_x000D_\\n\\t    text-shadow: 2px 1px 1px #666;_x000D_\\n    }_x000D_\\n_x000D_\\n    .step h2 { display: inline-block; padding-left: 9px; }_x000D_\\n_x000D_\\n    .step .directions { padding-left: 55px; }\\t_x000D_\\n_x000D_\\n    \/*--------------------------------------------------------------_x000D_\\n    Support Form_x000D_\\n    ----------------------------------------------------------------*\/_x000D_\\n    #support-form {}_x000D_\\n    #support-form .form-element { padding: 0.5em 0; }_x000D_\\n    #support-form label { _x000D_\\n\\t    display: inline-block;\\t_x000D_\\n\\t    font-weight: bold;_x000D_\\n\\t    vertical-align: top;_x000D_\\n\\t    width: 85px;_x000D_\\n    }_x000D_\\n_x000D_\\n    #support-form span.additional-info {_x000D_\\n    }_x000D_\\n\\t_x000D_\\n    #support-form input{ _x000D_\\n\\t    height: 20px;_x000D_\\n\\t    width: 300px; _x000D_\\n    }_x000D_\\n_x000D_\\n    #support-form input#subject { width: 745px; }_x000D_\\n\\t_x000D_\\n    #support-form textarea { _x000D_\\n\\t    height: 200px; _x000D_\\n\\t    width: 745px;_x000D_\\n    }_x000D_\\n_x000D_\\n    .readonly { background: #f7f7f7; }_x000D_\\n_x000D_\\n    .readonly:hover, .readyonly:focus {_x000D_\\n\\t    background: #f7f7f7;_x000D_\\n\\t    border: 1px solid #939393;_x000D_\\n    }_x000D_\\n_x000D_\\n    #expand { color: #e33533; }_x000D_\\n_x000D_\\n    #expand:hover { _x000D_\\n\\t    color: #e33533;_x000D_\\n\\t    text-decoration: underline;_x000D_\\n\\t    cursor: hand;_x000D_\\n\\t    cursor: pointer;_x000D_\\n    }_x000D_\\n_x000D_\\n    #support-form .technical-info {_x000D_\\n\\t    background: #f7f7f7;_x000D_\\n\\t    border: 1px solid #a6a6a6;\\t_x000D_\\n\\t    border-radius: 5px;_x000D_\\n\\t\\t    -moz-border-radius: 5px;_x000D_\\n\\t\\t    -webkit-border-radius: 5px;_x000D_\\n\\t    display: inline-block;_x000D_\\n\\t    padding: 0.2em 0.7em;_x000D_\\n\\t    width: 730px;_x000D_\\n    }_x000D_\\n_x000D_\\n    #display-technical-info  {_x000D_\\n\\t    font-family: Consolas, monaco, monospace;_x000D_\\n\\t    overflow: auto;_x000D_\\n\\t    border: none;_x000D_\\n\\t    border-radius: none;_x000D_\\n\\t    height: 350px;_x000D_\\n\\t    width: 100%;_x000D_\\n    }_x000D_\\n_x000D_\\n    .add-info {_x000D_\\n\\t    border-top: 1px solid #999;_x000D_\\n\\t    font-size: 90%;_x000D_\\n\\t    padding: 0.2em;_x000D_\\n\\t    margin-bottom: 1em;_x000D_\\n    }_x000D_\\n_x000D_\\n    .included-data {_x000D_\\n\\t    white-space: pre;_x000D_\\n\\t    font-size: 80%;_x000D_\\n    }_x000D_\\n_x000D_\\n    #support-form  input.submit {_x000D_\\n\\t    color: #fff;_x000D_\\n\\t    display: block;_x000D_\\n\\t    font-family: LeagueGothic, Impact, sans-serif;_x000D_\\n\\t    font-size: 2.2em;_x000D_\\n\\t    text-transform: uppercase;_x000D_\\n\\t    text-shadow: 2px 2px 0 #333;\\t_x000D_\\n\\t    margin: 0.25em auto;\\t_x000D_\\n\\t    height: 60px;_x000D_\\n\\t    width: 140px;_x000D_\\n\\t    box-shadow: inset -2px -2px 1px rgba(0, 0, 0, 0.25);_x000D_\\n\\t\\t    -moz-box-shadow: inset -2px -2px 1px rgba(0, 0, 0, 0.25);_x000D_\\n\\t\\t    -webkit-box-shadow: inset -2px -2px 1px rgba(0, 0, 0, 0.25);_x000D_\\n\\t    \/* gradient! *\/_x000D_\\n\\t    background: #aa0404; \/* Old browsers *\/_x000D_\\n\\t    background: -moz-linear-gradient(top, #aa0404 0%, #cc2e2e 50%, #aa0404 100%); \/* FF3.6+ *\/_x000D_\\n\\t    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#aa0404), color-stop(50%,#cc2e2e), color-stop(100%,#aa0404)); \/* Chrome,Safari4+ *\/_x000D_\\n\\t    background: -webkit-linear-gradient(top, #aa0404 0%,#cc2e2e 50%,#aa0404 100%); \/* Chrome10+,Safari5.1+ *\/_x000D_\\n\\t    background: -o-linear-gradient(top, #aa0404 0%,#cc2e2e 50%,#aa0404 100%); \/* Opera 11.10+ *\/_x000D_\\n\\t    background: -ms-linear-gradient(top, #aa0404 0%,#cc2e2e 50%,#aa0404 100%); \/* IE10+ *\/_x000D_\\n\\t    background: linear-gradient(to bottom, #aa0404 0%,#cc2e2e 50%,#aa0404 100%); \/* W3C *\/_x000D_\\n\\t    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aa0404', endColorstr='#aa0404',GradientType=0 ); \/* IE6-9 *\/\\t_x000D_\\n    }_x000D_\\n_x000D_\\n    #support-form input.submit:hover {_x000D_\\n\\t    box-shadow: inset 2px 2px 1px rgba(0, 0, 0, 0.5);_x000D_\\n\\t\\t    -moz-box-shadow: inset 2px 2px 1px rgba(0, 0, 0, 0.5);_x000D_\\n\\t\\t    -webkit-box-shadow: inset 2px 2px 1px rgba(0, 0, 0, 0.5);_x000D_\\n\\t    position: relative;_x000D_\\n\\t    top: 1px;_x000D_\\n\\t    text-shadow: -2px -2px 0 #333;_x000D_\\n\\t    cursor: hand;_x000D_\\n\\t    cursor: pointer;_x000D_\\n    }_x000D_\\n    <\/style>_x000D_\\n_x000D_\\n<\/head>_x000D_\\n_x000D_\\n<body>_x000D_\\n_x000D_\\n\\t<div id='container'>_x000D_\\n\\t_x000D_\\n\\t\\t<header>_x000D_\\n\\t\\t\\t<a href='http:\/\/zachtronics.com' class='zachtronics'><\/a>_x000D_\\n\\t\\t<\/header>_x000D_\\n_x000D_\\n\\t\\t<section id='welcome'>_x000D_\\n\\t\\t\\t<h1>Oh no! It looks like your game crashed.<\/h1>_x000D_\\n\\t\\t\\t<p>Follow these steps to get things back up and running!<\/p>_x000D_\\n\\t\\t<\/section>_x000D_\\n_x000D_\\n\\t\\t<section id='step-1' class='step'>_x000D_\\n\\t\\t\\t<h1>1<\/h1>_x000D_\\n\\t\\t\\t<h2>Launch the game again.<\/h2>_x000D_\\n\\t\\t\\t<div class='directions'>_x000D_\\n\\t\\t\\t\\t<p>If this is the first time the game has crashed, close this page and launch the game again. Sometimes these things just happen!<\/p>_x000D_\\n\\t\\t\\t<\/div>_x000D_\\n\\t\\t<\/section>_x000D_\\n_x000D_\\n        <section id='step-2' class='step'>_x000D_\\n\\t\\t\\t<h1>2<\/h1>_x000D_\\n\\t\\t\\t<h2>Check your antivirus software.<\/h2>_x000D_\\n\\t\\t\\t<div class='directions'>_x000D_\\n\\t\\t\\t\\t<p>Lately we've been getting many reports of crashes caused by antivirus and anti-malware software blocking the game from either reading its files or saving to its save directory. Newer versions of Windows 10 will even sometimes block programs from saving to the My Documents folder. If you're running an antivirus or anti-malware program, please make sure that it's not the culprit by checking that program's logs and\/or temporarily disabling it.<\/p>_x000D_\\n\\t\\t\\t<\/div>_x000D_\\n\\t\\t<\/section>_x000D_\\n_x000D_\\n\\t\\t<section id='step-3' class='step'>_x000D_\\n\\t\\t\\t<h1>3<\/h1>_x000D_\\n\\t\\t\\t<h2>Update your video drivers and restart your computer.<\/h2>_x000D_\\n\\t\\t\\t<div class='directions'>_x000D_\\n\\t\\t\\t\\t<p>Another thing to try before contacting us is to update your video drivers. Find your video card manufacturer in the list below, and then click either the link to the manual or automatic driver download page. After updating your drivers, be sure to restart your computer!<\/p>_x000D_\\n\\t\\t\\t\\t<ul>_x000D_\\n\\t\\t\\t\\t\\t<li>NVIDIA (<a href='http:\/\/www.nvidia.com\/Download\/index.aspx'>Manual<\/a>, <a href='http:\/\/www.nvidia.com\/Download\/Scan.aspx'>Automatic<\/a>)<\/li>_x000D_\\n\\t\\t\\t\\t\\t<li>AMD (<a href='http:\/\/support.amd.com\/us\/gpudownload\/Pages\/index.aspx'>Manual<\/a>, <a href='http:\/\/support.amd.com\/us\/gpudownload\/windows\/Pages\/auto_detect.aspx'>Automatic<\/a>)<\/li>_x000D_\\n\\t\\t\\t\\t\\t<li>Intel (<a href='https:\/\/downloadcenter.intel.com\/default.aspx'>Manual<\/a>, <a href='http:\/\/www.intel.com\/p\/en_US\/support\/detect?iid=dc_iduu'>Automatic<\/a>)<\/li>_x000D_\\n\\t\\t\\t\\t<\/ul>_x000D_\\n\\t\\t\\t<\/div>_x000D_\\n\\t\\t<\/section>_x000D_\\n_x000D_\\n\\t\\t<section id='step-4' class='step'>_x000D_\\n\\t\\t\\t<h1>4<\/h1>_x000D_\\n\\t\\t\\t<h2>If all else fails, ask Zach!<\/h2>_x000D_\\n\\t\\t\\t<div class='directions'>_x000D_\\n\\t\\t\\t\\t<p>If the steps above haven't solved the problem, use the form below to email Zach. Fill in your email address in the 'from' field and then briefly describe what you were doing when the game crashed. The email will automatically include information about the crash, your system, and your save file.<\/p>_x000D_\\n\\t\\t\\t\\t<p>And yes, this form literally emails Zach directly. He'll get back to you as soon as possible!<\/p>_x000D_\\n_x000D_\\n\\t\\t\\t\\t<form id='support-form' action='http:\/\/zachtronics.webfactional.com\/ironcladtactics\/crash_report' method='post'>_x000D_\\n\\t\\t\\t\\t\\t<div class='form-element'>_x000D_\\n\\t\\t\\t\\t\\t\\t<label for='email'>To:<\/label>_x000D_\\n\\t\\t\\t\\t\\t\\t<input type='email' name='to' class='readonly' id='to'  value='zach@zachtronics.com' readonly \/>_x000D_\\n\\t\\t\\t\\t\\t<\/div>_x000D_\\n\\t\\t\\t\\t\\t<div class='form-element'>_x000D_\\n\\t\\t\\t\\t\\t\\t<label for='email'>From:<\/label>_x000D_\\n\\t\\t\\t\\t\\t\\t<input type='email' name='from' id='from' placeholder='Your email address' \/>_x000D_\\n\\t\\t\\t\\t\\t<\/div>_x000D_\\n\\t\\t\\t\\t\\t<div class='form-element'>_x000D_\\n\\t\\t\\t\\t\\t\\t<label for='subject'>Subject:<\/label>_x000D_\\n\\t\\t\\t\\t\\t\\t<input type='text' name='subject' class='readonly' id='subject' value='Crash report #REPLACE_TICKET_ID for REPLACE_GAME_TITLE' readonly \/>_x000D_\\n\\t\\t\\t\\t\\t<\/div>_x000D_\\n\\t\\t\\t\\t\\t<div class='form-element'>_x000D_\\n\\t\\t\\t\\t\\t\\t<label for='message'>Details:<\/label>_x000D_\\n\\t\\t\\t\\t\\t\\t<textarea class='message' id='message' name='message' placeholder='Describe what you were doing when the game crashed.'><\/textarea>_x000D_\\n\\t\\t\\t\\t\\t<\/div>_x000D_\\n\\t\\t\\t\\t\\t<div class='form-element'>_x000D_\\n\\t\\t\\t\\t\\t\\t<label for='tech-info'>Attached:<\/label>_x000D_\\n\\t\\t\\t\\t\\t\\t<div class='technical-info'>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t<p id='expand'>Click here to view the attached information.<\/p>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t<div id='display-technical-info'>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class='add-info'>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<em>Attached Data:<\/em>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class='included-data'><a href='REPLACE_ZIP_PATH'>REPLACE_GAME_IDENTIFIER-save-directory.zip<\/a><\/div>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t\\t<\/div>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t\\t<div class='add-info'>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<em>Crash Info:<\/em>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t\\t\\t<div class='included-data'>REPLACE_REPORT_TEXT<\/div>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t\\t<\/div>_x000D_\\n\\t\\t\\t\\t\\t\\t\\t<\/div>_x000D_\\n\\t\\t\\t\\t\\t\\t<\/div>_x000D_\\n\\t\\t\\t\\t\\t<\/div>_x000D_\\n_x000D_\\n\\t\\t\\t\\t\\t<input type='hidden' name='ticket' id='ticket' value='REPLACE_TICKET_ID' \/>_x000D_\\n\\t\\t\\t\\t\\t<input type='hidden' name='report' id='report' value='REPLACE_ZIP_DATA' \/>_x000D_\\n\\t\\t\\t\\t\\t<input type='submit' value='Submit' class='submit' id='submit' \/>_x000D_\\n\\t\\t\\t\\t\\t_x000D_\\n\\t\\t\\t\\t<\/form>_x000D_\\n\\t\\t\\t<\/div>_x000D_\\n\\t\\t<\/section>_x000D_\\n_x000D_\\n\\t\\t<footer>_x000D_\\n\\t\\t\\t<p><a href='http:\/\/zachtronics.com' class='zachtronics'><\/a><\/p>_x000D_\\n\\t\\t<\/footer>_x000D_\\n\\t\\t_x000D_\\n\\t<\/div>_x000D_\\n\\t_x000D_\\n\\t<script>_x000D_\\n\\t\\t$('#display-technical-info').hide();_x000D_\\n\\t\\t_x000D_\\n\\t\\t$('#expand').click(function() {_x000D_\\n\\t\\t\\t$('#display-technical-info').toggle('slow');_x000D_\\n\\t\\t});_x000D_\\n\\t<\/script>_x000D_\\n_x000D_\\n<\/body>_x000D_\\n_x000D_\\n<\/html>",
         "German":"",
         "French":"",
         "Russian":"",
@@ -1792,7 +1792,7 @@
         "Japanese":""
     },
     {
-        "English":"\r\\n\r\\n",
+        "English":"_x000D_\\n_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -1824,7 +1824,7 @@
         "Japanese":""
     },
     {
-        "English":"PRODUCT: {0}\r\\n\r\\nCALL STACK:\r\\n\r\\n{1}\r\\n{2}\r\\n\r\\nSYSTEM INFO:\r\\n\r\\n{3}",
+        "English":"PRODUCT: {0}_x000D_\\n_x000D_\\nCALL STACK:_x000D_\\n_x000D_\\n{1}_x000D_\\n{2}_x000D_\\n_x000D_\\nSYSTEM INFO:_x000D_\\n_x000D_\\n{3}",
         "German":"",
         "French":"",
         "Russian":"",
@@ -1896,7 +1896,7 @@
         "Japanese":""
     },
     {
-        "English":"DLL diagnostic:\r\\n",
+        "English":"DLL diagnostic:_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -1960,7 +1960,7 @@
         "Japanese":""
     },
     {
-        "English":"  {0}: {1}\r\\n",
+        "English":"  {0}: {1}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -1968,7 +1968,7 @@
         "Japanese":""
     },
     {
-        "English":"  (No output for this OS.)\r\\n",
+        "English":"  (No output for this OS.)_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -4236,7 +4236,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"替换发送给 Ghast 的邮件中的单词，以更改其含义。",
         "Japanese":""
     },
     {
@@ -4252,7 +4252,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"获取新一期的杂志以及额外赠品。",
         "Japanese":""
     },
     {
@@ -4268,7 +4268,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"KGOG 电视台",
         "Japanese":""
     },
     {
@@ -4276,7 +4276,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"广播中心",
         "Japanese":""
     },
     {
@@ -4292,7 +4292,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"与对手竞争，看谁先控制电视台。",
         "Japanese":""
     },
     {
@@ -4316,7 +4316,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"开发套件",
         "Japanese":""
     },
     {
@@ -4332,7 +4332,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"获得 TEC Redshift 开发套件的访问权限。",
         "Japanese":""
     },
     {
@@ -4356,7 +4356,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"为 TEC Redshift 创建一个你自己的游戏。 （可选）",
         "Japanese":""
     },
     {
@@ -5728,7 +5728,7 @@
         "Japanese":""
     },
     {
-        "English":"\r",
+        "English":"_x000D_",
         "German":"",
         "French":"",
         "Russian":"",
@@ -5920,7 +5920,7 @@
         "Japanese":""
     },
     {
-        "English":"\r\\n----------------\r\\n{0}\r\\n{1}\r\\n",
+        "English":"_x000D_\\n----------------_x000D_\\n{0}_x000D_\\n{1}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -6008,7 +6008,7 @@
         "Japanese":""
     },
     {
-        "English":"Platform: {0} ({1})\r\\n",
+        "English":"Platform: {0} ({1})_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -6016,7 +6016,7 @@
         "Japanese":""
     },
     {
-        "English":"OS version: {0}\r\\n",
+        "English":"OS version: {0}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -6024,7 +6024,7 @@
         "Japanese":""
     },
     {
-        "English":"OS version (uname): {0}\r\\n",
+        "English":"OS version (uname): {0}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -6032,7 +6032,7 @@
         "Japanese":""
     },
     {
-        "English":"OS is 64-bit: {0}\r\\n",
+        "English":"OS is 64-bit: {0}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -6040,7 +6040,7 @@
         "Japanese":""
     },
     {
-        "English":"Detected OS: {0}\r\\n",
+        "English":"Detected OS: {0}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -6048,7 +6048,7 @@
         "Japanese":""
     },
     {
-        "English":".NET runtime version: {0}\r\\n",
+        "English":".NET runtime version: {0}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -6056,7 +6056,7 @@
         "Japanese":""
     },
     {
-        "English":"Running on Mono: {0}\r\\n",
+        "English":"Running on Mono: {0}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -6064,7 +6064,7 @@
         "Japanese":""
     },
     {
-        "English":"Process is 64-bit: {0}\r\\n",
+        "English":"Process is 64-bit: {0}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -12800,7 +12800,7 @@
         "Japanese":""
     },
     {
-        "English":"\/\/ For the latest Axiom VirtualNetwork+ scripting documentation, \r\\n\/\/ please visit: http:\/\/www.zachtronics.com\/virtualnetwork\/\r\\n\r\\nfunction getTitle() {\r\\n    return \"NEW VIRTUAL NETWORK\";\r\\n}\r\\n\r\\nfunction getSubtitle() {\r\\n    return \"POWERED BY EXAS®\";\r\\n}\r\\n\r\\nfunction getDescription() {\r\\n    return \"This is a description of the virtual network.\";\r\\n}\r\\n\r\\nfunction initializeTestRun(testRun) {\r\\n    var targetHost = createHost(\"target\", 5, 0, 3, 3);\r\\n}\r\\n\r\\nfunction onCycleFinished() {\r\\n}\r\\n",
+        "English":"\/\/ For the latest Axiom VirtualNetwork+ scripting documentation, _x000D_\\n\/\/ please visit: http:\/\/www.zachtronics.com\/virtualnetwork\/_x000D_\\n_x000D_\\nfunction getTitle() {_x000D_\\n    return \"NEW VIRTUAL NETWORK\";_x000D_\\n}_x000D_\\n_x000D_\\nfunction getSubtitle() {_x000D_\\n    return \"POWERED BY EXAS®\";_x000D_\\n}_x000D_\\n_x000D_\\nfunction getDescription() {_x000D_\\n    return \"This is a description of the virtual network.\";_x000D_\\n}_x000D_\\n_x000D_\\nfunction initializeTestRun(testRun) {_x000D_\\n    var targetHost = createHost(\"target\", 5, 0, 3, 3);_x000D_\\n}_x000D_\\n_x000D_\\nfunction onCycleFinished() {_x000D_\\n}_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -13012,7 +13012,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"击败",
         "Japanese":""
     },
     {
@@ -13020,7 +13020,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"对手",
         "Japanese":""
     },
     {
@@ -13028,7 +13028,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"变更",
         "Japanese":""
     },
     {
@@ -13728,7 +13728,7 @@
         "Japanese":""
     },
     {
-        "English":"The game has crashed because it cannot access its save files, which are located in this folder:\r\\n\r\\n",
+        "English":"The game has crashed because it cannot access its save files, which are located in this folder:_x000D_\\n_x000D_\\n",
         "German":"",
         "French":"",
         "Russian":"",
@@ -13736,7 +13736,7 @@
         "Japanese":""
     },
     {
-        "English":"\r\\n\r\\nThis is typically caused by either an antivirus program or the \"controlled folder access\" feature in Windows 10.\r\\n\r\\nPlease make sure that nothing is blocking the game from accessing its save files. If you are unable to fix the issue\r\\non your own you can email support@zachtronics.com for further assistance.",
+        "English":"_x000D_\\n_x000D_\\nThis is typically caused by either an antivirus program or the \"controlled folder access\" feature in Windows 10._x000D_\\n_x000D_\\nPlease make sure that nothing is blocking the game from accessing its save files. If you are unable to fix the issue_x000D_\\non your own you can email support@zachtronics.com for further assistance.",
         "German":"",
         "French":"",
         "Russian":"",
@@ -27604,7 +27604,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"{0} 频道",
         "Japanese":""
     },
     {
