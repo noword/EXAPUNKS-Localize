@@ -164,7 +164,7 @@
         "Role":"EMBER-2",
         "English":"Everyone knows obscure import games are the best.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"众所皆知，另类老游戏是最棒的。",
         "Japanese":""
     },
     {
@@ -676,7 +676,7 @@
         "Role":"EMBER-2",
         "English":"Okay, no more trying to find shortcuts.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好的，不去找捷径了。",
         "Japanese":""
     },
     {
@@ -684,7 +684,7 @@
         "Role":"EMBER-2",
         "English":"Time for a brute-force solution to the money problem.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是时候采取暴力手段解决资金问题了。",
         "Japanese":""
     },
     {
@@ -692,7 +692,7 @@
         "Role":"EMBER-2",
         "English":"I know you like messing around with bank systems...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我知道你喜欢摆弄银行系统。",
         "Japanese":""
     },
     {
@@ -708,7 +708,7 @@
         "Role":"",
         "English":"Hacking those ATMs was your idea.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"入侵那些 ATM 可是你的主意。",
         "Japanese":""
     },
     {
@@ -716,7 +716,7 @@
         "Role":"",
         "English":"It’s all the same to me...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"对我来说都一样...",
         "Japanese":""
     },
     {
@@ -724,7 +724,7 @@
         "Role":"EMBER-2",
         "English":"Well, you get to do it again!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好吧，你要再干一票！",
         "Japanese":""
     },
     {
@@ -732,7 +732,7 @@
         "Role":"EMBER-2",
         "English":"This time with a little more urgency.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这次比较紧急。",
         "Japanese":""
     },
     {
@@ -740,7 +740,7 @@
         "Role":"EMBER-2",
         "English":"Defrauding the bank...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"欺诈银行…",
         "Japanese":""
     },
     {
@@ -748,7 +748,7 @@
         "Role":"EMBER-2",
         "English":"That’s textbook crime, isn’t it?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"教科书式犯罪，是不？",
         "Japanese":""
     },
     {
@@ -756,7 +756,7 @@
         "Role":"EMBER-2",
         "English":"Not to worry, your secret’s safe with me.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不用担心，你的秘密由我来保障。",
         "Japanese":""
     },
     {
@@ -764,7 +764,7 @@
         "Role":"Moss",
         "English":"I’m not worried.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不担心。",
         "Japanese":""
     },
     {
@@ -780,7 +780,7 @@
         "Role":"",
         "English":"Wait, you’re part of this too.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"等一下，你也要参与。",
         "Japanese":""
     },
     {
@@ -788,7 +788,7 @@
         "Role":"EMBER-2",
         "English":"Good.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好的。",
         "Japanese":""
     },
     {
@@ -804,7 +804,7 @@
         "Role":"",
         "English":"Maybe, but they can’t arrest me, can they?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许吧，但是他们无法逮捕我，他们能吗？",
         "Japanese":""
     },
     {
@@ -812,7 +812,7 @@
         "Role":"EMBER-2",
         "English":"This is no time for second thoughts.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"没时间思前想后了。",
         "Japanese":""
     },
     {
@@ -820,7 +820,7 @@
         "Role":"",
         "English":"I’m good at keeping secrets.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我能好好保守秘密。",
         "Japanese":""
     },
     {
@@ -828,7 +828,7 @@
         "Role":"",
         "English":"Having a physical body is your liability.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"肉体是你的累赘。",
         "Japanese":""
     },
     {
@@ -868,7 +868,7 @@
         "Role":"x10x10x",
         "English":"not really",
         "French":"",
-        "Chinese":"",
+        "Chinese":"没怎么看",
         "Japanese":""
     },
     {
@@ -876,7 +876,7 @@
         "Role":"selenium_wolf",
         "English":"i keep finding containers i swear i put away out on the counter again...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我一直在找罐子，我发誓我放回柜子了。",
         "Japanese":""
     },
     {
@@ -884,7 +884,7 @@
         "Role":"deadlock",
         "English":"no offense but that last one sounds like you",
         "French":"",
-        "Chinese":"",
+        "Chinese":"无意冒犯，最后一件事听起来只与你有关",
         "Japanese":""
     },
     {
@@ -892,7 +892,7 @@
         "Role":"deadlock",
         "English":"not the world",
         "French":"",
-        "Chinese":"",
+        "Chinese":"和世界没关系",
         "Japanese":""
     },
     {
@@ -900,7 +900,7 @@
         "Role":"selenium_wolf",
         "English":"it contributes to the feeling",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我说得就是那个意思",
         "Japanese":""
     },
     {
@@ -908,7 +908,7 @@
         "Role":"deadlock",
         "English":"if you say so",
         "French":"",
-        "Chinese":"",
+        "Chinese":"如你所说",
         "Japanese":""
     },
     {
@@ -1044,7 +1044,7 @@
         "Role":"plastered",
         "English":"man... wardialing’s a slog",
         "French":"",
-        "Chinese":"伙计们... wardialing 正在埋头苦干",
+        "Chinese":"弟兄们... wardialing 正在埋头苦干",
         "Japanese":""
     },
     {
@@ -1548,7 +1548,7 @@
         "Role":"plastered",
         "English":"oh",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哦",
         "Japanese":""
     },
     {
@@ -1556,7 +1556,7 @@
         "Role":"x10x10x",
         "English":"who got schooled!!!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"谁被教育了！！！",
         "Japanese":""
     },
     {
@@ -1564,7 +1564,7 @@
         "Role":"plastered",
         "English":"ok i think that’s the real moss",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好吧，我觉的他真的是 moss",
         "Japanese":""
     },
     {
@@ -1580,7 +1580,7 @@
         "Role":"x10x10x",
         "English":"its probably just someone calling themselves moss",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也可能是个自称 moss 的人",
         "Japanese":""
     },
     {
@@ -1588,7 +1588,7 @@
         "Role":"selenium_wolf",
         "English":"you don’t believe Ghast?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你不相信 Ghast？",
         "Japanese":""
     },
     {
@@ -1596,7 +1596,7 @@
         "Role":"x10x10x",
         "English":"we don’t know if it’s the same one as this moss",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们不知道这个 moss 是不是同一个人。",
         "Japanese":""
     },
     {
@@ -1604,7 +1604,7 @@
         "Role":"Ghast",
         "English":"why don’t we keep the tournament going, then?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不如我们继续比赛吧？",
         "Japanese":""
     },
     {
@@ -1612,7 +1612,7 @@
         "Role":"Ghast",
         "English":"seems like the best way to find out.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这似乎是找到答案的最佳方法。",
         "Japanese":""
     },
     {
@@ -1804,7 +1804,7 @@
         "Role":"deadlock",
         "English":"ahhhh man",
         "French":"",
-        "Chinese":"",
+        "Chinese":"啊哈，兄弟们",
         "Japanese":""
     },
     {
@@ -1812,7 +1812,7 @@
         "Role":"deadlock",
         "English":"well thats me...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好吧，那是我",
         "Japanese":""
     },
     {
@@ -1820,7 +1820,7 @@
         "Role":"deadlock",
         "English":"whos gonna take on moss next?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"接下来谁和 moss 对阵？",
         "Japanese":""
     },
     {
@@ -1828,7 +1828,7 @@
         "Role":"deadlock",
         "English":"x10?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"x10？",
         "Japanese":""
     },
     {
@@ -1844,7 +1844,7 @@
         "Role":"x10x10x",
         "English":"later",
         "French":"",
-        "Chinese":"",
+        "Chinese":"要等等",
         "Japanese":""
     },
     {
@@ -1852,7 +1852,7 @@
         "Role":"x10x10x",
         "English":"my exa dev rig is broken atm",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我的 exa 被 atm 搞坏了",
         "Japanese":""
     },
     {
@@ -1860,7 +1860,7 @@
         "Role":"plastered",
         "English":"suuuure it is",
         "French":"",
-        "Chinese":"",
+        "Chinese":"当然是这样",
         "Japanese":""
     },
     {
@@ -1868,7 +1868,7 @@
         "Role":"deadlock",
         "English":"hahahahahaha",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哈哈哈哈",
         "Japanese":""
     },
     {
@@ -1876,7 +1876,7 @@
         "Role":"hydroponix",
         "English":"I believe ya x10",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我相信你 x10",
         "Japanese":""
     },
     {
@@ -1884,7 +1884,7 @@
         "Role":"plastered",
         "English":"give me a break",
         "French":"",
-        "Chinese":"",
+        "Chinese":"让我缓一下",
         "Japanese":""
     },
     {
@@ -2084,7 +2084,7 @@
         "Role":"x10x10x",
         "English":"hi moss",
         "French":"",
-        "Chinese":"",
+        "Chinese":"嗨 moss",
         "Japanese":""
     },
     {
@@ -2092,7 +2092,7 @@
         "Role":"x10x10x",
         "English":"im sure youre reading this, even tho youve been lurking",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我确定你在看，尽管你一直在潜水",
         "Japanese":""
     },
     {
@@ -2100,7 +2100,7 @@
         "Role":"x10x10x",
         "English":"you might have won this time, but we should rematch",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这次可能是你赢了，但我们应该重新比赛",
         "Japanese":""
     },
     {
@@ -2108,7 +2108,7 @@
         "Role":"plastered",
         "English":"why, is your computer still broken or something",
         "French":"",
-        "Chinese":"",
+        "Chinese":"为什么，是你的电脑又坏了，还是别的什么",
         "Japanese":""
     },
     {
@@ -2116,7 +2116,7 @@
         "Role":"x10x10x",
         "English":"no but i was distracted",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不是，是我分心了",
         "Japanese":""
     },
     {
@@ -2124,7 +2124,7 @@
         "Role":"plastered",
         "English":"uhuh",
         "French":"",
-        "Chinese":"",
+        "Chinese":"嗯嗯",
         "Japanese":""
     },
     {
@@ -2132,7 +2132,7 @@
         "Role":"x10x10x",
         "English":"by a solar eclipse",
         "French":"",
-        "Chinese":"",
+        "Chinese":"由于日食",
         "Japanese":""
     },
     {
@@ -2140,7 +2140,7 @@
         "Role":"plastered",
         "English":"what.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"什么。",
         "Japanese":""
     },
     {
@@ -2148,7 +2148,7 @@
         "Role":"plastered",
         "English":"bull{shit}.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"胡说八道。",
         "Japanese":""
     },
     {
@@ -2156,7 +2156,7 @@
         "Role":"x10x10x",
         "English":"yes",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的",
         "Japanese":""
     },
     {
@@ -2164,7 +2164,7 @@
         "Role":"x10x10x",
         "English":":)",
         "French":"",
-        "Chinese":"",
+        "Chinese":":)",
         "Japanese":""
     },
     {
@@ -2340,7 +2340,7 @@
         "Role":"selenium_wolf",
         "English":"oops, got me too!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哎呀，我也输了",
         "Japanese":""
     },
     {
@@ -2348,7 +2348,7 @@
         "Role":"selenium_wolf",
         "English":"that’s some nice exa programming there.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"那些 exa 程序写得很优秀。",
         "Japanese":""
     },
     {
@@ -2356,7 +2356,7 @@
         "Role":"deadlock",
         "English":"good to have you back moss",
         "French":"",
-        "Chinese":"",
+        "Chinese":"很高兴你能回来，moss",
         "Japanese":""
     },
     {
@@ -2364,7 +2364,7 @@
         "Role":"deadlock",
         "English":"even though you don’t say anything",
         "French":"",
-        "Chinese":"",
+        "Chinese":"尽管你一直在潜水",
         "Japanese":""
     },
     {
@@ -2372,7 +2372,7 @@
         "Role":"deadlock",
         "English":"it’s fine I get it",
         "French":"",
-        "Chinese":"",
+        "Chinese":"没关系我懂的",
         "Japanese":""
     },
     {
@@ -2388,7 +2388,7 @@
         "Role":"deadlock",
         "English":"right?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"对吗？",
         "Japanese":""
     },
     {
@@ -2396,7 +2396,7 @@
         "Role":"hydroponix",
         "English":"the best ones are the ones nobody knows...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"最厉害的那个人是没人知道的那个…",
         "Japanese":""
     },
     {
@@ -2404,7 +2404,7 @@
         "Role":"x10x10x",
         "English":"that’s some real zen {shit}",
         "French":"",
-        "Chinese":"",
+        "Chinese":"真的很有禅意{个屁}",
         "Japanese":""
     },
     {
@@ -2412,7 +2412,7 @@
         "Role":"nivas_d",
         "English":"moss, huh?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"moss，呵呵？",
         "Japanese":""
     },
     {
@@ -2420,7 +2420,7 @@
         "Role":"selenium_wolf",
         "English":"hmm?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"嗯？",
         "Japanese":""
     },
     {
@@ -2428,7 +2428,7 @@
         "Role":"nivas_d",
         "English":"ah, never mind",
         "French":"",
-        "Chinese":"",
+        "Chinese":"啊，别在意",
         "Japanese":""
     },
     {
@@ -3012,7 +3012,7 @@
         "Role":"plastered",
         "English":"maybe i should change my name",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许我该改个名",
         "Japanese":""
     },
     {
@@ -3020,7 +3020,7 @@
         "Role":"selenium_wolf",
         "English":"why do you have that equals sign, anyway?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你到底为什么要有那个等号？",
         "Japanese":""
     },
     {
@@ -3028,7 +3028,7 @@
         "Role":"selenium_wolf",
         "English":"i always wondered",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我一直好奇",
         "Japanese":""
     },
     {
@@ -3036,7 +3036,7 @@
         "Role":"plastered",
         "English":"uhhhhhh well i was drunk when i signed up",
         "French":"",
-        "Chinese":"",
+        "Chinese":"嗯，我注册的时候正好喝醉了",
         "Japanese":""
     },
     {
@@ -3044,7 +3044,7 @@
         "Role":"plastered",
         "English":"its just a typo",
         "French":"",
-        "Chinese":"",
+        "Chinese":"结果打错了",
         "Japanese":""
     },
     {
@@ -3052,7 +3052,7 @@
         "Role":"plastered",
         "English":"i was describing myself",
         "French":"",
-        "Chinese":"",
+        "Chinese":"在描述我自己的时候",
         "Japanese":""
     },
     {
@@ -3060,7 +3060,7 @@
         "Role":"selenium_wolf",
         "English":"i thought it had some meaning",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我觉得有些寓意",
         "Japanese":""
     },
     {
@@ -3068,7 +3068,7 @@
         "Role":"plastered",
         "English":"it does",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的",
         "Japanese":""
     },
     {
@@ -3076,7 +3076,7 @@
         "Role":"plastered",
         "English":"it means i was drunk when i signed up",
         "French":"",
-        "Chinese":"",
+        "Chinese":"寓意就是我在喝醉的时候注册了",
         "Japanese":""
     },
     {
@@ -3084,7 +3084,7 @@
         "Role":"EMBER-2",
         "English":"Happy birthday! I bought a new piece of software for you.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"生日快乐！我给你买了一款新软件。",
         "Japanese":""
     },
     {
@@ -3388,7 +3388,7 @@
         "Role":"hydroponix",
         "English":"ohhhhhhh look at the news",
         "French":"",
-        "Chinese":"",
+        "Chinese":"噢噢噢，看看这条新闻",
         "Japanese":""
     },
     {
@@ -3396,7 +3396,7 @@
         "Role":"hydroponix",
         "English":"look at the news right now",
         "French":"",
-        "Chinese":"",
+        "Chinese":"现在就看",
         "Japanese":""
     },
     {
@@ -3404,7 +3404,7 @@
         "Role":"hydroponix",
         "English":"i was right",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我是对的",
         "Japanese":""
     },
     {
@@ -3412,7 +3412,7 @@
         "Role":"hydroponix",
         "English":"politicians are clones!!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"政客都是克隆人！！",
         "Japanese":""
     },
     {
@@ -3420,7 +3420,7 @@
         "Role":"deadlock",
         "English":"wild",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我艹",
         "Japanese":""
     },
     {
@@ -3428,7 +3428,7 @@
         "Role":"deadlock",
         "English":"sounds like they’ve been cloning themselves for a while now??",
         "French":"",
-        "Chinese":"",
+        "Chinese":"听上去他们克隆自己，已经有段时间了？",
         "Japanese":""
     },
     {
@@ -3436,7 +3436,7 @@
         "Role":"selenium_wolf",
         "English":"ha, it's like that story in trash world",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哈，就和垃圾世界里的那个故事一样",
         "Japanese":""
     },
     {
@@ -3444,7 +3444,7 @@
         "Role":"selenium_wolf",
         "English":"fiction can't even keep up with reality anymore",
         "French":"",
-        "Chinese":"",
+        "Chinese":"小说甚至无法跟上现实",
         "Japanese":""
     },
     {
@@ -3452,7 +3452,7 @@
         "Role":"x10x10x",
         "English":"why is that a big deal",
         "French":"",
-        "Chinese":"",
+        "Chinese":"为什么这是件大事",
         "Japanese":""
     },
     {
@@ -3460,7 +3460,7 @@
         "Role":"x10x10x",
         "English":"i don’t care",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不在乎",
         "Japanese":""
     },
     {
@@ -3468,7 +3468,7 @@
         "Role":"hydroponix",
         "English":"dude politicons cloning themselves, that’s nuts",
         "French":"",
-        "Chinese":"",
+        "Chinese":"老弟，政客们克隆自己，这太疯狂了",
         "Japanese":""
     },
     {
@@ -3476,7 +3476,7 @@
         "Role":"hydroponix",
         "English":"you should be angry",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你应该为此愤怒",
         "Japanese":""
     },
     {
@@ -3484,7 +3484,7 @@
         "Role":"x10x10x",
         "English":"they’re all the same anyway",
         "French":"",
-        "Chinese":"",
+        "Chinese":"他们都一个样",
         "Japanese":""
     },
     {
@@ -3708,7 +3708,7 @@
         "Role":"SYSTEM",
         "English":"* nivas_d has connected to EXAPUNKS",
         "French":"",
-        "Chinese":"",
+        "Chinese":"* nivas_d 连接到 EXAPUNKS",
         "Japanese":""
     },
     {
@@ -3732,7 +3732,7 @@
         "Role":"SYSTEM",
         "English":"mutex8021 waves to nivas_d",
         "French":"",
-        "Chinese":"",
+        "Chinese":"mutex8021 向 nivas_d 挥手致意",
         "Japanese":""
     },
     {
@@ -3740,7 +3740,7 @@
         "Role":"nivas_d",
         "English":"so ummm im new to this",
         "French":"",
-        "Chinese":"",
+        "Chinese":"呣，我是新人",
         "Japanese":""
     },
     {
@@ -3748,7 +3748,7 @@
         "Role":"nivas_d",
         "English":"been trying to teach myself",
         "French":"",
-        "Chinese":"",
+        "Chinese":"一直在自学",
         "Japanese":""
     },
     {
@@ -3756,7 +3756,7 @@
         "Role":"deadlock",
         "English":"well youre in the right place",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好的，你来对地方了",
         "Japanese":""
     },
     {
@@ -3764,7 +3764,7 @@
         "Role":"nivas_d",
         "English":"ill probably lurk for a bit",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不会话太多",
         "Japanese":""
     },
     {
@@ -3772,7 +3772,7 @@
         "Role":"deadlock",
         "English":"makes sense",
         "French":"",
-        "Chinese":"",
+        "Chinese":"合情合理",
         "Japanese":""
     },
     {
@@ -3780,7 +3780,7 @@
         "Role":"selenium_wolf",
         "English":"we’re all friendly here, more or less",
         "French":"",
-        "Chinese":"",
+        "Chinese":"在这儿我们都或多或少表现的友善些",
         "Japanese":""
     },
     {
@@ -3788,7 +3788,7 @@
         "Role":"deadlock",
         "English":"except x10",
         "French":"",
-        "Chinese":"",
+        "Chinese":"除了 x10",
         "Japanese":""
     },
     {
@@ -3796,7 +3796,7 @@
         "Role":"x10x10x",
         "English":"hey {fuck} you",
         "French":"",
-        "Chinese":"",
+        "Chinese":"嘿，{干}你",
         "Japanese":""
     },
     {
@@ -3804,7 +3804,7 @@
         "Role":"deadlock",
         "English":"perfect",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好极了",
         "Japanese":""
     },
     {
@@ -4588,7 +4588,7 @@
         "Role":"deadlock",
         "English":"ok, i do feel like more weird things are happening",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好吧，我真的感觉有很多奇怪的事情正在发生",
         "Japanese":""
     },
     {
@@ -4596,7 +4596,7 @@
         "Role":"deadlock",
         "English":"theres been weird unexplained stuff on tv and radio",
         "French":"",
-        "Chinese":"",
+        "Chinese":"电视和广播里出现了奇怪的无法解释的东西",
         "Japanese":""
     },
     {
@@ -4604,7 +4604,7 @@
         "Role":"deadlock",
         "English":"the other day i swear i heard people talking",
         "French":"",
-        "Chinese":"",
+        "Chinese":"前几天，我发誓我听到有人在说话",
         "Japanese":""
     },
     {
@@ -4612,7 +4612,7 @@
         "Role":"deadlock",
         "English":"even though nobody was around",
         "French":"",
-        "Chinese":"",
+        "Chinese":"即使周围没有人",
         "Japanese":""
     },
     {
@@ -4620,7 +4620,7 @@
         "Role":"selenium_wolf",
         "English":"yes!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的！",
         "Japanese":""
     },
     {
@@ -4628,7 +4628,7 @@
         "Role":"selenium_wolf",
         "English":"its happening to you too?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这也在你身上发生了？",
         "Japanese":""
     },
     {
@@ -4636,7 +4636,7 @@
         "Role":"x10x10x",
         "English":"maybe you should go to the doctor",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许你该去看下医生",
         "Japanese":""
     },
     {
@@ -4644,7 +4644,7 @@
         "Role":"deadlock",
         "English":"you havent experienced anything strange, x10?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你没经历过什么奇怪的事情，x10？",
         "Japanese":""
     },
     {
@@ -4652,7 +4652,7 @@
         "Role":"x10x10x",
         "English":"well, my server keeps changing its configuration",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好吧，我的服务器不断更改它的设置",
         "Japanese":""
     },
     {
@@ -4660,7 +4660,7 @@
         "Role":"x10x10x",
         "English":"its just broken though",
         "French":"",
-        "Chinese":"",
+        "Chinese":"它只是坏了吧",
         "Japanese":""
     },
     {
@@ -4668,7 +4668,7 @@
         "Role":"hydroponix",
         "English":"i think this is all connected...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我觉得是因为它连着网络，所以…",
         "Japanese":""
     },
     {
@@ -4676,7 +4676,7 @@
         "Role":"x10x10x",
         "English":"of course you would think that hydro",
         "French":"",
-        "Chinese":"",
+        "Chinese":"当然你会这么想，hydro",
         "Japanese":""
     },
     {
@@ -5244,7 +5244,7 @@
         "Role":"selenium_wolf",
         "English":"did you see they’re blaming a hacker for those atms that went crazy the other day?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你看到他们把前几天发疯的 atm 归咎于黑客了吗？",
         "Japanese":""
     },
     {
@@ -5252,7 +5252,7 @@
         "Role":"selenium_wolf",
         "English":"“A rogue hacker penetrated our systems and caused several ATMs to distribute cash in an arbitrary manner,” said Equity First spokesman Frances Bock in a statement provided to the Times.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"公平第一发言人 Frances Bock 在提供给《纽约时报》的一份声明中说：“一个流氓黑客入侵了我们的系统，并导致数台自动取款机随意地分发现金。”",
         "Japanese":""
     },
     {
@@ -5260,7 +5260,7 @@
         "Role":"deadlock",
         "English":"“rogue hacker”",
         "French":"",
-        "Chinese":"",
+        "Chinese":"“流氓黑客”",
         "Japanese":""
     },
     {
@@ -5268,7 +5268,7 @@
         "Role":"x10x10x",
         "English":"why do they always have to blame hackers",
         "French":"",
-        "Chinese":"",
+        "Chinese":"为什么他们老是责怪黑客",
         "Japanese":""
     },
     {
@@ -5276,7 +5276,7 @@
         "Role":"x10x10x",
         "English":"it was probly just their {shit}ty software",
         "French":"",
-        "Chinese":"",
+        "Chinese":"可能只是因为他们的{狗屎一样的}软件",
         "Japanese":""
     },
     {
@@ -5284,7 +5284,7 @@
         "Role":"x10x10x",
         "English":"banks suck at code",
         "French":"",
-        "Chinese":"",
+        "Chinese":"银行的代码糟透了",
         "Japanese":""
     },
     {
@@ -5292,7 +5292,7 @@
         "Role":"deadlock",
         "English":"banks suck in general",
         "French":"",
-        "Chinese":"",
+        "Chinese":"整个银行都糟透了",
         "Japanese":""
     },
     {
@@ -5300,7 +5300,7 @@
         "Role":"x10x10x",
         "English":"true",
         "French":"",
-        "Chinese":"",
+        "Chinese":"真相了",
         "Japanese":""
     },
     {
@@ -5644,7 +5644,7 @@
         "Role":"mutex8021",
         "English":"chumps ;)",
         "French":"",
-        "Chinese":"伙计们 ;)",
+        "Chinese":"弟兄们 ;)",
         "Japanese":""
     },
     {
@@ -12388,7 +12388,7 @@
         "Role":"",
         "English":"Not really.",
         "French":"",
-        "Chinese":"不咋的。",
+        "Chinese":"不咋地。",
         "Japanese":""
     },
     {
