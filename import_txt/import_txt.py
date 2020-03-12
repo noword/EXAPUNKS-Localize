@@ -12,7 +12,7 @@ def print_percent(name, lang='Chinese'):
 
 
 def insert_dot(trans):
-    PUNCTUATIONS = '，。！；“”－…《》【】（）'
+    PUNCTUATIONS = '，。！；”－…》】）'
     for key, values in trans.items():
         for lang in ('Chinese', 'Japanese'):
             text = values[lang]
