@@ -204,7 +204,7 @@
         "Role":"plastered",
         "English":"now ill be wardailing at triple speeds",
         "French":"",
-        "Chinese":"现在能用三倍速 wardail 了",
+        "Chinese":"现在我能用三倍速运行 wardailing 了",
         "Japanese":""
     },
     {
@@ -5636,7 +5636,7 @@
         "Role":"mutex8021",
         "English":"find me at the tv station !!!",
         "French":"",
-        "Chinese":"在电视台找到我！！！",
+        "Chinese":"到电视台找我！！！",
         "Japanese":""
     },
     {
@@ -6972,7 +6972,7 @@
         "Role":"Ghast",
         "English":"I was just at the print shop. my balance there is gone.",
         "French":"",
-        "Chinese":"我刚才在打印店。我的余额不见了。",
+        "Chinese":"我刚才在打印店。我的欠款不见了。",
         "Japanese":""
     },
     {
@@ -6988,7 +6988,7 @@
         "Role":"Ghast",
         "English":"don’t suppose any of you had something to do with that.",
         "French":"",
-        "Chinese":"不要以为你们中的任何人与此有关。",
+        "Chinese":"是谁干的",
         "Japanese":""
     },
     {
@@ -10428,7 +10428,7 @@
         "Role":"SYSTEM",
         "English":"selenium_wolf yawns.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"selenium_wolf 打了个哈欠。",
         "Japanese":""
     },
     {
@@ -10436,7 +10436,7 @@
         "Role":"mutex8021",
         "English":"tired?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"累了？",
         "Japanese":""
     },
     {
@@ -10444,7 +10444,7 @@
         "Role":"selenium_wolf",
         "English":"yeah, long day.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是啊，漫长的一天。",
         "Japanese":""
     },
     {
@@ -10452,7 +10452,7 @@
         "Role":"mutex8021",
         "English":"me too",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我也是",
         "Japanese":""
     },
     {
@@ -10460,7 +10460,7 @@
         "Role":"mutex8021",
         "English":"i know its off topic but some stuph in life has been hard lately",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我知道有些离题，但是最近生活困苦",
         "Japanese":""
     },
     {
@@ -10468,7 +10468,7 @@
         "Role":"mutex8021",
         "English":"nothing big but like",
         "French":"",
-        "Chinese":"",
+        "Chinese":"没什么大不了的，只是",
         "Japanese":""
     },
     {
@@ -10476,7 +10476,7 @@
         "Role":"mutex8021",
         "English":"trying to figure things out",
         "French":"",
-        "Chinese":"",
+        "Chinese":"试图厘清一些事情",
         "Japanese":""
     },
     {
@@ -10484,7 +10484,7 @@
         "Role":"mutex8021",
         "English":"ill be ok",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我会好起来的",
         "Japanese":""
     },
     {
@@ -10492,7 +10492,7 @@
         "Role":"mutex8021",
         "English":"dont worry about me",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不用担心我",
         "Japanese":""
     },
     {
@@ -10500,7 +10500,7 @@
         "Role":"mutex8021",
         "English":"everyone went idle :(",
         "French":"",
-        "Chinese":"",
+        "Chinese":"每个人都无所事事 :(",
         "Japanese":""
     },
     {
@@ -10508,7 +10508,7 @@
         "Role":"EMBER-2",
         "English":"I’ve been analyzing television and radio broadcasts.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我一直在分析电视和广播节目。",
         "Japanese":""
     },
     {
@@ -10516,7 +10516,7 @@
         "Role":"EMBER-2",
         "English":"And I have a few questions.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我有几个问题。",
         "Japanese":""
     },
     {
@@ -10524,7 +10524,7 @@
         "Role":"EMBER-2",
         "English":"First of all, why do some things become popular while others don’t?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"首先，为什么有些事物会变得流行而另一些却不呢？",
         "Japanese":""
     },
     {
@@ -10692,7 +10692,7 @@
         "Role":"hydroponix",
         "English":"im hungry",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我饿了",
         "Japanese":""
     },
     {
@@ -10700,7 +10700,7 @@
         "Role":"plastered",
         "English":"you’re always hungry",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你老是饿",
         "Japanese":""
     },
     {
@@ -10708,7 +10708,7 @@
         "Role":"selenium_wolf",
         "English":"what do you expect us to do about it",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你期待我们做些什么",
         "Japanese":""
     },
     {
@@ -11812,7 +11812,7 @@
         "Role":"selenium_wolf",
         "English":"ugh.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"啊。",
         "Japanese":""
     },
     {
@@ -11820,7 +11820,7 @@
         "Role":"selenium_wolf",
         "English":"some days just need reboots or something",
         "French":"",
-        "Chinese":"",
+        "Chinese":"有些日子需要重启一下",
         "Japanese":""
     },
     {
@@ -11828,7 +11828,7 @@
         "Role":"mutex8021",
         "English":"whats going on?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"怎么了？",
         "Japanese":""
     },
     {
@@ -11836,7 +11836,7 @@
         "Role":"selenium_wolf",
         "English":"work being {shit}ty, kids just cant calm down",
         "French":"",
-        "Chinese":"",
+        "Chinese":"工作糟透了，臭小子们还要上房揭瓦",
         "Japanese":""
     },
     {
@@ -11844,7 +11844,7 @@
         "Role":"mutex8021",
         "English":"kids?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"小子们？",
         "Japanese":""
     },
     {
@@ -11852,7 +11852,7 @@
         "Role":"hydroponix",
         "English":"you know",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你知道的",
         "Japanese":""
     },
     {
@@ -11860,7 +11860,7 @@
         "Role":"hydroponix",
         "English":"children",
         "French":"",
-        "Chinese":"",
+        "Chinese":"小孩子",
         "Japanese":""
     },
     {
@@ -11868,7 +11868,7 @@
         "Role":"selenium_wolf",
         "English":"i have kids, yes!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我有小孩，是的！",
         "Japanese":""
     },
     {
@@ -11876,7 +11876,7 @@
         "Role":"selenium_wolf",
         "English":"goodness knows why",
         "French":"",
-        "Chinese":"",
+        "Chinese":"天知道是为了什么",
         "Japanese":""
     },
     {
@@ -13796,7 +13796,7 @@
         "Role":"EMBER-2",
         "English":"I’ve collected a lot of data now, but my understanding remains incomplete.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我现在已经收集了很多数据，但是我的认知仍然不完整。",
         "Japanese":""
     },
     {
@@ -13804,7 +13804,7 @@
         "Role":"Moss",
         "English":"What are you trying to understand, exactly?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你到底想知道什么？",
         "Japanese":""
     },
     {
@@ -13812,7 +13812,7 @@
         "Role":"",
         "English":"No understanding is totally complete.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"没有完整的认知。",
         "Japanese":""
     },
     {
@@ -13820,7 +13820,7 @@
         "Role":"EMBER-2",
         "English":"Everything.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"所有的事。",
         "Japanese":""
     },
     {
