@@ -11,6 +11,19 @@ def print_percent(name, lang='Chinese'):
     print('%-30s%6.2f%%' % (name, Translation(name).get_percent(lang)))
 
 
+def insert_dot(trans):
+    for key, values in trans.items():
+        for lang in ('Chinese', 'Japanese'):
+            if len(values[lang]) > 0:
+                s = ''
+                for c in values[lang]:
+                    s += c
+                    if ord(c) > 0xff:
+                        s += '●'
+                trans[key][lang] = s
+    return trans
+
+
 def import_strings():
     print_percent('EXAPUNKS_exe.json')
     for v in Translation('EXAPUNKS_exe.json').check_variables(regex=r'\{\d*\}',
@@ -19,6 +32,7 @@ def import_strings():
                                                               ordered=False):
         print('Warning: ', v)
     trans = Translation('EXAPUNKS_exe.json').get_translation()
+    trans = insert_dot(trans)
     csv_writer = csv.writer(open('strings.csv', 'w', encoding='utf-8'), lineterminator='\n', escapechar='\\')
     for key, value in trans.items():
         row = [key, '']
@@ -29,6 +43,7 @@ def import_strings():
 def import_vignettes():
     print_percent('EXAPUNKS_vignettes.json')
     trans = Translation('EXAPUNKS_vignettes.json').get_translation()
+    trans = insert_dot(trans)
     for root, dirs, files in os.walk('../export_txt/Content/vignettes'):
         for f in files:
             name = os.path.join(root, f)
@@ -62,6 +77,7 @@ def import_descriptions():
 
     print_percent('EXAPUNKS_descriptions.json')
     trans = Translation('EXAPUNKS_descriptions.json').get_translation()
+    trans = insert_dot(trans)
     for root, dirs, files in os.walk('../export_txt/Content/descriptions/en'):
         for f in files:
             name = os.path.join(root, f)
