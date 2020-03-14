@@ -1,5 +1,7 @@
 这是一个非官方的游戏汉化项目，游戏名称是EXAPUNKS。
 
+有意参与汉化的朋友，可以加入QQ EXAPUNKS 汉化群：**1082638733**
+
 首先，你需要拥有这个游戏。你可以在 [steam](https://store.steampowered.com/app/716490/EXAPUNKS/) 或 [GOG](https://www.gog.com/game/exapunks) 购买好此游戏。
 
 # 准备环境
