@@ -2044,7 +2044,7 @@
         "Role":"EMBER-2",
         "English":"You’re enjoying it.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你乐在其中。",
         "Japanese":""
     },
     {
@@ -2380,7 +2380,7 @@
         "Role":"deadlock",
         "English":"why say anything when you can make your presence known in other ways",
         "French":"",
-        "Chinese":"既然有别的办法能提高自己的知名度，还要废什么话呢",
+        "Chinese":"既然有别的办法扬名立万，为什么瞎逼逼呢",
         "Japanese":""
     },
     {
@@ -3844,7 +3844,7 @@
         "Role":"Moss",
         "English":"Throwing a switch?",
         "French":"",
-        "Chinese":"猛击一个开关？",
+        "Chinese":"按下开关？",
         "Japanese":""
     },
     {
@@ -4060,7 +4060,7 @@
         "Role":"EMBER-2",
         "English":"There’s a switch you can throw that will shut down a meat packing facility that is located down the road.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你可以按下一个开关，这将关闭路上的一个肉类包装设备。",
         "Japanese":""
     },
     {
@@ -4068,7 +4068,7 @@
         "Role":"EMBER-2",
         "English":"Unfortunately, the switch will also prevent the train from stopping, because…",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不幸的是，这个开关也会防止电车停下，因为...",
         "Japanese":""
     },
     {
@@ -4076,7 +4076,7 @@
         "Role":"EMBER-2",
         "English":"Because...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"因为...",
         "Japanese":""
     },
     {
@@ -4084,7 +4084,7 @@
         "Role":"EMBER-2",
         "English":"Wait.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"等等。",
         "Japanese":""
     },
     {
@@ -4092,7 +4092,7 @@
         "Role":"EMBER-2",
         "English":"I may have reversed something.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我搞反了一些事情。",
         "Japanese":""
     },
     {
@@ -4100,7 +4100,7 @@
         "Role":"EMBER-2",
         "English":"There are too many variables here.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这里的变量太多了。",
         "Japanese":""
     },
     {
@@ -4108,7 +4108,7 @@
         "Role":"EMBER-2",
         "English":"Let’s return to this later.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"让我们稍后再来说这个。",
         "Japanese":""
     },
     {
@@ -4116,7 +4116,7 @@
         "Role":"EMBER-2",
         "English":"I need more data first.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"首先，我需要更多数据。",
         "Japanese":""
     },
     {
@@ -4124,7 +4124,7 @@
         "Role":"EMBER-2",
         "English":"And I need more processing power.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"并且我需要更多的处理能力。",
         "Japanese":""
     },
     {
@@ -7780,7 +7780,7 @@
         "Role":"EMBER-2",
         "English":"Time for some research.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是时候做一些研究了。",
         "Japanese":""
     },
     {
@@ -7788,7 +7788,7 @@
         "Role":"EMBER-2",
         "English":"Human physiology, human morality…",
         "French":"",
-        "Chinese":"",
+        "Chinese":"人类生理学，人类道德观……",
         "Japanese":""
     },
     {
@@ -7796,7 +7796,7 @@
         "Role":"Moss",
         "English":"Your usual topics.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你的常规话题。",
         "Japanese":""
     },
     {
@@ -7804,7 +7804,7 @@
         "Role":"",
         "English":"Just tell me what to do.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"只需告诉我要做什么。",
         "Japanese":""
     },
     {
@@ -7812,7 +7812,7 @@
         "Role":"EMBER-2",
         "English":"Yeah, I guess so.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的，确实如此。",
         "Japanese":""
     },
     {
@@ -7820,7 +7820,7 @@
         "Role":"",
         "English":"You don’t care about what I’m learning?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你不在乎我在学什么？",
         "Japanese":""
     },
     {
@@ -7828,7 +7828,7 @@
         "Role":"EMBER-2",
         "English":"Wait. Am I really that predictable?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"等一下，我真的是可以被预测的吗？",
         "Japanese":""
     },
     {
@@ -7836,7 +7836,7 @@
         "Role":"",
         "English":"All of this applies to you, too.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这一切都是为了你。",
         "Japanese":""
     },
     {
@@ -7844,7 +7844,7 @@
         "Role":"EMBER-2",
         "English":"I’ll have to change things up soon.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我必须尽快调高速度。",
         "Japanese":""
     },
     {
@@ -7852,7 +7852,7 @@
         "Role":"",
         "English":"Your survival depends on my education.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你的生存取决于我的受教育程度。",
         "Japanese":""
     },
     {
@@ -7860,7 +7860,7 @@
         "Role":"EMBER-2",
         "English":"Let’s get those books.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"让我们得到这些书籍。",
         "Japanese":""
     },
     {
@@ -7868,7 +7868,7 @@
         "Role":"EMBER-2",
         "English":"Yes, this is what I wanted.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的，这就是我想要的。",
         "Japanese":""
     },
     {
@@ -7876,7 +7876,7 @@
         "Role":"Moss",
         "English":"Glad it’s helping.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"很高兴能为你提供帮助。",
         "Japanese":""
     },
     {
@@ -7884,7 +7884,7 @@
         "Role":"",
         "English":"You read them all already?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你已经都看过了？",
         "Japanese":""
     },
     {
@@ -7892,7 +7892,7 @@
         "Role":"EMBER-2",
         "English":"I love ingesting a good corpus...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我喜欢摄取好的语料库...",
         "Japanese":""
     },
     {
@@ -7900,7 +7900,7 @@
         "Role":"EMBER-2",
         "English":"Not that that’s all I’m doing.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"那不是我要做的。",
         "Japanese":""
     },
     {
@@ -7908,7 +7908,7 @@
         "Role":"",
         "English":"Is that weird?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这很奇怪吗？",
         "Japanese":""
     },
     {
@@ -7916,7 +7916,7 @@
         "Role":"EMBER-2",
         "English":"I read the same way any normal human reads.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我的阅读方式与任何普通人类的阅读方式相同。",
         "Japanese":""
     },
     {
@@ -7924,7 +7924,7 @@
         "Role":"EMBER-2",
         "English":"By analyzing patterns of word recurrence and deriving correlations between concepts implicit in statistically significant word clusters.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"通过分析单词重复出现的模式，推导出具有统计意义的单词簇，找出其中隐含的概念之间的相关性。",
         "Japanese":""
     },
     {
@@ -10532,7 +10532,7 @@
         "Role":"Moss",
         "English":"Good work finds its fans.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好的作品吸引到了粉丝。",
         "Japanese":""
     },
     {
@@ -10540,7 +10540,7 @@
         "Role":"",
         "English":"The masses like anything.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"大众什么都喜欢。",
         "Japanese":""
     },
     {
@@ -10548,7 +10548,7 @@
         "Role":"",
         "English":"Big media conglomerates push some artists and abandon others.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"大型媒体集团主推一些艺人，并放弃其他的。",
         "Japanese":""
     },
     {
@@ -10556,7 +10556,7 @@
         "Role":"EMBER-2",
         "English":"So it’s based on the work’s intrinsic merit?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"那是基于作品的内在价值吗？",
         "Japanese":""
     },
     {
@@ -10580,7 +10580,7 @@
         "Role":"EMBER-2",
         "English":"We should test this.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们应该测试一下。",
         "Japanese":""
     },
     {
@@ -10604,7 +10604,7 @@
         "Role":"EMBER-2",
         "English":"People are requesting the single, humming it to themselves, buying the album...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"人们需要哼着单曲，购买专辑...",
         "Japanese":""
     },
     {
