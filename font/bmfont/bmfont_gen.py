@@ -158,7 +158,7 @@ class FontGenerator:
             fnt_name = name + '.fnt'
             bmfc_name = name + '.bmfc'
         else:
-            bmfc_name = os.path.splitext(fnt_name) + '.bmfc'
+            bmfc_name = os.path.splitext(fnt_name)[0] + '.bmfc'
         self.save_bmfc(open(bmfc_name, "w"))
         if os.path.exists(fnt_name):
             os.remove(fnt_name)
@@ -172,7 +172,7 @@ class FontGenerator:
             fnt_name = name + '.fnt'
             bmfc_name = name + '.bmfc'
         else:
-            bmfc_name = os.path.splitext(fnt_name) + '.bmfc'
+            bmfc_name = os.path.splitext(fnt_name)[0] + '.bmfc'
 
         os.remove(bmfc_name)
         fnt = Fnt(open(fnt_name, "r"))
