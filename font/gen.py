@@ -15,11 +15,12 @@ free fonts:
 https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/
 https://www.google.com/get/noto/help/cjk/
 https://github.com/adobe-fonts/source-han-sans/releases
+https://github.com/be5invis/Sarasa-Gothic
 '''
 
 FONT_MAP = {
-    'mono': ('Noto Sans Mono CJK SC Regular', 1.3, False),
-    'pixel': ('Noto Sans Mono CJK SC Regular', 1.3, False),
+    'mono': ('Sarasa Mono SC', 1.2, False),
+    'pixel': ('Sarasa Mono SC', 1.2, False),
     'karnivore': ('Source Han Sans SC', 1.3, True),
     'impact': ('Source Han Sans SC', 1.3, True),
     'archivo': ('Source Han Sans SC', 1.3, True),
@@ -105,7 +106,7 @@ if __name__ == "__main__":
             codes.append([t, t])
 
     task_queue = queue.Queue()
-    for i in range(multiprocessing.cpu_count()):
+    for i in range(multiprocessing.cpu_count() - 1):
         job = threading.Thread(target=fontgen_thread, args=(task_queue, ))
         job.setDaemon(True)
         job.start()
