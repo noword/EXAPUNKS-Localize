@@ -44,6 +44,7 @@ First at all, you should own this game, you can buy it on [steam](https://store.
 ## 3. install fonts (optional) 
 * install [Wen Quan Yi microhei](https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/)
 * install [Noto Sans Mono CJK](https://www.google.com/get/noto/help/cjk/)
+* install [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
 
 otherwise set your favorite fonts in ``import_txt/translation.py`` and ``font/gen.py``
 

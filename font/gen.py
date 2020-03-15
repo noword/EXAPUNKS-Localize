@@ -8,7 +8,21 @@ from bmfont import Fnt
 from packedfont import PackedFont
 import sys
 
-MONO_FONT_NAME = 'Noto Sans Mono CJK SC Regular'
+'''
+free fonts:
+https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/
+https://www.google.com/get/noto/help/cjk/
+https://github.com/adobe-fonts/source-han-sans/releases
+'''
+
+FONT_MAP = {
+    'mono': ('Noto Sans Mono CJK SC Regular', 1.3, False),
+    'pixel': ('Noto Sans Mono CJK SC Regular', 1.3, False),
+    'karnivore': ('Source Han Sans SC', 1.3, True),
+    'impact': ('Source Han Sans SC', 1.3, True),
+    'archivo': ('Source Han Sans SC', 1.3, True),
+    'devalencia': ('Source Han Sans SC', 1.3, False),
+}
 NORMAL_FONT_NAME = 'WenQuanYi Micro Hei'
 
 
@@ -21,13 +35,15 @@ def do(name, width=512, height=512):
     print(pf.f0, pf.f1, pf.f2, size)
     font_gen = FontGenerator()
 
-    if 'mono' in name or 'pixel' in name:
-        font_gen.set_font_name(MONO_FONT_NAME)
-        size = int(size * 1.3)
-    else:
-        font_gen.set_font_name(NORMAL_FONT_NAME)
-
+    font_gen.set_font_name(NORMAL_FONT_NAME)
     font_gen.set_font_size(size)
+    for oname, (mname, scale, bold) in FONT_MAP.items():
+        if oname in name:
+            font_gen.set_font_name(mname)
+            font_gen.set_font_size(int(size * scale))
+            font_gen.set_font_bold(bold)
+            break
+
     font_gen.set_texture_format("png")
     font_gen.set_chars(TEXTS)
     font_gen.set_texture_size(width, height)

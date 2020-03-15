@@ -32,6 +32,7 @@
 ## 3. 安装字体
 * 安装 [文泉驿微米黑](https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/)
 * 安装 [Noto Sans Mono CJK](https://www.google.com/get/noto/help/cjk/)
+* 安装 [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
 
 不安装的话，到``import_txt/translation.py`` 和 ``font/gen.py`` 中修改你喜欢的字体
   
