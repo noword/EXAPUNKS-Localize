@@ -6,6 +6,7 @@ import os
 from .bmfont import Fnt
 import math
 from PIL import Image
+import uuid
 
 path = os.path.dirname(os.path.realpath(__file__))
 BMFONT_COM = os.path.join(path, "bmfont.com")
@@ -59,6 +60,7 @@ class FontGenerator:
     icons = []
 
     def __init__(self, name=u"Arial Unicode MS", size=20, bold=False, italic=False):
+        self.uuid = str(uuid.uuid4())
         self.set_font_name(name)
         self.set_font_size(size)
         self.set_font_bold(bold)
@@ -150,13 +152,33 @@ class FontGenerator:
         except BaseException:
             pass
 
-    def gen(self, fnt_name="tmp.fnt"):
-        self.save_bmfc(open("tmp.bmfc", "w"))
+    def gen(self, fnt_name=None):
+        if fnt_name is None:
+            name = self.uuid
+            fnt_name = name + '.fnt'
+            bmfc_name = name + '.bmfc'
+        else:
+            bmfc_name = os.path.splitext(fnt_name) + '.bmfc'
+        self.save_bmfc(open(bmfc_name, "w"))
         if os.path.exists(fnt_name):
             os.remove(fnt_name)
-        os.system("%s -c tmp.bmfc -o %s" % (BMFONT_COM, fnt_name))
+        os.system("%s -c %s -o %s" % (BMFONT_COM, bmfc_name, fnt_name))
         fnt = Fnt(open(fnt_name, "r"))
         return fnt
+
+    def clear(self, fnt_name=None):
+        if fnt_name is None:
+            name = self.uuid
+            fnt_name = name + '.fnt'
+            bmfc_name = name + '.bmfc'
+        else:
+            bmfc_name = os.path.splitext(fnt_name) + '.bmfc'
+
+        os.remove(bmfc_name)
+        fnt = Fnt(open(fnt_name, "r"))
+        for page in fnt.pages:
+            os.remove(page)
+        os.remove(fnt_name)
 
     def set_font_name(self, name):
         self["fontName"] = name

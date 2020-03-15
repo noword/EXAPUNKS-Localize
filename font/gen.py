@@ -6,7 +6,9 @@ from bmfont import FontGenerator
 from collections import OrderedDict
 from bmfont import Fnt
 from packedfont import PackedFont
-import sys
+import threading
+import queue
+import multiprocessing
 
 '''
 free fonts:
@@ -81,6 +83,15 @@ def do(name, width=512, height=512):
 
     pf.save(open(os.path.split(name)[1], "wb"))
 
+    font_gen.clear()
+
+
+def fontgen_thread(q):
+    while True:
+        name = q.get()
+        do(name)
+        q.task_done()
+
 
 if __name__ == "__main__":
     TEXTS = open("chars.txt", "r", encoding='utf-8').read()
@@ -93,6 +104,14 @@ if __name__ == "__main__":
         else:
             codes.append([t, t])
 
+    task_queue = queue.Queue()
+    for i in range(multiprocessing.cpu_count()):
+        job = threading.Thread(target=fontgen_thread, args=(task_queue, ))
+        job.setDaemon(True)
+        job.start()
+
     for root, dirs, files in os.walk("fonts"):
         for f in files:
-            do(os.path.join(root, f))
+            task_queue.put(os.path.join(root, f))
+
+    task_queue.join()
