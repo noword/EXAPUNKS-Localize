@@ -300,7 +300,7 @@
         "Role":"Moss",
         "English":"Totally.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"非常彻底",
         "Japanese":""
     },
     {
@@ -324,7 +324,7 @@
         "Role":"EMBER-2",
         "English":"You don’t have to compromise...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你没必要让步...",
         "Japanese":""
     },
     {
@@ -348,7 +348,7 @@
         "Role":"EMBER-2",
         "English":"Get the full-on experience right in your living room!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"在你的客厅获得完整的体验！",
         "Japanese":""
     },
     {
@@ -356,7 +356,7 @@
         "Role":"",
         "English":"That’s what I’ve read, anyway.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"无论如何，这就是我所看到的。",
         "Japanese":""
     },
     {
@@ -1620,7 +1620,7 @@
         "Role":"EMBER-2",
         "English":"Onto the third of the tournament battles...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"要开始第三场黑客比赛了...",
         "Japanese":""
     },
     {
@@ -1628,7 +1628,7 @@
         "Role":"EMBER-2",
         "English":"Is each match against a better programmer than the last?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"每次出场的程序员都比上一场更强吗？",
         "Japanese":""
     },
     {
@@ -1636,7 +1636,7 @@
         "Role":"Moss",
         "English":"Seems that’s the case.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"看起来是这样。",
         "Japanese":""
     },
     {
@@ -1644,7 +1644,7 @@
         "Role":"",
         "English":"Better is subjective.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"更好是一种主观看法。",
         "Japanese":""
     },
     {
@@ -1652,7 +1652,7 @@
         "Role":"",
         "English":"Doesn’t matter... they’re all going down.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"没关系...他们都会铩羽而归。",
         "Japanese":""
     },
     {
@@ -1668,7 +1668,7 @@
         "Role":"EMBER-2",
         "English":"Like a video game, you know?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"就像是一个视频游戏，你懂吗？",
         "Japanese":""
     },
     {
@@ -1732,7 +1732,7 @@
         "Role":"EMBER-2",
         "English":"Yes.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的。",
         "Japanese":""
     },
     {
@@ -2380,7 +2380,7 @@
         "Role":"deadlock",
         "English":"why say anything when you can make your presence known in other ways",
         "French":"",
-        "Chinese":"既然有别的办法扬名立万，为什么瞎逼逼呢",
+        "Chinese":"既然有别的办法扬名立万，那还何须多言呢",
         "Japanese":""
     },
     {
@@ -6388,7 +6388,7 @@
         "Role":"mutex8021",
         "English":"so nobody want to join me in kings random online?",
         "French":"",
-        "Chinese":"没人愿意和我一起玩 kings random online 吗？",
+        "Chinese":"没人愿意和我一起玩\"国王的救赎OL\"吗？",
         "Japanese":""
     },
     {
@@ -7956,7 +7956,7 @@
         "Role":"x10x10x",
         "English":"still cant believe they {fuck}ed that up",
         "French":"",
-        "Chinese":"",
+        "Chinese":"还是无法相信他们搞砸了",
         "Japanese":""
     },
     {
@@ -7964,7 +7964,7 @@
         "Role":"selenium_wolf",
         "English":"i would try one",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我会试试看",
         "Japanese":""
     },
     {
@@ -7972,7 +7972,7 @@
         "Role":"selenium_wolf",
         "English":"but they don’t have Last Stop out where i am",
         "French":"",
-        "Chinese":"",
+        "Chinese":"但是我住的地方没有“终点站”",
         "Japanese":""
     },
     {
@@ -7980,7 +7980,7 @@
         "Role":"plastered",
         "English":"woah you must be way in the boonies",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哇，你一定是住在高档社区",
         "Japanese":""
     },
     {
@@ -7988,7 +7988,7 @@
         "Role":"selenium_wolf",
         "English":"something like that",
         "French":"",
-        "Chinese":"",
+        "Chinese":"差不多吧",
         "Japanese":""
     },
     {
@@ -8028,7 +8028,7 @@
         "Role":"EMBER-2",
         "English":"It’s apparently a booming business.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这显然是一个蓬勃发展的市场。",
         "Japanese":""
     },
     {
@@ -8156,7 +8156,7 @@
         "Role":"mutex8021",
         "English":"ohhhhh {shit}",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哦{该死}",
         "Japanese":""
     },
     {
@@ -8164,7 +8164,7 @@
         "Role":"mutex8021",
         "English":"my guilds castle was stolen",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我的工会城堡被盗了",
         "Japanese":""
     },
     {
@@ -8172,7 +8172,7 @@
         "Role":"mutex8021",
         "English":"i was suddenly booted",
         "French":"",
-        "Chinese":"",
+        "Chinese":"突然间，我被人猛踢了一脚",
         "Japanese":""
     },
     {
@@ -8180,7 +8180,7 @@
         "Role":"mutex8021",
         "English":"now its not ours???",
         "French":"",
-        "Chinese":"",
+        "Chinese":"现在它不属于我们了？？？",
         "Japanese":""
     },
     {
@@ -8196,7 +8196,7 @@
         "Role":"selenium_wolf",
         "English":"sounds like it was hacked",
         "French":"",
-        "Chinese":"",
+        "Chinese":"听起来是被黑了",
         "Japanese":""
     },
     {
@@ -8204,7 +8204,7 @@
         "Role":"deadlock",
         "English":"that would be a pretty bad one...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这真是太糟糕了",
         "Japanese":""
     },
     {
@@ -8212,7 +8212,7 @@
         "Role":"selenium_wolf",
         "English":"its game developers, though",
         "French":"",
-        "Chinese":"",
+        "Chinese":"尽管这是游戏开发者的锅",
         "Japanese":""
     },
     {
@@ -8220,7 +8220,7 @@
         "Role":"selenium_wolf",
         "English":"they write some of the most insecure software out there",
         "French":"",
-        "Chinese":"",
+        "Chinese":"他们写出了一些漏洞百出的软件",
         "Japanese":""
     },
     {
@@ -8860,7 +8860,7 @@
         "Role":"mutex8021",
         "English":"so uh ne1 here play kings ransom online",
         "French":"",
-        "Chinese":"这儿有人玩 kings ransom online",
+        "Chinese":"这儿有人玩\"国王的救赎OL\"吗？\n",
         "Japanese":""
     },
     {

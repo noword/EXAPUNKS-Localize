@@ -7,7 +7,7 @@ import openpyxl
 from openpyxl.styles.borders import Border, Side
 
 
-EXCEL_FONT_NAME = 'WenQuanYi Micro Hei Mono'
+EXCEL_FONT_NAME = 'Noto Sans Mono CJK SC Regular'
 
 
 class Theme:
