@@ -36,7 +36,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"文件签名应该为 \"RIFF\"",
         "Japanese":""
     },
     {
@@ -52,7 +52,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"文件格式应该为 \"WAVE\"",
         "Japanese":""
     },
     {
@@ -76,7 +76,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"未知的音频格式，只支持 PCM1格式的音频",
         "Japanese":""
     },
     {
@@ -3908,7 +3908,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"与 Isadora 见面。",
+        "Chinese":"会见 Isadora",
         "Japanese":""
     },
     {
@@ -3940,7 +3940,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"SFCTA高速公路牌 #4902",
+        "Chinese":"SFCTA 高速公路牌 #4902",
         "Japanese":""
     },
     {
@@ -3980,7 +3980,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"与 EMBER-2 交谈",
+        "Chinese":"会见 EMBER-2",
         "Japanese":""
     },
     {
@@ -4124,7 +4124,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"收取更多的药物快递",
+        "Chinese":"取得更多的药物。",
         "Japanese":""
     },
     {
@@ -4236,7 +4236,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"通过替换发给 Ghast 的邮件的用词更改邮件意思。",
+        "Chinese":"替换发给 Ghast 的邮件用词，改变邮件的意思。",
         "Japanese":""
     },
     {
@@ -4700,7 +4700,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"作为打击仿制药的报复，切断特定街区的电力供给。",
+        "Chinese":"作为打击仿制药行动的报复，切断特定街区的电力供给。",
         "Japanese":""
     },
     {
@@ -4796,7 +4796,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"国王的救赎OL",
+        "Chinese":"国王的赎金 OL",
         "Japanese":""
     },
     {
@@ -4804,7 +4804,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"美国西部的领域",
+        "Chinese":"美国西部",
         "Japanese":""
     },
     {
@@ -4868,7 +4868,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"旧金山 - ATM机 离线",
+        "Chinese":"旧金山 - ATM机 离线中",
         "Japanese":""
     },
     {
@@ -4876,7 +4876,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"从多个账户中转账一笔小钱到一个账户中。",
+        "Chinese":"从多个账户中转一笔小钱到一个账户中。",
         "Japanese":""
     },
     {
@@ -4932,7 +4932,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"虫洞",
+        "Chinese":"蠕虫巢穴",
         "Japanese":""
     },
     {
@@ -4956,7 +4956,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"与对手竞争，用 EXA 塞满网络中的主机。",
         "Japanese":""
     },
     {
@@ -4972,7 +4972,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"拨号网络",
         "Japanese":""
     },
     {
@@ -4980,7 +4980,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"浏览拨号网络映像，找出 EMBER-2 的新主机。",
         "Japanese":""
     },
     {
@@ -4996,7 +4996,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"周六 1997\/11\/15 11:49 PM",
         "Japanese":""
     },
     {
@@ -5004,7 +5004,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"再次与邻居交谈，了解她的烦心事。",
         "Japanese":""
     },
     {
@@ -5020,7 +5020,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"27号仓库",
         "Japanese":""
     },
     {
@@ -5036,7 +5036,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"秘密地破坏 终点站 的铀离心机。",
         "Japanese":""
     },
     {
@@ -5052,7 +5052,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"视神经",
         "Japanese":""
     },
     {
@@ -5060,7 +5060,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"黑入自己的身体以便修复视神经。",
         "Japanese":""
     },
     {
@@ -5084,7 +5084,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"和你的老朋友聊聊过去和将来。",
         "Japanese":""
     },
     {
@@ -5100,7 +5100,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"霍尔曼动力",
         "Japanese":""
     },
     {
@@ -5124,7 +5124,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在超级计算机公司的销售系统中检索信用卡卡号。",
         "Japanese":""
     },
     {
@@ -5140,7 +5140,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"阿伯丁",
         "Japanese":""
     },
     {
@@ -5164,7 +5164,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"与对手竞争，用 EXA 抢占更多的主机。",
         "Japanese":""
     },
     {
@@ -5188,7 +5188,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"与 EMBER-2 讨论她新发现的计算能力。",
         "Japanese":""
     },
     {
@@ -5204,7 +5204,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"美国政府",
         "Japanese":""
     },
     {
@@ -5212,7 +5212,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"FEMA 遗传数据库",
         "Japanese":""
     },
     {
@@ -5228,7 +5228,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"访问政府的 DNA 数据库，改写遗传信息。",
         "Japanese":""
     },
     {
@@ -5244,7 +5244,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"未知网络 2",
         "Japanese":""
     },
     {
@@ -5260,7 +5260,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"破坏 EMBER-2 的 AI 朋友的安保装置。",
         "Japanese":""
     },
     {
@@ -5284,7 +5284,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"了解 EMBER-2 的秘密。不过只是其中之一。",
         "Japanese":""
     },
     {
@@ -5300,7 +5300,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"寻呼机网络",
         "Japanese":""
     },
     {
@@ -5308,7 +5308,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"向大量寻呼机发送令人迷惑的消息。",
         "Japanese":""
     },
     {
@@ -5332,7 +5332,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"聆听 EMBER-2 关于这个世界的探索和发现。",
         "Japanese":""
     },
     {
@@ -5340,7 +5340,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"脑机接口",
         "Japanese":""
     },
     {
@@ -5348,7 +5348,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"构建一个脑机接口，并与 EMBER-2 建立连接。",
         "Japanese":""
     },
     {
@@ -5364,7 +5364,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"加入 EMBER-2.",
         "Japanese":""
     },
     {
@@ -5380,7 +5380,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"鲜血与杀戮 OL",
         "Japanese":""
     },
     {
@@ -5388,7 +5388,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"美国东部",
         "Japanese":""
     },
     {
@@ -5404,7 +5404,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在鲜血与杀戮 OL 中帮助 mutex8021 从吸血鬼族中窃取物品。[1998]",
         "Japanese":""
     },
     {
@@ -5420,7 +5420,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"车管所",
         "Japanese":""
     },
     {
@@ -5428,7 +5428,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"叫号系统",
         "Japanese":""
     },
     {
@@ -5444,7 +5444,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"修改等待队列，让 NthDimension 能够更早的参加驾驶考试。[1998]",
         "Japanese":""
     },
     {
@@ -5460,7 +5460,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"Cybermyth 公司",
         "Japanese":""
     },
     {
@@ -5468,7 +5468,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"会计系统",
         "Japanese":""
     },
     {
@@ -5484,7 +5484,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"让 Cybermyth 公司\"支付\"你和 Ghast 被拖欠的欠款。[1992]",
         "Japanese":""
     },
     {
@@ -5500,7 +5500,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"美国国防部",
         "Japanese":""
     },
     {
@@ -5508,7 +5508,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"USAF的安保设备",
         "Japanese":""
     },
     {
@@ -5524,7 +5524,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"和 hydroponix 一起挖掘政府的秘密。[1998]",
         "Japanese":""
     },
     {
@@ -6436,7 +6436,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"手册",
         "Japanese":""
     },
     {
@@ -6468,7 +6468,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"登录中...",
+        "Chinese":"登录中…",
         "Japanese":""
     },
     {
@@ -7468,7 +7468,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"[!!!数据删除!!!]",
+        "Chinese":"[!!!数据丢失!!!]",
         "Japanese":""
     },
     {
@@ -7812,7 +7812,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"出错",
         "Japanese":""
     },
     {
@@ -7836,7 +7836,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"打开",
         "Japanese":""
     },
     {
@@ -7844,7 +7844,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"复制",
         "Japanese":""
     },
     {
@@ -7852,7 +7852,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"删除",
         "Japanese":""
     },
     {
@@ -7860,7 +7860,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"导出",
         "Japanese":""
     },
     {
@@ -13012,7 +13012,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"击败",
+        "Chinese":"战胜",
         "Japanese":""
     },
     {
@@ -13020,7 +13020,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"对手",
+        "Chinese":"对抗者",
         "Japanese":""
     },
     {
@@ -13028,7 +13028,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"变更",
+        "Chinese":"修改时间",
         "Japanese":""
     },
     {
@@ -13220,7 +13220,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"单击运行一个仿真周期。\\n\\n长按可以连续仿真。",
         "Japanese":""
     },
     {
@@ -13228,7 +13228,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"用慢到足够观察的速度，运行模拟程序。",
+        "Chinese":"用慢到足够观察的速度，运行仿真。",
         "Japanese":""
     },
     {
@@ -13244,7 +13244,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"完成任务需要通过100轮测试。可以选择从哪个测试开始，以便方便的调试仅在特定测试中遇到的问题。",
         "Japanese":""
     },
     {
@@ -13252,7 +13252,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"当前方案通过测试时消耗的时钟周期。",
         "Japanese":""
     },
     {
@@ -13260,7 +13260,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"当前方案的代码行数，包括 MARK ，不包括 NOTE。\\n\\n在此任务中，如果你的代码行数 超过 {0} ，你的分数将不会被计入排行榜。",
         "Japanese":""
     },
     {
@@ -13268,7 +13268,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"当前方案的代码行数，包括 MARK ，不包括 NOTE。\\n\\n在此任务中，代码行数不得超过 {0}。",
         "Japanese":""
     },
     {
@@ -13276,7 +13276,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"当前方案执行 LINK 和 KILL 指令的次数。",
         "Japanese":""
     },
     {
@@ -13284,7 +13284,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在所有测试中胜利次数更多的一方在此次对抗任务中获胜。",
         "Japanese":""
     },
     {
@@ -13292,7 +13292,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"每个测试有固定的持续时间，以时钟周期为单位。",
         "Japanese":""
     },
     {
@@ -13300,7 +13300,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在一个测试中，对抗得分高的一方取得胜利。",
         "Japanese":""
     },
     {
@@ -13308,7 +13308,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"每个玩家初始的 EXA 数量和网络中独立存在的文件数量是有限制的。",
         "Japanese":""
     },
     {
@@ -13316,7 +13316,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"未知",
         "Japanese":""
     },
     {
@@ -13348,7 +13348,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"测试运行完成度",
+        "Chinese":"测试完成度",
         "Japanese":""
     },
     {
@@ -13412,7 +13412,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周期",
+        "Chinese":"时钟周期",
         "Japanese":""
     },
     {
@@ -13420,7 +13420,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"大小",
+        "Chinese":"代码行数",
         "Japanese":""
     },
     {
@@ -13428,7 +13428,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"点数",
+        "Chinese":"对抗得分",
         "Japanese":""
     },
     {
@@ -18668,7 +18668,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"将歌曲插入到每个播放列表的首部。",
+        "Chinese":"将歌曲插入到每个播放列表的开始。",
         "Japanese":""
     },
     {
@@ -18676,7 +18676,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"替换播放列表中的每首歌曲。",
+        "Chinese":"替换播放列表中的所有歌曲。",
         "Japanese":""
     },
     {
@@ -19068,7 +19068,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"连接到每一部智能电话。",
+        "Chinese":"连接到每一个调制解调器。",
         "Japanese":""
     },
     {
@@ -25260,7 +25260,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"你将会看到在一些小票，请将它们的内容录入电脑，以便记账和报销。为忙碌的主管节省一两分钟时间",
         "Japanese":""
     },
     {
@@ -27356,7 +27356,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"数码监控",
+        "Chinese":"监控视频",
         "Japanese":""
     },
     {
@@ -27716,7 +27716,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"等待输入字符",
         "Japanese":""
     },
     {
@@ -27724,7 +27724,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"等待输入列号",
         "Japanese":""
     },
     {
@@ -27732,7 +27732,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"等待输入行号",
         "Japanese":""
     },
     {
@@ -27756,7 +27756,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"断电",
         "Japanese":""
     },
     {
@@ -27764,7 +27764,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"监控视频",
         "Japanese":""
     },
     {
@@ -27772,7 +27772,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"主机状态",
         "Japanese":""
     },
     {
@@ -27876,7 +27876,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"当前 {0}, 未变",
+        "Chinese":"当前 {0}, 未变化",
         "Japanese":""
     },
     {
@@ -27884,7 +27884,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"当前 {0}, 先前 {1}",
+        "Chinese":"当前 {0}, 上次 {1}",
         "Japanese":""
     },
     {
