@@ -14,13 +14,14 @@ import multiprocessing
 free fonts:
 https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/
 https://www.google.com/get/noto/help/cjk/
-https://github.com/adobe-fonts/source-han-sans/releases
+https://github.com/adobe-fonts/source-han-sans
 https://github.com/be5invis/Sarasa-Gothic
+https://github.com/adobe-fonts/source-han-mono
 '''
 
 FONT_MAP = {
-    'mono': ('Sarasa Mono SC', 1.2, False),
-    'pixel': ('Sarasa Mono SC', 1.2, False),
+    'mono': ('Source Han Mono', 1.2, False),
+    'pixel': ('Source Han Mono', 1.2, False),
     'karnivore': ('Source Han Sans SC', 1.3, True),
     'impact': ('Source Han Sans SC', 1.3, True),
     'archivo': ('Source Han Sans SC', 1.3, True),
