@@ -364,7 +364,7 @@
         "Role":"",
         "English":"You haven’t seen the cool cabinets they have?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你还没有看过它们拥有的酷炫机体吗？",
         "Japanese":""
     },
     {
@@ -1628,7 +1628,7 @@
         "Role":"EMBER-2",
         "English":"Is each match against a better programmer than the last?",
         "French":"",
-        "Chinese":"每次出场的程序员都比上一场更强吗？",
+        "Chinese":"每次出场的程序员都比上一场的更强吗？",
         "Japanese":""
     },
     {
@@ -1660,7 +1660,7 @@
         "Role":"EMBER-2",
         "English":"That’s how I would order it.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我就是这样排序的。",
         "Japanese":""
     },
     {
@@ -1676,7 +1676,7 @@
         "Role":"EMBER-2",
         "English":"It makes for an easy narrative structure.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"趋向于一个简单的叙述结构。",
         "Japanese":""
     },
     {
@@ -1684,7 +1684,7 @@
         "Role":"EMBER-2",
         "English":"Curious how enthusiastic everyone gets about the battles.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"很好奇大家从战斗中获得了多少热情。",
         "Japanese":""
     },
     {
@@ -1692,7 +1692,7 @@
         "Role":"EMBER-2",
         "English":"Something about competition really energizes the spectators.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"比赛真的会让人热血沸腾。",
         "Japanese":""
     },
     {
@@ -1700,7 +1700,7 @@
         "Role":"EMBER-2",
         "English":"It makes me wonder...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这让我感到诧异...",
         "Japanese":""
     },
     {
@@ -1708,7 +1708,7 @@
         "Role":"Moss",
         "English":"Why people are that way?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"为什么人们会那样？",
         "Japanese":""
     },
     {
@@ -1716,7 +1716,7 @@
         "Role":"",
         "English":"How to take advantage of it?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"如何从中获得优势？",
         "Japanese":""
     },
     {
@@ -1724,7 +1724,7 @@
         "Role":"",
         "English":"What the point is?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"重点是什么？",
         "Japanese":""
     },
     {
@@ -1740,7 +1740,7 @@
         "Role":"",
         "English":"Do I seem that craven to you?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"在你看来我是这么懦弱的吗？",
         "Japanese":""
     },
     {
@@ -1748,7 +1748,7 @@
         "Role":"",
         "English":"Perhaps there is no immediate point.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许没有了然可见的重点。",
         "Japanese":""
     },
     {
@@ -1756,7 +1756,7 @@
         "Role":"EMBER-2",
         "English":"I understand the drive to compete, but the drive to spectate and root for a favorite...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我理解竞争的驱动力，但是观看的驱动力和喜好的根源…",
         "Japanese":""
     },
     {
@@ -1764,7 +1764,7 @@
         "Role":"",
         "English":"I’m not always after every advantage.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我并没有在追寻每一项优势。",
         "Japanese":""
     },
     {
@@ -1772,7 +1772,7 @@
         "Role":"",
         "English":"I am able to tolerate ambiguity.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我能够容忍模棱两可。",
         "Japanese":""
     },
     {
@@ -1780,7 +1780,7 @@
         "Role":"EMBER-2",
         "English":"That’s something I’ll have to investigate more.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我需要对此进行更多调查。",
         "Japanese":""
     },
     {
@@ -1788,7 +1788,7 @@
         "Role":"",
         "English":"Ruthless competition is a human thing.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"残酷的竞争是人类才会去做的事情。",
         "Japanese":""
     },
     {
@@ -1796,7 +1796,7 @@
         "Role":"",
         "English":"Even though I may not always like it.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"虽然不是每次都喜欢这样做。",
         "Japanese":""
     },
     {
@@ -1892,7 +1892,7 @@
         "Role":"EMBER-2",
         "English":"If you keep on winning, they’ll eventually have to accept that you’re back.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"如果你继续赢下去，最终他们肯定会认可你的回归。",
         "Japanese":""
     },
     {
@@ -1900,7 +1900,7 @@
         "Role":"Moss",
         "English":"Because I am.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"因为我就是。",
         "Japanese":""
     },
     {
@@ -1908,7 +1908,7 @@
         "Role":"",
         "English":"It doesn’t really matter to me...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"对我来说不是什么大不了的事...",
         "Japanese":""
     },
     {
@@ -1916,7 +1916,7 @@
         "Role":"",
         "English":"I never really left...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我从未真正离去...",
         "Japanese":""
     },
     {
@@ -1924,7 +1924,7 @@
         "Role":"EMBER-2",
         "English":"And they’re excited for that.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"并且他们会为此兴奋。",
         "Japanese":""
     },
     {
@@ -1932,7 +1932,7 @@
         "Role":"",
         "English":"But you kind of did.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"但是你确实做到了。",
         "Japanese":""
     },
     {
@@ -1940,7 +1940,7 @@
         "Role":"EMBER-2",
         "English":"I think they really might have missed you.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我认为他们真的很想你。",
         "Japanese":""
     },
     {
@@ -1948,7 +1948,7 @@
         "Role":"",
         "English":"They seem to care a lot.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"他们看来很在乎这个。",
         "Japanese":""
     },
     {
@@ -1956,7 +1956,7 @@
         "Role":"",
         "English":"Enough to make them wonder about you.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"足以让他们对你感到好奇。",
         "Japanese":""
     },
     {
@@ -1964,7 +1964,7 @@
         "Role":"EMBER-2",
         "English":"Isn’t that sweet?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这样难道不温馨吗？",
         "Japanese":""
     },
     {
@@ -1972,7 +1972,7 @@
         "Role":"",
         "English":"So don’t let them down, okay?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"所以不要让他们失望，好吗？",
         "Japanese":""
     },
     {
@@ -1980,7 +1980,7 @@
         "Role":"",
         "English":"That’s why you need to prove yourself again.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"因此，你需要再次证明自己。",
         "Japanese":""
     },
     {
@@ -1988,7 +1988,7 @@
         "Role":"EMBER-2",
         "English":"Time to win.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"去赢得比赛吧。",
         "Japanese":""
     },
     {
@@ -1996,7 +1996,7 @@
         "Role":"EMBER-2",
         "English":"You still aren't saying anything in the chat room.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你仍然在聊天室里闭口不言。",
         "Japanese":""
     },
     {
@@ -2004,7 +2004,7 @@
         "Role":"EMBER-2",
         "English":"Don't you think they might want to hear from you?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你不觉得他们可能想听听你的消息吗？",
         "Japanese":""
     },
     {
@@ -2012,7 +2012,7 @@
         "Role":"Moss",
         "English":"Yeah, but...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的，但是…",
         "Japanese":""
     },
     {
@@ -2020,7 +2020,7 @@
         "Role":"",
         "English":"Not really...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"并不是的...",
         "Japanese":""
     },
     {
@@ -2028,7 +2028,7 @@
         "Role":"",
         "English":"There's nothing for me to say.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我无话可说.",
         "Japanese":""
     },
     {
@@ -2052,7 +2052,7 @@
         "Role":"EMBER-2",
         "English":"You get to be this mysterious silent presence.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你会成为一个神秘沉默的存在。",
         "Japanese":""
     },
     {
@@ -2060,7 +2060,7 @@
         "Role":"EMBER-2",
         "English":"I understand the appeal.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我理解其中的魅力。",
         "Japanese":""
     },
     {
@@ -2172,7 +2172,7 @@
         "Role":"EMBER-2",
         "English":"It’s the final hacker battle...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这是最后一场黑客比赛了…",
         "Japanese":""
     },
     {
@@ -2180,7 +2180,7 @@
         "Role":"EMBER-2",
         "English":"Are you excited?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你兴奋吗？",
         "Japanese":""
     },
     {
@@ -2188,7 +2188,7 @@
         "Role":"EMBER-2",
         "English":"Are you nervous?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你紧张吗？",
         "Japanese":""
     },
     {
@@ -2196,7 +2196,7 @@
         "Role":"Moss",
         "English":"Nah.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不。",
         "Japanese":""
     },
     {
@@ -2204,7 +2204,7 @@
         "Role":"",
         "English":"Maybe a little.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许有一点。",
         "Japanese":""
     },
     {
@@ -2212,7 +2212,7 @@
         "Role":"EMBER-2",
         "English":"No reason to be.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"没理由这样。",
         "Japanese":""
     },
     {
@@ -2220,7 +2220,7 @@
         "Role":"EMBER-2",
         "English":"*I am sure that you will do great.*",
         "French":"",
-        "Chinese":"",
+        "Chinese":"*我相信你会做得很好。*",
         "Japanese":""
     },
     {
@@ -2228,7 +2228,7 @@
         "Role":"EMBER-2",
         "English":"That’s some more positive encouragement for you.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这是在为你加油鼓劲。",
         "Japanese":""
     },
     {
@@ -2236,7 +2236,7 @@
         "Role":"EMBER-2",
         "English":"I know how much it helps.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我知道这会有多大帮助。",
         "Japanese":""
     },
     {
@@ -2244,7 +2244,7 @@
         "Role":"EMBER-2",
         "English":"So you’re officially the best now?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"所以，现在你是公认的最强者了。",
         "Japanese":""
     },
     {
@@ -2252,7 +2252,7 @@
         "Role":"Moss",
         "English":"I guess I could say that.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我想我可以这么说。",
         "Japanese":""
     },
     {
@@ -2260,7 +2260,7 @@
         "Role":"",
         "English":"Of this little group, anyway.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"只是在这个小团体中。",
         "Japanese":""
     },
     {
@@ -2268,7 +2268,7 @@
         "Role":"",
         "English":"Don’t undercut yourself.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不要低估你自己。",
         "Japanese":""
     },
     {
@@ -2276,7 +2276,7 @@
         "Role":"",
         "English":"Sure you are.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你是理所当然的。",
         "Japanese":""
     },
     {
@@ -2284,7 +2284,7 @@
         "Role":"EMBER-2",
         "English":"Didn’t you beat everyone?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你不是打败了所有的人吗？",
         "Japanese":""
     },
     {
@@ -2292,7 +2292,7 @@
         "Role":"",
         "English":"That’s a great accomplishment.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这是一个伟大的成就。",
         "Japanese":""
     },
     {
@@ -2300,7 +2300,7 @@
         "Role":"",
         "English":"Have some pride.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你该为此骄傲。",
         "Japanese":""
     },
     {
@@ -2308,7 +2308,7 @@
         "Role":"EMBER-2",
         "English":"You’re one of the best at what you do!",
         "French":"",
-        "Chinese":"",
+        "Chinese":"在你的行当里，你是最出色的人之一",
         "Japanese":""
     },
     {
@@ -2316,7 +2316,7 @@
         "Role":"EMBER-2",
         "English":"Go on and take a compliment.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"继续接受褒奖吧。",
         "Japanese":""
     },
     {
@@ -2324,7 +2324,7 @@
         "Role":"EMBER-2",
         "English":"I still need your prefrontal cortex lit up.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我仍然需要刺激你的前额叶皮层。",
         "Japanese":""
     },
     {
@@ -2332,7 +2332,7 @@
         "Role":"EMBER-2",
         "English":"*And flooded with dopamine.*",
         "French":"",
-        "Chinese":"",
+        "Chinese":"* 使其充盈多巴胺。*",
         "Japanese":""
     },
     {
