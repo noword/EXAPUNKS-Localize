@@ -12,15 +12,22 @@ EXCEL_FONT_NAME = 'Source Han Mono'
 
 class Theme:
     font_name = EXCEL_FONT_NAME
+
     header_background_color_start = 'FCF3CF'
     header_background_color_end = 'FEF9E7'
     header_color = '333300'
+
     original_background_color_start = 'D6EAF8'
     original_background_color_end = 'EAFAF1'
     original_color = '000033'
+
     translation_background_color_start = 'D5F5E3'
     translation_background_color_end = 'EAFAF1'
     translation_color = '003300'
+
+    comment_background_color_start = 'FADBD8'
+    comment_background_color_end = 'FDEDEC'
+    comment_color = '330000'
 
     def __init__(self):
         self.header_fill = openpyxl.styles.GradientFill(stop=(self.header_background_color_start,
@@ -35,6 +42,10 @@ class Theme:
                                                              self.translation_background_color_end))
         self.trans_font = openpyxl.styles.Font(name=self.font_name, color=self.translation_color)
 
+        self.comment_fill = openpyxl.styles.GradientFill(stop=(self.comment_background_color_start,
+                                                               self.comment_background_color_end))
+        self.comment_font = openpyxl.styles.Font(name=self.font_name, color=self.comment_color)
+
         self.font = openpyxl.styles.Font(name=self.font_name)
 
         self.border = Border(left=Side(style='hair'),
@@ -42,15 +53,6 @@ class Theme:
                              top=Side(style='hair'),
                              bottom=Side(style='hair'),
                              )
-
-
-class DarkTheme:
-    original_background_color_start = '212830'
-    original_background_color_end = '212830'
-    original_color = 'fdf6e3'
-    translation_background_color_start = '032b36'
-    translation_background_color_end = '032b36'
-    translation_color = 'efe9d5'
 
 
 class Translation:
@@ -62,13 +64,13 @@ class Translation:
     def load(self, name):
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
-            self._df = pd.read_excel(name, engine='openpyxl')
+            _df = pd.read_excel(name, engine='openpyxl')
         elif ext == '.json':
-            self._df = pd.read_json(name)
+            _df = pd.read_json(name)
         else:
-            raise TypeError('not support type: "%s"' % ext)
+            raise TypeError(f'not support type: "{ext}"')
 
-        self.__process_dataframe()
+        self.set_dataframe(_df)
 
     def save(self, name, index='English'):
         ext = os.path.splitext(name)[1].lower()
@@ -77,14 +79,19 @@ class Translation:
         elif ext == '.json':
             self.save_json(name)
         else:
-            raise TypeError('not support type: "%s"' % ext)
+            raise TypeError(f'not support type: "{ext}"')
 
     def __set_excel_styles(self, workbook, frezze_index):
-        rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
-                                                   formula=['""'],
-                                                   border=self.theme.border,
-                                                   fill=self.theme.trans_fill,
-                                                   font=self.theme.trans_font)
+        trans_rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
+                                                         formula=['""'],
+                                                         border=self.theme.border,
+                                                         fill=self.theme.trans_fill,
+                                                         font=self.theme.trans_font)
+        comment_rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
+                                                           formula=['""'],
+                                                           border=self.theme.border,
+                                                           fill=self.theme.comment_fill,
+                                                           font=self.theme.comment_font)
 
         ws = workbook.active
         # the global style
@@ -104,14 +111,21 @@ class Translation:
                 else:
                     cell.font = self.theme.font
 
+        # the comments style
+        comment_letter = openpyxl.utils.get_column_letter(ws.max_column)
+        if ws[comment_letter + '1'].value == 'Comments':
+            ws.conditional_formatting.add(f'{comment_letter}2:{comment_letter}{ws.max_row}', comment_rule)
+            cond_end = openpyxl.utils.get_column_letter(ws.max_column - 1)
+        else:
+            cond_end = openpyxl.utils.get_column_letter(ws.max_column)
+
         # the translation style
-        cond_start = chr(ord('A') + frezze_index) + '2'
-        cond_end = chr(ord('A') + ws.max_column - 1) + str(ws.max_row)
-        ws.conditional_formatting.add('%s:%s' % (cond_start, cond_end), rule)
+        cond_start = openpyxl.utils.get_column_letter(frezze_index + 1)
+        ws.conditional_formatting.add(f'{cond_start}2:{cond_end}{ws.max_row}', trans_rule)
 
         # the original style
-        start = chr(ord('A') + frezze_index - 1)
-        index_cells = ws['%s2:%s%d' % (start, start, ws.max_row)]
+        start = openpyxl.utils.get_column_letter(frezze_index)
+        index_cells = ws[f'{start}2:{start}{ws.max_row}']
         for cell in index_cells:
             cell[0].fill = self.theme.org_fill
             cell[0].font = self.theme.org_font
@@ -147,7 +161,9 @@ class Translation:
                         row[1][i] = row[0]
         return df.to_dict('index')
 
-    def set_dataframe(self, df):
+    def set_dataframe(self, df, add_comments=True):
+        if add_comments and 'Comments' not in df.columns:
+            df['Comments'] = [''] * len(df)
         self._df = df
         self.__process_dataframe()
 

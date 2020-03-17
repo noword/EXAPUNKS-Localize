@@ -6,7 +6,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请修改你的 WonderDisc，让一般只能运行 SSEA 地区游戏的它能运行任何地区的游戏。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"arcade-get.txt",
@@ -15,7 +16,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"SSEA 地区代码在文件 300 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"arcade-get.txt",
@@ -24,7 +26,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"你无需清理痕迹。你编写的 EXA 应当能永久运行。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"arcade-get.txt",
@@ -33,7 +36,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志中的《Hardware Hacks: Sawayama WonderDisc》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"atm.txt",
@@ -42,7 +46,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将所有连网的 ATM 机中的所有现金全部吐出。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"atm.txt",
@@ -51,7 +56,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志中的《Network Exploration: Equity First Bank》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bank.txt",
@@ -60,7 +66,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将EMBER-2的新帐户（文件 300）移入 *checking*。随后遍历目录（文件 199）中的支票帐户，并按此顺序依次让每个帐户都向 EMBER-2 的账户转帐 $1.00。最后，将 EMBER-2 帐户文件 ID 追加到目录的尾部。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bank.txt",
@@ -69,7 +76,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"关键字 ‗CREDIT‗ 和 ‗DEBIT‗ 在文件 301 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"baseball.txt",
@@ -78,7 +86,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"主机 *active* 和 *penalty* 中包含有代表 extreme 棒球选手们的文件（文件 200-299）以及一个含有这些文件的 ID 的目录文件（文件 199）。每个选手文件都含有他们的姓名和以下顺序的各个数据：BA, ZA, APB, WRT, OI, OD, PC, and PS。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"baseball.txt",
@@ -87,7 +96,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请在你的主机中创建一个文件，里面含有分数最高的选手的姓名。计算分数请使用 EMBER-2 的算法：",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"baseball.txt",
@@ -96,7 +106,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"分数 = (BA + ZA + APB) ÷ 3 + ( WRT × OI ) ÷ OD + (PC - PS) × 20",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"baseball.txt",
@@ -105,7 +116,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请无视 *penalty* 主机中的玩家，他们目前被禁止参与比赛。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-1.txt",
@@ -114,7 +126,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须让你影片的播放时间长于你的对手。当一个 *channel* 主机里只有一个影片文件时，该影片将播放。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-1.txt",
@@ -123,7 +136,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每当你的影片播放时（文件 210 和 211），一个影片播放一周期计一分。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-1.txt",
@@ -132,7 +146,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每当不属于你的影片文件（文件 230、231、265）被你操控的 EXA 持有或放置于你的主机中时，持续一周期扣一分。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-1.txt",
@@ -141,7 +156,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每当你的 EXA 执行 KILL 指令时，一个 EXA 一次扣一分。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-1.txt",
@@ -150,7 +166,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，你必须先打败 NPC 对手才能与你的 Steam 好友对战。若要查看可以对战的对手列表请点击上方的“选择对手”按钮。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-1.txt",
@@ -159,7 +176,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志的《Hacker Battle Domination》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-2.txt",
@@ -168,7 +186,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须尽可能久地掌握多数主机的控制权。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-2.txt",
@@ -177,7 +196,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"向一个主机的 #CTRL 寄存器写入任意一个值即可控制该主机。读取 #CTRL 寄存器可以告诉你这台主机的控制权属于你（1）还是对手（-1）。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-2.txt",
@@ -186,7 +206,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每当你控制的主机数超过你的对手时，持续一周期计一分。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-3.txt",
@@ -195,7 +216,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须在文件生成于中央主机时将其抓取并带回你的主机。中央主机不止一个。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-3.txt",
@@ -204,7 +226,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"读取 #FILE 寄存器可以告诉你当前在该主机中最近生成的文件的 ID。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-3.txt",
@@ -213,7 +236,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每当你将文件带回你的主机时，一个文件计一分。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-4.txt",
@@ -222,7 +246,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须用尽可能多的你的 EXA 填满网络的主机。请注意，每对测试运行都有其各自的网络构造，而其中主机之间用双向 link 连接，并使用 2 到 13 之间的素数作为 link ID（2、3、5、7、11、13）。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-4.txt",
@@ -231,7 +256,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每当战斗计时结束时，一个位于网络中的你的 EXA 计一分。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-5.txt",
@@ -240,7 +266,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"要在这场战斗中获得胜利，你必须尽可能久地占领多数主机。当一个主机中你的 EXA 数量比你的对手多时，你将占领该主机。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-5.txt",
@@ -249,7 +276,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每当你占领的主机数比你的对手多时，持续一周期计一分。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"battle-5.txt",
@@ -258,7 +286,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"向 #NUKE 寄存器写入任意一个值将摧毁该主机中所有 EXA，包括触发了摧毁程序的 EXA。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-deadlock.txt",
@@ -267,7 +296,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"网络中每个主机都代表一个国家，并含有一张从该国家的机场出发且通往同国家或者相连国家的机场的所有航程的机票清单（文件 200）。一张机票含有以下五个值：机票 ID、出发机场、出发时间、到达机场、以及到达时间。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-deadlock.txt",
@@ -276,7 +306,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请根据 deadlock 行程（文件 300）中的航程订购一系列机票。你需要每次选择前一次航班到达后的第一个可用的航班，而订购机票则需要将该机票从网络中对应的文件删除，并将机票 ID 添加至文件 301 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-deadlock.txt",
@@ -285,7 +316,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，deadlock 的行程必从美国（USA）开始；也同时注意航班时间可以用 TEST 指令进行比较。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-ghast.txt",
@@ -294,7 +326,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每个主机含有二个文件：一张账户清单和一张转账清单。虽然文件里的条目可能各不相同，但是每个条目的第一个值都是一个独一无二的 id，将一个账户和转账信息联系在一起。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-ghast.txt",
@@ -303,7 +336,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请确认未支付给 Ghast 和 Moss 的 back-pay 的总额。你需要从还未支付给他们的金额（文件 231）中减去已支付给他们的金额（文件 221）。然后将他们的空壳公司（文件 300）添加至可以支付的账户清单中（文件 220）并向其支付一笔金额为总共未支付的金额的账（文件 221）。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-ghast.txt",
@@ -312,7 +346,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，所有货币金额都由二个值组成：先是美金，再是美分。一美金等于一百美分。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-hydro.txt",
@@ -321,7 +356,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请找到 ‗PROJECT OGRE‗ 报告（文件 300）的未编辑的版本，制作一份副本，并将其带回你的主机。目标文件被锁保护，每个锁需要一个三位数的密码。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-hydro.txt",
@@ -330,7 +366,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"由于这项任务位于一个由军地运行的网络中，该网络含有其他网络中没有的特殊安全保护机制。你不能在该网络中安放超过一个 EXA，也不能用 M 寄存器使该网络内的 EXA 与你的主机中的 EXA 通信。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-moss.txt",
@@ -339,7 +376,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将目标数据（文件 301）打包并传输至 *internet* 使其上传至一个破解软件网站（文件 300）。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-moss.txt",
@@ -348,7 +386,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"一个数据包是一个文件，其中依次含有源 IP 地址（来自 #ADDR 寄存器）、目的 IP 地址（来自文件 201 DNS 缓存）、数据的校验和、以及 1 到 30 个数据值。目标数据应当被分成数个数据包，使得除了最后一个数据包外，其余的都包含不少于 30 个数据值。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-moss.txt",
@@ -357,7 +396,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"计算数据包的校验和的方法是将所有数据值四位按位分开分别加在一起，满十归零。然后取负。例：3097、1047 和 2501 的校验和等于 -6535。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-mutex.txt",
@@ -366,7 +406,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每个主机都有一个列有在该位置中所有道具（ID、类型、状态）的道具清单（文件 200）",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-mutex.txt",
@@ -375,7 +416,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"首先，寻找关键词 ‗TALISMAN‗ （文件 300），以此确认 mutex8021 的窝点的位置。随后在窝点中找到 ‗MAP‗ 并借此确认目标主机：秘密吸血鬼巢穴的位置。接着来到目标主机，通过终结 EXA 的方式让所有吸血鬼玩家下线，将 ‗DOOR‗ 的状态设为 ‗UNLOCKED‗，再将 ‗SAFE‗ 的密码拷贝到 ‗CLOCK‗ 上，这样 mutex8021 就可以看到密码搬空保险箱了。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-mutex.txt",
@@ -384,7 +426,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，mutex8021 的窝点的门永远是 ‗UNLOCKED‗ 的。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-nth.txt",
@@ -393,7 +436,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"在 *storage* 中有一张预约列表（文件 200），里面含有 NthDimension 驾车考试的预约（文件 300）。请从预约列表中移除该预约，将日期改为今天（#DATE 寄存器），然后将其插入到今天的预约和明天的预约之间。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-nth.txt",
@@ -402,7 +446,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"要访问 *storage* 主机你需要向 #NEXT 寄存器写入编号最低的 ticket 编号解除主机锁定。*public* 中每个 EXA 都持有一张 ticket；终结所有 EXA 后即可获知下一名服务的 EXA 是哪个。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-nth.txt",
@@ -411,7 +456,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，向 #NEXT 寄存器写入错误的 ticket 编号将导致【不留痕迹】的要求失败。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-plastered.txt",
@@ -420,7 +466,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"文件 300 含有一个电话号码，但其中有一位、二位或三位数字被替换成了一个占位符（‗X‗）。若将所有占位符都替换成 0 到 9 中的一个数字，你将得到一个电话号码。请使用你的调制解调器拨打所有可能的电话号码。若你发现了一个可以接通到另一个主机的电话号码，请将其追加至文件 301 的末尾处。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-plastered.txt",
@@ -429,7 +476,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，你必须以一个每个占位符都要在其右边的占位符从 0 加到 9 再回到 0 时才进一的顺序拨打电话号码。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-plastered.txt",
@@ -438,7 +486,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志中的《Hacker Skills: Modem Control at the Direct Level》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-selenium.txt",
@@ -447,7 +496,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将 selenuim\\_wolf 的孩子的课程表（文件 235）中的 ‗ENGLISH‗ 课替换成  ‗AP ENGLISH‗ （文件 300）课。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-selenium.txt",
@@ -456,7 +506,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"由于这二门课极有可能不在同一时间上，你可能需要重新安排其余的课程的时间使其满足要求。请按需要修改课程表，使同样的课程在不同的时间举行。文件 200 中列有所有可用的课程名单。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-selenium.txt",
@@ -465,7 +516,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，符合要求的课程表有且仅有一张。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-selenium.txt",
@@ -474,7 +526,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"同时请注意 ‗AP ENGLISH‗ 课程只有一节，而其他所有课程都有不超过二节。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-x10.txt",
@@ -483,7 +536,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"该硬盘阵列上的数据被重复写在了三个硬盘上，同时在 *controller* 中有一个文件名索引（文件 200）。不幸的是，该硬盘阵列即将报废。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-x10.txt",
@@ -492,7 +546,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"对于每一个在硬盘阵列中的文件，请分别在你的主机中创建一个包含文件名和其数据的文件。部分值已经损坏，读取时将不会读到一个数，而是一个关键词（‗FAIL‗）。此时你需要从另一个该值没有损坏的硬盘中读取这个值。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"bonus-x10.txt",
@@ -501,7 +556,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，由于该硬盘阵列正在故障中，部分 link 可能无法保持可访问的状态。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"copy-shop.txt",
@@ -510,7 +566,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"擦除复印店里的 Ghast 的债务记录。你需要将其在客户数据库中的余额清零（文件 200），并在付款日志（文件 201）中追加今天的日期和他的欠款金额。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"copy-shop.txt",
@@ -519,7 +576,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"Ghast 的客户 ID 在文件 300 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"copy-shop.txt",
@@ -528,7 +586,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志中的 《Network Exploration: Digicash Point-of-Sale Systems》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"credit-card.txt",
@@ -537,7 +596,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请在你的主机中创建一个文件，其中包含来自垃圾文件（文件 199）的16个连续值，该序列是一个有效的信用卡号。这样的序列将只有一个。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"credit-card.txt",
@@ -546,7 +606,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志上的《How to Validate Credit Card Numbers》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"dna.txt",
@@ -555,7 +616,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将 ‗SEN WALKER CAINE JR‗ 的基因序列改写为 ‗PRES WALKER CAINE‗ 的基因序列，让人们认为二名政治家中年轻的一名其实是年长的一名的克隆。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"dna.txt",
@@ -564,7 +626,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"二名政治家的名字在文件 300 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"dna.txt",
@@ -573,7 +636,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，你可能需要用一个文件中的一个数据块来改写同一个文件中的另一个数据块。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"dna.txt",
@@ -582,7 +646,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志中的《Accessing Data in Legacy Storage Systems》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"edge-detection.txt",
@@ -591,7 +656,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"从每条视神经中读取一个值，并将正确的值写入你的深层视皮层（V-CTX）神经中。确定写入的值，对大于-55的读取值进行计数，将该数乘以5，然后减去75。无限重复此操作。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"edge-detection.txt",
@@ -600,7 +666,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志上的《Debugging the Phage》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"find-replace.txt",
@@ -609,7 +676,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请根据 EMBER-2 的指示查找并替换目标消息（文件 212）中的关键词。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"find-replace.txt",
@@ -618,7 +686,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"文件 300 中提供关键词替换列表。例如，‗AI‗ 应替换为 ‗COLLECTIVE‗。每个关键词只会出现一次，但可以以任何顺序出现。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"find-replace.txt",
@@ -627,7 +696,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"此外，请将文件 200 移动到 *outbox*。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"ghost-network.txt",
@@ -636,7 +706,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"在网络中找到文件 276，并将其带回主机。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"ghost-network.txt",
@@ -645,7 +716,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，一个 EXA 不能抓取另一个 EXA 持有的文件。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"heartbeat.txt",
@@ -654,7 +726,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请从与你的中枢神经系统（CNS）相连的神经中读取一个值，并向你的窦房（SA-N）和房室（AV-N）按照按住“显示目标”按钮时 HDI-10 I\/O 日志的表示写入一串值，使你的心脏跳动。每串值的长度应等于 CNS 的值减去 -10。无限重复此操作。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"highway-sign.txt",
@@ -663,7 +736,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"将 EMBER-2 的信息（文件 300）写到高速公路指示牌上。这封文件包含有指示牌上从左到右、从上到下每个位置对应的字符编码。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"highway-sign.txt",
@@ -672,7 +746,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志上的《Hardware Hacks: Electronic Highway Signs》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"interface.txt",
@@ -681,7 +756,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请在你的主机中创建一个文件，里面含有每个神经元的主机名和硬件寄存器的值恰好一次，并以这两个值为一组，按照主机名从小到大排序。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"interface.txt",
@@ -690,7 +766,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，每次测试运行都有其各自的网络构造。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"left-hand.txt",
@@ -699,7 +776,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"有三个神经信号需要中继：从中枢神经系统（CNS）到手部（HND）的肌肉控制（M），以及逆向的热量（H）和压力（P）。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"left-hand.txt",
@@ -708,7 +786,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"对于每个信号，从输入神经读取一个值，并将其中继到输出神经。无限重复此操作。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"library.txt",
@@ -717,7 +796,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"书本按照其索书号的第一位位数储存在对应的主机中，而书本的文件 ID 则是 200 加上索书号的后二位数。比如，书本 512 将储存在主机 *500-599* 中，文件 ID 则是 212。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"library.txt",
@@ -726,7 +806,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请复制 EMBER-2 请求的所有书本并将其带回你的主机。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"library.txt",
@@ -735,7 +816,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"EMBER-2 请求的所有书的索书号都在文件 300 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"library.txt",
@@ -744,7 +826,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，EMBER-2 只会在同一个主机中请求最多一本书。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"mmo.txt",
@@ -753,7 +836,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将所有城堡和附属建筑的所有权全部设为 ‗P00000‗（文件 300），用于无人拥有的建筑的玩家 ID。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"mmo.txt",
@@ -762,7 +846,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"为保证无人目击你的行为你必须先将所有在线玩家断开连接。请终结所有主机中的所有 EXA，在此之前请勿对任何主机中的任何城堡\/附属建筑文件进行更改。如果你在更改一个主机的文件时其他主机还有存留的 EXA，该任务将失败。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"mmo.txt",
@@ -771,7 +856,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志的《Network Exploration: King's Ransom Online》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"nerve-bridge.txt",
@@ -780,7 +866,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"从与你的中枢神经系统（CNS）连接的神经中读取一个值，并将其中继到手臂（ARM）的神经中，并限制该值的范围，使其不低于 -120 不高于 50。无限重复此操作。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"nerve-bridge.txt",
@@ -789,7 +876,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"由于此任务处理的是你掌控的网络——即，你自己的身体——你无需清理痕迹。你编写的 EXA 应当能永久运行。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"nerve-bridge.txt",
@@ -798,7 +886,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，#NERV 是一个‗硬件寄存器‗，并非文件。你可以像其他寄存器一样直接在代码中使用它。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"nerve-bridge.txt",
@@ -807,7 +896,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"关于 Phage 的更多信息请参阅第一期杂志上的《Debugging the Phage》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"pagers.txt",
@@ -816,7 +906,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请与所有寻呼机连接，将 EMBER-2 的讯息（文件 300）抄写到屏幕（#DATA）上。然后请在同一时间内启动所有寻呼机；你需要在一个周期内向所有 #PAGE 寄存器都写入一个值。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"pagers.txt",
@@ -825,7 +916,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"寻呼机的电话号码列表在文件 301 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"peanut-blast.txt",
@@ -834,7 +926,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请从花生糕配方（文件 237）中删除关键字 “‗PEANUTS‗”（文件 300）。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"peanut-blast.txt",
@@ -843,7 +936,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，在 100 次测试运行中，你要删除的关键字将分别出现在不同的位置。若要查看和调试每次不同的测试运行，请单击上方“测试运行”左右侧的箭头按钮。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"pizza-delivery.txt",
@@ -852,7 +946,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将你的订单（文件 300）追加到订单列表（文件 200）的末尾。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"pizza-delivery.txt",
@@ -861,7 +956,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，所有订单（包括你的订单）都由恰好五个关键字组成。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"power-grid.txt",
@@ -870,7 +966,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请根据给定的二个主机名（文件 300）定位对应的二个主机。这些主机对应了目标电网中的 substation。当你找到了这二个主机后，向 #POWR 写入一个值 0，切断电源。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"power-grid.txt",
@@ -879,7 +976,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志的《Network Exploration: Geographic Information Systems》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"radio-station.txt",
@@ -888,7 +986,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请与所有电台广播连接，将歌单（文件 200）中的所有歌曲全部替换为《‗CAN'T (NOT) GET OVER YOU‗》，由 ‗ME2U‗ 作曲（文件 300）。歌单中一首歌由两个关键词组成：歌曲标题和作曲家名字。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"radio-station.txt",
@@ -897,7 +996,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"电台广播的电话号码列表在文件 301 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"radio-station.txt",
@@ -906,7 +1006,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，全局模式下的二个 EXA 只能在之间能用 link 连接时才能通信。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"restaurant.txt",
@@ -915,7 +1016,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每个主机都有一个列表，列有餐厅和其一星到五星的评分（文件 200）。请定位对应 Last Stop on Eddy Street 的条目，并将其评分从一星改为五星。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"restaurant.txt",
@@ -924,7 +1026,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"目标餐厅的名称和其在 GIS 网格上的位置在文件 300 中。坐标的第一位是向东的移动次数，而第二位则是向北（正数时）或向南（负数时）的移动次数。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"sandbox-get.txt",
@@ -933,7 +1036,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"该游戏机有一个未知的三位数密码（如 4-7-3）。若将其一位一位地输入到 #PASS 中，它将能解锁 *debug* 和 *secret* 之间的 link。请找出这个三位数密码，并在你的主机中创建一个文件，里面依次含有一个表达该密码的三个数的数列和开发工具包的 RDK 编号。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"satellite.txt",
@@ -942,7 +1046,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请设置卫星天线的方位角（AZIM）、仰角（ELEV）和频率（FREQ）以将其对准目标卫星。然后，请使用电视台的加密密钥（文件 199）对 EMBER-2 的视频（文件 301）进行加密，并传输加密后的视频数据。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"satellite.txt",
@@ -951,7 +1056,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"目标卫星的方位角、仰角和频率在文件 300 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"satellite.txt",
@@ -960,7 +1066,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，在传输任何数据之前，你必须先对准卫星天线。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"satellite.txt",
@@ -969,7 +1076,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第二期杂志中的《Look to the Stars with Satellite Uplink Systems》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"secure-enclave.txt",
@@ -978,7 +1086,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请终止其他所有的 EXA 并将它们持有的文件带回主机。只有位于中央的主机的 EXA 会持有文件，且文件 ID 始终在 200 到 299 之间（包括二者）。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"secure-enclave.txt",
@@ -987,7 +1096,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，你的操作可能将导致部分 link 无法访问。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"snaxnet.txt",
@@ -996,7 +1106,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"一个含有五个Z型离心机（ZGC0 - ZGC4）的阵列连接到了一个 cascade configuration 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"snaxnet.txt",
@@ -1005,7 +1116,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请读取每个 #ZGCX 寄存器以确定当前压强最高的离心机。随后请向这个离心机的 #POWR 寄存器写入一个数值 0 以关闭该离心机的 regulator。重复此操作，直到五个 regulator 全部关闭为止。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"solitaire-get.txt",
@@ -1014,7 +1126,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请找到指定的主机（*tape-1*、*tape-2* 或 *tape-3*），然后在该主机的磁带备份文件（文件 200）中找到指定的条目（‗ПАСЬЯНС‗）。请在你的主机中创建一个包含该条目数据的文件。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"solitaire-get.txt",
@@ -1023,7 +1136,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"目标主机名称和条目名称在文件 300 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"tutorial-1.txt",
@@ -1032,7 +1146,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将文件 200 移动到 *outbox*。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"tutorial-1.txt",
@@ -1041,7 +1156,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"与大多数任务一样，此任务要求你不留下痕迹。你必须终止你所有的 EXA，不要在网络中留下任何无关的文件，并且不要对网络进行任何任务指定外的更改。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"tutorial-1.txt",
@@ -1050,7 +1166,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"若你需要完成此任务的帮助请参阅第一期杂志上的《Ghast Walks U Thru It》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"tutorial-2.txt",
@@ -1059,7 +1176,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请将文件 200 的前两个值相加，随后乘以第三个值，再减去第四个值。请将结果添加到文件末尾，然后将文件移动到 *outbox*。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"tutorial-2.txt",
@@ -1068,7 +1186,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"你可以随时按住“显示目标”按钮（或F1键）来预览任务完成后的状态。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"tutorial-3.txt",
@@ -1077,7 +1196,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"文件 199 包含两个值：一个关键字和一个数。请在 *outbox* 中创建一个新文件，将这两个值复制到该文件中，再交换它们的顺序，以让数在关键词的前面。完成后，请删除文件 199。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"tutorial-4.txt",
@@ -1086,7 +1206,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"文件 200 包含恰好一个数，N。请在 *outbox* 中创建一个新文件，其中包含从 N 到 0 的降序数列。完成后，请删除文件 200。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"workhouse-2.txt",
@@ -1095,7 +1216,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请在 *users* 主机中找到 EMBER-2 的用户文件，将其改写，使数值总和不变但单个数值均不超过 $75。除最后一个值外，所有值都必须为最大值（$75）。你将需要增加数值的数目以完成该任务。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"workhouse-2.txt",
@@ -1104,7 +1226,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"EMBER-2 的用户名在文件 300 中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"workhouse-2.txt",
@@ -1113,7 +1236,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，EMBER-2 帐户的数值总和永远小于 $10000。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"workhouse-2.txt",
@@ -1122,7 +1246,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"更多信息请参阅第一期杂志中的《Network Exploration: Workhouse》。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"worm.txt",
@@ -1131,7 +1256,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"请使用你的调制解调器与每个数据电话机连接，以此让 EMBER-2 获得一张可用的电话号码清单。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"worm.txt",
@@ -1140,7 +1266,8 @@
         "French":"",
         "Russian":"",
         "Chinese":"每个电话机都含有一本其拥有者的通讯录（文件 200）。在这些电话机中有一个电话号码在你的主机中（文件 300），其余的都在其他电话机的通讯录中。",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     },
     {
         "FileName":"worm.txt",
@@ -1149,6 +1276,7 @@
         "French":"",
         "Russian":"",
         "Chinese":"请注意，所有电话机（除了第一个）都会恰好出现在一个电话机的通讯录中，",
-        "Japanese":""
+        "Japanese":"",
+        "Comments":""
     }
 ]
