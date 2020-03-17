@@ -30,7 +30,6 @@
     ```
 
 ## 3. 安装字体
-* 安装 [文泉驿微米黑](https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/)
 * 安装 [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
 * 安装 [Source Han Mono](https://github.com/adobe-fonts/source-han-mono)
 

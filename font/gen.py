@@ -19,15 +19,20 @@ https://github.com/be5invis/Sarasa-Gothic
 https://github.com/adobe-fonts/source-han-mono
 '''
 
+MONO_FONT = 'Source Han Mono'
+REGULAR_FONT = 'Source Han Sans'
+LIGHT_FONT = 'Source Han Sans Light'
+
 FONT_MAP = {
-    'mono': ('Source Han Mono', 1.2, False),
-    'pixel': ('Source Han Mono', 1.2, False),
-    'karnivore': ('Source Han Sans SC', 1.3, True),
-    'impact': ('Source Han Sans SC', 1.3, True),
-    'archivo': ('Source Han Sans SC', 1.3, True),
-    'devalencia': ('Source Han Sans SC', 1.3, False),
+    'mono': (MONO_FONT, 1.3, False),
+    'pixel': (MONO_FONT, 1.3, False),
+    'karnivore': (REGULAR_FONT, 1.3, True),
+    'impact': (REGULAR_FONT, 1.3, True),
+    'archivo': (REGULAR_FONT, 1.3, True),
+    'devalencia': (REGULAR_FONT, 1.3, False),
+    'michroma': (LIGHT_FONT, 1.4, False),
+    'roboto': (REGULAR_FONT, 1.3, False),
 }
-NORMAL_FONT_NAME = 'WenQuanYi Micro Hei'
 
 
 def do(name, width=512, height=512):
@@ -39,7 +44,7 @@ def do(name, width=512, height=512):
     print(pf.f0, pf.f1, pf.f2, size)
     font_gen = FontGenerator()
 
-    font_gen.set_font_name(NORMAL_FONT_NAME)
+    font_gen.set_font_name(REGULAR_FONT)
     font_gen.set_font_size(size)
     for oname, (mname, scale, bold) in FONT_MAP.items():
         if oname in name:

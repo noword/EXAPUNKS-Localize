@@ -42,7 +42,6 @@ First at all, you should own this game, you can buy it on [steam](https://store.
   ``Content/vignettes/nivas-3.csv`` miss a double quote at line 9  
   
 ## 3. install fonts (optional) 
-* install [Wen Quan Yi microhei](https://sourceforge.net/projects/wqy/files/wqy-microhei/0.2.0-beta/)
 * install [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)
 * install [Source Han Mono](https://github.com/adobe-fonts/source-han-mono)
 
