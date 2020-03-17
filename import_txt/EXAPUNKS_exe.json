@@ -3428,7 +3428,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"未定义",
         "Japanese":""
     },
     {
@@ -3540,7 +3540,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周六 1997\/10\/04 5:21 PM",
+        "Chinese":"上午 5:21 1997\/10\/04 周六",
         "Japanese":""
     },
     {
@@ -3596,7 +3596,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周六 1997\/10\/04 5:35 PM",
+        "Chinese":"下午 5:35 1997\/10\/04 周六",
         "Japanese":""
     },
     {
@@ -3756,7 +3756,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"“点”一个披萨外卖。",
+        "Chinese":"“点”一份披萨外卖。",
         "Japanese":""
     },
     {
@@ -3764,7 +3764,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周日 1997\/10\/05 7:49 PM",
+        "Chinese":"下午 7:49 1997\/10\/05 周日",
         "Japanese":""
     },
     {
@@ -3892,7 +3892,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"删除 Ghast 在打印店里的欠款。",
+        "Chinese":"消除 Ghast 在打印店里的欠款。",
         "Japanese":""
     },
     {
@@ -3916,7 +3916,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周三 1997\/10\/08 4:18 PM",
+        "Chinese":"下午 4:18 1997\/10\/08 周三",
         "Japanese":""
     },
     {
@@ -3988,7 +3988,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周五 1997\/10\/10 1:22 AM",
+        "Chinese":"上午 1:22 1997\/10\/10 1:22 周五",
         "Japanese":""
     },
     {
@@ -4100,7 +4100,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"赢得 ПАСЬЯНС 游戏 (可选)",
+        "Chinese":"赢亿把 ПАСЬЯНС 游戏。 (可选)",
         "Japanese":""
     },
     {
@@ -4116,7 +4116,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周日 1997\/10\/19 4:45 PM",
+        "Chinese":"下午 4:45 1997\/10\/19 周日",
         "Japanese":""
     },
     {
@@ -4244,7 +4244,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周二 1997\/10\/28 8:34 PM",
+        "Chinese":"下午 8:43 1997\/10\/28 周二",
         "Japanese":""
     },
     {
@@ -4372,7 +4372,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周六 1997\/11\/01 10:50 AM",
+        "Chinese":"上午 10:50 1997\/11\/01 周六",
         "Japanese":""
     },
     {
@@ -4396,7 +4396,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"数字图书馆项目",
+        "Chinese":"数字图书馆计划",
         "Japanese":""
     },
     {
@@ -4548,7 +4548,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周二 1997\/11\/04 12:55 PM",
+        "Chinese":"下午 12:55 1997\/11\/04 周二",
         "Japanese":""
     },
     {
@@ -4636,7 +4636,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"黑客*连连看",
+        "Chinese":"黑客*消消乐",
         "Japanese":""
     },
     {
@@ -4644,7 +4644,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"在黑客*连连看中得到 10000 分。(可选)",
+        "Chinese":"在黑客*消消乐中得到 10000 分。(可选)",
         "Japanese":""
     },
     {
@@ -4660,7 +4660,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周五 1997\/11\/07 5:02 PM",
+        "Chinese":"下午 5:02 1997\/11\/07 周五",
         "Japanese":""
     },
     {
@@ -4884,7 +4884,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周三 1997\/11\/12 6:13 PM",
+        "Chinese":"下午 6:13 1997\/11\/12 周三",
         "Japanese":""
     },
     {
@@ -4996,7 +4996,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周六 1997\/11\/15 11:49 PM",
+        "Chinese":"下午 11:49 1997\/11\/15 周六",
         "Japanese":""
     },
     {
@@ -5076,7 +5076,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周二 1997\/11\/18 9:37 PM",
+        "Chinese":"下午 9:37 1997\/11\/18 周二",
         "Japanese":""
     },
     {
@@ -5180,7 +5180,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周五 1997\/11\/21 2:10 AM",
+        "Chinese":"上午 2:10 1997\/11\/21 周五",
         "Japanese":""
     },
     {
@@ -5276,7 +5276,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周一 1997\/11\/24 1:03 AM",
+        "Chinese":"上午 1:03 1997\/11\/24 周一",
         "Japanese":""
     },
     {
@@ -5308,7 +5308,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"向大量寻呼机发送令人迷惑的消息。",
+        "Chinese":"向寻呼机群发令人迷惑的消息。",
         "Japanese":""
     },
     {
@@ -5324,7 +5324,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周三 1997\/11\/26 2:51 AM",
+        "Chinese":"上午 2:51 1997\/11\/26 周三",
         "Japanese":""
     },
     {
@@ -5356,7 +5356,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"周三 1997\/11\/26 4:22 AM",
+        "Chinese":"上午 4:22 1997\/11\/26 周三",
         "Japanese":""
     },
     {
@@ -5364,7 +5364,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"加入 EMBER-2.",
+        "Chinese":"加入 EMBER-2",
         "Japanese":""
     },
     {
@@ -5428,7 +5428,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"叫号系统",
+        "Chinese":"预约系统",
         "Japanese":""
     },
     {
@@ -5444,7 +5444,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"修改等待队列，让 NthDimension 能够更早的参加驾驶考试。[1998]",
+        "Chinese":"修改预约队列，让 NthDimension 能够更早的参加驾驶考试。[1998]",
         "Japanese":""
     },
     {
@@ -5540,7 +5540,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"NETronics NET40 调制解调器",
         "Japanese":""
     },
     {
@@ -6332,7 +6332,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"停刊号",
         "Japanese":""
     },
     {
@@ -6388,7 +6388,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"LETTER大小",
         "Japanese":""
     },
     {
@@ -6412,7 +6412,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"A4大小的纸张",
+        "Chinese":"A4大小",
         "Japanese":""
     },
     {
@@ -7020,7 +7020,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"保存为PNG失败: ",
         "Japanese":""
     },
     {
@@ -7028,7 +7028,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"保存为位图失败: ",
         "Japanese":""
     },
     {
@@ -7036,7 +7036,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"保存为JPG失败: ",
         "Japanese":""
     },
     {
@@ -7044,7 +7044,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"JPEG的质量必须介于 1 到 100.",
         "Japanese":""
     },
     {
@@ -7052,7 +7052,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"不被支持。",
         "Japanese":""
     },
     {
@@ -7100,7 +7100,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"语言",
         "Japanese":""
     },
     {
@@ -8812,7 +8812,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"黑客连连看",
+        "Chinese":"黑客消消乐",
         "Japanese":""
     },
     {
@@ -9228,7 +9228,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"将皮包公司添加到账户列表中。",
         "Japanese":""
     },
     {
@@ -9236,7 +9236,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"向皮包公司支付正确的金额。",
         "Japanese":""
     },
     {
@@ -9372,7 +9372,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"将可用的电话号码添加到文件 301 中。",
         "Japanese":""
     },
     {
@@ -9612,7 +9612,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"杀死其他在*公共区域*内的 EXA",
+        "Chinese":"杀死在 *public* 中的其他 EXA。",
         "Japanese":""
     },
     {
@@ -9620,7 +9620,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"按要求修改预约列表。",
         "Japanese":""
     },
     {
@@ -10476,7 +10476,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"从机票列表中删除指定的机票。",
         "Japanese":""
     },
     {
@@ -10484,7 +10484,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"添加机票 ID 到文件 301 中。",
         "Japanese":""
     },
     {
@@ -10708,7 +10708,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在你的主机中创建指定文件的拷贝。",
         "Japanese":""
     },
     {
@@ -11188,7 +11188,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"按要求修改指定主机中的文件。",
         "Japanese":""
     },
     {
@@ -11716,7 +11716,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"开始玩 黑客*连连看",
+        "Chinese":"开始玩 黑客*消消乐",
         "Japanese":""
     },
     {
@@ -12212,7 +12212,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"黑客\\*连连看\\nCRT 效果",
+        "Chinese":"黑客\\*消消乐\\nCRT 效果",
         "Japanese":""
     },
     {
@@ -12988,7 +12988,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"AXIOM 私人备忘录",
         "Japanese":""
     },
     {
@@ -13388,7 +13388,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"测试运行",
+        "Chinese":"当前测试",
         "Japanese":""
     },
     {
@@ -13396,7 +13396,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"测试运行 (重复)",
+        "Chinese":"测试序号",
         "Japanese":""
     },
     {
@@ -13436,7 +13436,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"容量限制",
+        "Chinese":"储存限制",
         "Japanese":""
     },
     {
@@ -13524,7 +13524,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"无",
+        "Chinese":"无内容",
         "Japanese":""
     },
     {
@@ -14252,7 +14252,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"生成GIF动图",
         "Japanese":""
     },
     {
@@ -16220,7 +16220,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"你的解决方案的代码行数 {0} 超过了此任务的限制 {1}。你的分数将不会被记入排行榜。",
         "Japanese":""
     },
     {
@@ -16324,7 +16324,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"把文件 200 移动到 *outbox*",
+        "Chinese":"把文件 200 移动到 *outbox*。",
         "Japanese":""
     },
     {
@@ -16564,7 +16564,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"按照说明修改配方。",
+        "Chinese":"按照说明修改花生棒的配料。",
         "Japanese":""
     },
     {
@@ -16716,7 +16716,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"把 Ghast 的账户余额清零。",
+        "Chinese":"清除 Ghast 的账单。",
         "Japanese":""
     },
     {
@@ -16724,7 +16724,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"创建对应的付款记录。",
+        "Chinese":"创建对应的支付记录。",
         "Japanese":""
     },
     {
@@ -16852,7 +16852,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"将文件 276 移动到你的主机。",
+        "Chinese":"将文件 276 带回你的主机。",
         "Japanese":""
     },
     {
@@ -17036,7 +17036,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"从其他帐户中提取现金。",
+        "Chinese":"从其他帐户中转账。",
         "Japanese":""
     },
     {
@@ -17180,7 +17180,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"替换指定文件中的关键词。",
         "Japanese":""
     },
     {
@@ -17748,7 +17748,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"校准卫星天线。",
         "Japanese":""
     },
     {
@@ -17812,7 +17812,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"按正确的顺序关闭稳定器。",
         "Japanese":""
     },
     {
@@ -17852,7 +17852,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"杀死其他 EXA。",
         "Japanese":""
     },
     {
@@ -17860,7 +17860,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"将其他 EXA 持有的文件带回你的主机。",
         "Japanese":""
     },
     {
@@ -17956,7 +17956,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"将正确的值附加到文件200的末尾。",
+        "Chinese":"将正确的数值写到文件 200 的末尾。",
         "Japanese":""
     },
     {
@@ -18172,7 +18172,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"把你的订单追加到订单列表的末尾。",
+        "Chinese":"把你的订单添加到订单列表的最后。",
         "Japanese":""
     },
     {
@@ -18212,7 +18212,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"按照指示中继所有神经信号。",
+        "Chinese":"按照说明中继所有神经信号。",
         "Japanese":""
     },
     {
@@ -18580,7 +18580,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"心窦",
         "Japanese":""
     },
     {
@@ -18588,7 +18588,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"心房",
         "Japanese":""
     },
     {
@@ -18596,7 +18596,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"按照说明生成相应的神经信号。",
         "Japanese":""
     },
     {
@@ -18892,7 +18892,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"切断目标变电站的电源。",
+        "Chinese":"切断指定街区变电站的电源。",
         "Japanese":""
     },
     {
@@ -19060,7 +19060,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"清除指定房产的所有权信息。",
         "Japanese":""
     },
     {
@@ -19300,7 +19300,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"按要求修改指定文件。",
         "Japanese":""
     },
     {
@@ -19324,7 +19324,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"向每个寻呼机发送消息。",
         "Japanese":""
     },
     {
@@ -19332,7 +19332,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"在同一时间激活所有寻呼机。",
         "Japanese":""
     },
     {
@@ -26300,7 +26300,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"活动",
+        "Chinese":"活动次数",
         "Japanese":""
     },
     {
@@ -26604,7 +26604,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"空当接龙",
         "Japanese":""
     },
     {
@@ -26612,7 +26612,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"Axiom TEC-PC 仿真器",
         "Japanese":""
     },
     {
@@ -27284,7 +27284,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"神经网络调试器 I\/O 日志",
         "Japanese":""
     },
     {
@@ -27292,7 +27292,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"IN (肌肉)",
         "Japanese":""
     },
     {
@@ -27300,7 +27300,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"OUT (肌肉)",
         "Japanese":""
     },
     {
@@ -27308,7 +27308,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"IN (温度)",
         "Japanese":""
     },
     {
@@ -27316,7 +27316,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"OUT (温度)",
         "Japanese":""
     },
     {
@@ -27324,7 +27324,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"IN (压力)",
         "Japanese":""
     },
     {
@@ -27332,7 +27332,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"OUT (压力)",
         "Japanese":""
     },
     {
@@ -27348,7 +27348,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"I\/O 状态",
         "Japanese":""
     },
     {
@@ -27388,7 +27388,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"I\/O 日志",
         "Japanese":""
     },
     {
@@ -27396,7 +27396,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"OUT (视觉)",
         "Japanese":""
     },
     {
@@ -27420,7 +27420,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"方位: {0}°\\n仰角: {1}°\\n频率: {2} GHZ\\n链路: {3}",
         "Japanese":""
     },
     {
@@ -27428,7 +27428,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法连接",
         "Japanese":""
     },
     {
@@ -27436,7 +27436,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"上行链路状态",
         "Japanese":""
     },
     {
@@ -27444,7 +27444,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"传输日志",
         "Japanese":""
     },
     {
@@ -27524,7 +27524,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"宽带拨号",
+        "Chinese":"拨号中",
         "Japanese":""
     },
     {
@@ -27548,7 +27548,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"IN (中枢神经)",
         "Japanese":""
     },
     {
@@ -27556,7 +27556,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"OUT (手臂)",
         "Japanese":""
     },
     {
@@ -27572,7 +27572,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"光驱 I\/O 日志",
         "Japanese":""
     },
     {
@@ -27580,7 +27580,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"追踪请求",
+        "Chinese":"请求跟踪",
         "Japanese":""
     },
     {
@@ -27916,7 +27916,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"数字太大或太小，无法显示为十六进制。",
         "Japanese":""
     },
     {
