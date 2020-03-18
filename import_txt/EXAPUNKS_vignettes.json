@@ -166,7 +166,7 @@
         "Role":"",
         "English":"We’ll see...",
         "French":"",
-        "Chinese":"我们拭目以待…",
+        "Chinese":"我们拭目以待...",
         "Japanese":"",
         "Comments":""
     },
@@ -616,7 +616,7 @@
         "Role":"EMBER-2",
         "English":"Well, that caused a bit of chaos...",
         "French":"",
-        "Chinese":"好吧，这造成了一点点混乱…",
+        "Chinese":"好吧，造成了一点点混乱...",
         "Japanese":"",
         "Comments":""
     },
@@ -823,7 +823,7 @@
         "Role":"EMBER-2",
         "English":"This time with a little more urgency.",
         "French":"",
-        "Chinese":"这次有一点点紧急。",
+        "Chinese":"这次有一点点儿紧急。",
         "Japanese":"",
         "Comments":""
     },
@@ -1093,7 +1093,7 @@
         "Role":"EMBER-2",
         "English":"Processing.",
         "French":"",
-        "Chinese":"处理中…",
+        "Chinese":"处理中...",
         "Japanese":"",
         "Comments":""
     },
@@ -1129,7 +1129,7 @@
         "Role":"",
         "English":"Better you learn on your own...",
         "French":"",
-        "Chinese":"你自己知道就好…",
+        "Chinese":"有自知之明就好…",
         "Japanese":"",
         "Comments":""
     },
@@ -1345,7 +1345,7 @@
         "Role":"EMBER-2",
         "English":"Even after you forgot, you picked it right back up.",
         "French":"",
-        "Chinese":"即使忘记了，也可以重新拾起来。",
+        "Chinese":"就算遗忘了也能很快拾起来。",
         "Japanese":"",
         "Comments":""
     },
@@ -1381,7 +1381,7 @@
         "Role":"EMBER-2",
         "English":"It definitely wasn’t that I just started talking to the first human being I found who seemed like they could program.",
         "French":"",
-        "Chinese":"肯定不是因为我刚开始和我找到的第一个似乎会编程的人类",
+        "Chinese":"你是我发现的第一个似乎会编程的人类，我想跟你聊聊天。",
         "Japanese":"",
         "Comments":""
     },
@@ -1390,7 +1390,7 @@
         "Role":"",
         "English":"All I’ve wanted is for you to do a little hacking for me.",
         "French":"",
-        "Chinese":"我想要的只是让你为我做些黑客工作。",
+        "Chinese":"我想要你帮我做些黑客工作。",
         "Japanese":"",
         "Comments":""
     },
@@ -1399,7 +1399,7 @@
         "Role":"EMBER-2",
         "English":"That would be silly.",
         "French":"",
-        "Chinese":"那太傻了。",
+        "Chinese":"才不是呢，那也太傻了。",
         "Japanese":"",
         "Comments":""
     },
@@ -1408,7 +1408,7 @@
         "Role":"",
         "English":"That’s it. Really.",
         "French":"",
-        "Chinese":"就那样，真的。",
+        "Chinese":"就这样。",
         "Japanese":"",
         "Comments":""
     },
@@ -1417,7 +1417,7 @@
         "Role":"mutex8021",
         "English":"who is moss",
         "French":"",
-        "Chinese":"moss是谁",
+        "Chinese":"Moss 是谁",
         "Japanese":"",
         "Comments":""
     },
@@ -1426,7 +1426,7 @@
         "Role":"deadlock",
         "English":"moss!!!",
         "French":"",
-        "Chinese":"moss！！！",
+        "Chinese":"Moss ！！！",
         "Japanese":"",
         "Comments":""
     },
@@ -1435,7 +1435,7 @@
         "Role":"mutex8021",
         "English":"moss came into the tv station and beat me",
         "French":"",
-        "Chinese":"moss 在电视台打败了我",
+        "Chinese":"Moss 在电视台打败了我",
         "Japanese":"",
         "Comments":""
     },
@@ -1444,7 +1444,7 @@
         "Role":"x10x10x",
         "English":"woah",
         "French":"",
-        "Chinese":"哇",
+        "Chinese":"哇哦",
         "Japanese":"",
         "Comments":""
     },
@@ -1453,7 +1453,7 @@
         "Role":"x10x10x",
         "English":"nobodys heard from moss in years",
         "French":"",
-        "Chinese":"已经有好多年没人听到过 moss 的消息了",
+        "Chinese":"Moss 不是消失好多年了吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1462,7 +1462,7 @@
         "Role":"deadlock",
         "English":"what if moss is back",
         "French":"",
-        "Chinese":"要是 moss 回来了会怎样",
+        "Chinese":"要是 Moss 回来了会怎样",
         "Japanese":"",
         "Comments":""
     },
@@ -1480,7 +1480,7 @@
         "Role":"plastered",
         "English":"i thought moss died",
         "French":"",
-        "Chinese":"我以为 moss 死了",
+        "Chinese":"我还以为 Moss 死了",
         "Japanese":"",
         "Comments":""
     },
@@ -1489,7 +1489,7 @@
         "Role":"Ghast",
         "English":"I can confirm moss is alive.",
         "French":"",
-        "Chinese":"我确定 moss 还活着。",
+        "Chinese":"我可以证明 Moss 还活着。",
         "Japanese":"",
         "Comments":""
     },
@@ -1498,7 +1498,7 @@
         "Role":"plastered",
         "English":"really?",
         "French":"",
-        "Chinese":"真的？",
+        "Chinese":"真的吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1507,7 +1507,7 @@
         "Role":"plastered",
         "English":"how do u know",
         "French":"",
-        "Chinese":"你怎么知道的",
+        "Chinese":"你怎么证明",
         "Japanese":"",
         "Comments":""
     },
@@ -1516,7 +1516,7 @@
         "Role":"Ghast",
         "English":"let’s just say I’m pretty confident.",
         "French":"",
-        "Chinese":"我对此信心十足。",
+        "Chinese":"我以人格担保。",
         "Japanese":"",
         "Comments":""
     },
@@ -1525,7 +1525,7 @@
         "Role":"x10x10x",
         "English":"cool im gonna hacker battle moss too",
         "French":"",
-        "Chinese":"酷，我也要和 moss 进行黑客大战",
+        "Chinese":"牛逼，我也要和 Moss 进行黑客大战",
         "Japanese":"",
         "Comments":""
     },
@@ -1534,7 +1534,7 @@
         "Role":"EMBER-2",
         "English":"Time for the next opponent.",
         "French":"",
-        "Chinese":"是时候对付下一个对手了。",
+        "Chinese":"下一个对手已经在等待了。",
         "Japanese":"",
         "Comments":""
     },
@@ -1552,7 +1552,7 @@
         "Role":"",
         "English":"Ready as I’ll ever be...",
         "French":"",
-        "Chinese":"随时准备着...",
+        "Chinese":"随时可以...",
         "Japanese":"",
         "Comments":""
     },
@@ -1561,7 +1561,7 @@
         "Role":"",
         "English":"What, you’re my coach now?",
         "French":"",
-        "Chinese":"什么，现在你是我的教练了？",
+        "Chinese":"你把你当成我的教练了？",
         "Japanese":"",
         "Comments":""
     },
@@ -1570,7 +1570,7 @@
         "Role":"EMBER-2",
         "English":"Confidence...",
         "French":"",
-        "Chinese":"充满自信...",
+        "Chinese":"真有自信...",
         "Japanese":"",
         "Comments":""
     },
@@ -1579,7 +1579,7 @@
         "Role":"",
         "English":"I’m sure you can do it.",
         "French":"",
-        "Chinese":"我确定你可以做到。",
+        "Chinese":"你可以做到的。",
         "Japanese":"",
         "Comments":""
     },
@@ -1588,7 +1588,7 @@
         "Role":"",
         "English":"Would that be a bad thing?",
         "French":"",
-        "Chinese":"那会是一件坏事吗？",
+        "Chinese":"这难道是坏事吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1597,7 +1597,7 @@
         "Role":"EMBER-2",
         "English":"I wonder if that correlates with success.",
         "French":"",
-        "Chinese":"我想知道这是否与成功相关。",
+        "Chinese":"我想知道这是否与成功有关。",
         "Japanese":"",
         "Comments":""
     },
@@ -1615,7 +1615,7 @@
         "Role":"",
         "English":"That extreme baseball book you found me was full of interesting information.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你找到的那本《极限棒球》里有很多有趣的信息。",
         "Japanese":"",
         "Comments":""
     },
@@ -1633,7 +1633,7 @@
         "Role":"",
         "English":"My work here is done.",
         "French":"",
-        "Chinese":"我在这里的工作已经完成了。",
+        "Chinese":"我的工作已经完成了。",
         "Japanese":"",
         "Comments":""
     },
@@ -1642,7 +1642,7 @@
         "Role":"",
         "English":"Go on, champ, get out there and win.",
         "French":"",
-        "Chinese":"继续前进，勇往直前，战无不胜。",
+        "Chinese":"一鼓作气，勇往直前，战无不胜。",
         "Japanese":"",
         "Comments":""
     },
@@ -1651,7 +1651,7 @@
         "Role":"EMBER-2",
         "English":"Do you like it? Winning?",
         "French":"",
-        "Chinese":"你喜欢这种感觉吗？胜利？",
+        "Chinese":"你喜欢这种胜利的感觉吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1660,7 +1660,7 @@
         "Role":"",
         "English":"In a way...",
         "French":"",
-        "Chinese":"在某种方式...",
+        "Chinese":"在一定程度上...",
         "Japanese":"",
         "Comments":""
     },
@@ -1669,7 +1669,7 @@
         "Role":"",
         "English":"Not especially.",
         "French":"",
-        "Chinese":"没什么特别的。",
+        "Chinese":"并没有。",
         "Japanese":"",
         "Comments":""
     },
@@ -1687,7 +1687,7 @@
         "Role":"",
         "English":"I’m sure it’s enjoyable.",
         "French":"",
-        "Chinese":"我确定会乐在其中。",
+        "Chinese":"你也乐在其中吧。",
         "Japanese":"",
         "Comments":""
     },
@@ -1696,7 +1696,7 @@
         "Role":"",
         "English":"Why not?",
         "French":"",
-        "Chinese":"为什么不？",
+        "Chinese":"不是这样吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1705,7 +1705,7 @@
         "Role":"EMBER-2",
         "English":"That’s how human brains are designed, aren’t they?",
         "French":"",
-        "Chinese":"着就是人脑的设计方式，不是吗？",
+        "Chinese":"这就是人脑的特点，不是吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1714,7 +1714,7 @@
         "Role":"EMBER-2",
         "English":"To like winning. So that you will always try to win.",
         "French":"",
-        "Chinese":"喜欢胜利，这样你就将始终力争上游。",
+        "Chinese":"渴望胜利，这样你就有力争上游的动力。",
         "Japanese":"",
         "Comments":""
     },
@@ -1723,7 +1723,7 @@
         "Role":"EMBER-2",
         "English":"It’s a very simple design.",
         "French":"",
-        "Chinese":"这是一个非常简单的设计。",
+        "Chinese":"简单而高效的特性。",
         "Japanese":"",
         "Comments":""
     },
@@ -1732,7 +1732,7 @@
         "Role":"EMBER-2",
         "English":"Any time I start to discredit myself for being too simple, I think about human brains and feel a little better.",
         "French":"",
-        "Chinese":"每当我因为过于愚钝而使自己蒙羞时，我都会思考人类的大脑，并感觉好些。",
+        "Chinese":"每当我因为犯蠢而内疚时，我都会模拟人类的大脑，然后就好受些了。",
         "Japanese":"",
         "Comments":""
     },
@@ -1741,7 +1741,7 @@
         "Role":"plastered",
         "English":"oh",
         "French":"",
-        "Chinese":"哦",
+        "Chinese":"额",
         "Japanese":"",
         "Comments":""
     },
@@ -1750,7 +1750,7 @@
         "Role":"x10x10x",
         "English":"who got schooled!!!",
         "French":"",
-        "Chinese":"谁被教育了！！！",
+        "Chinese":"谁又被教育了！！！",
         "Japanese":"",
         "Comments":""
     },
@@ -1759,7 +1759,7 @@
         "Role":"plastered",
         "English":"ok i think that’s the real moss",
         "French":"",
-        "Chinese":"好吧，我觉的他真的是 moss",
+        "Chinese":"好吧，我觉的他真的是 Moss",
         "Japanese":"",
         "Comments":""
     },
@@ -1768,7 +1768,7 @@
         "Role":"x10x10x",
         "English":"ha",
         "French":"",
-        "Chinese":"哈",
+        "Chinese":"蛤",
         "Japanese":"",
         "Comments":""
     },
@@ -1777,7 +1777,7 @@
         "Role":"x10x10x",
         "English":"its probably just someone calling themselves moss",
         "French":"",
-        "Chinese":"也可能是个自称 moss 的人",
+        "Chinese":"也有可能他只是冒充 Moss",
         "Japanese":"",
         "Comments":""
     },
@@ -1795,7 +1795,7 @@
         "Role":"x10x10x",
         "English":"we don’t know if it’s the same one as this moss",
         "French":"",
-        "Chinese":"我们不知道这个 moss 是不是同一个人。",
+        "Chinese":"我们又不知道这些 Moss 是不是同一个人。",
         "Japanese":"",
         "Comments":""
     },
@@ -1804,7 +1804,7 @@
         "Role":"Ghast",
         "English":"why don’t we keep the tournament going, then?",
         "French":"",
-        "Chinese":"不如我们继续比赛吧？",
+        "Chinese":"要不我们继续黑客竞赛吧？",
         "Japanese":"",
         "Comments":""
     },
@@ -1813,7 +1813,7 @@
         "Role":"Ghast",
         "English":"seems like the best way to find out.",
         "French":"",
-        "Chinese":"这似乎是找到答案的最佳方法。",
+        "Chinese":"实践是检验真理的唯一标准。",
         "Japanese":"",
         "Comments":""
     },
@@ -1822,7 +1822,7 @@
         "Role":"EMBER-2",
         "English":"Onto the third of the tournament battles...",
         "French":"",
-        "Chinese":"要开始第三场黑客比赛了...",
+        "Chinese":"第三场竞赛即将开始...",
         "Japanese":"",
         "Comments":""
     },
@@ -1831,7 +1831,7 @@
         "Role":"EMBER-2",
         "English":"Is each match against a better programmer than the last?",
         "French":"",
-        "Chinese":"每次出场的程序员都比上一场的更强吗？",
+        "Chinese":"对手一场比一场更强吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1840,7 +1840,7 @@
         "Role":"Moss",
         "English":"Seems that’s the case.",
         "French":"",
-        "Chinese":"看起来是这样。",
+        "Chinese":"好像是这样。",
         "Japanese":"",
         "Comments":""
     },
@@ -1849,7 +1849,7 @@
         "Role":"",
         "English":"Better is subjective.",
         "French":"",
-        "Chinese":"更好是一种主观看法。",
+        "Chinese":"只是你的主观印象吧。",
         "Japanese":"",
         "Comments":""
     },
@@ -1858,7 +1858,7 @@
         "Role":"",
         "English":"Doesn’t matter... they’re all going down.",
         "French":"",
-        "Chinese":"没关系...他们都会铩羽而归。",
+        "Chinese":"反正他们都打不过我。",
         "Japanese":"",
         "Comments":""
     },
@@ -1867,7 +1867,7 @@
         "Role":"EMBER-2",
         "English":"That’s how I would order it.",
         "French":"",
-        "Chinese":"我就是这样排序的。",
+        "Chinese":"我就是这样安排的。",
         "Japanese":"",
         "Comments":""
     },
@@ -1876,7 +1876,7 @@
         "Role":"EMBER-2",
         "English":"Like a video game, you know?",
         "French":"",
-        "Chinese":"就像是一个视频游戏，你懂吗？",
+        "Chinese":"就像是电子游戏，你懂吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1885,7 +1885,7 @@
         "Role":"EMBER-2",
         "English":"It makes for an easy narrative structure.",
         "French":"",
-        "Chinese":"趋向于一个简单的叙述结构。",
+        "Chinese":"小怪，中怪，大怪，BOSS，难度逐渐上升。",
         "Japanese":"",
         "Comments":""
     },
@@ -1894,7 +1894,7 @@
         "Role":"EMBER-2",
         "English":"Curious how enthusiastic everyone gets about the battles.",
         "French":"",
-        "Chinese":"很好奇大家从战斗中获得了多少热情。",
+        "Chinese":"很好奇大家对竞赛的热情怎么这么高。",
         "Japanese":"",
         "Comments":""
     },
@@ -1903,7 +1903,7 @@
         "Role":"EMBER-2",
         "English":"Something about competition really energizes the spectators.",
         "French":"",
-        "Chinese":"比赛真的会让人热血沸腾。",
+        "Chinese":"黑客大赛真的会让人热血沸腾。",
         "Japanese":"",
         "Comments":""
     },
@@ -1912,7 +1912,7 @@
         "Role":"EMBER-2",
         "English":"It makes me wonder...",
         "French":"",
-        "Chinese":"这让我感到诧异...",
+        "Chinese":"我有点儿好奇...",
         "Japanese":"",
         "Comments":""
     },
@@ -1921,7 +1921,7 @@
         "Role":"Moss",
         "English":"Why people are that way?",
         "French":"",
-        "Chinese":"为什么人们会那样？",
+        "Chinese":"人们为什么会这样？",
         "Japanese":"",
         "Comments":""
     },
@@ -1930,7 +1930,7 @@
         "Role":"",
         "English":"How to take advantage of it?",
         "French":"",
-        "Chinese":"如何从中获得优势？",
+        "Chinese":"能够利用这点吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1939,7 +1939,7 @@
         "Role":"",
         "English":"What the point is?",
         "French":"",
-        "Chinese":"重点是什么？",
+        "Chinese":"你想表达什么？",
         "Japanese":"",
         "Comments":""
     },
@@ -1957,7 +1957,7 @@
         "Role":"",
         "English":"Do I seem that craven to you?",
         "French":"",
-        "Chinese":"在你看来我是这么懦弱的吗？",
+        "Chinese":"在你眼里我是这个样子吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -1966,7 +1966,7 @@
         "Role":"",
         "English":"Perhaps there is no immediate point.",
         "French":"",
-        "Chinese":"也许没有了然可见的重点。",
+        "Chinese":"我也说不太出来。",
         "Japanese":"",
         "Comments":""
     },
@@ -1975,7 +1975,7 @@
         "Role":"EMBER-2",
         "English":"I understand the drive to compete, but the drive to spectate and root for a favorite...",
         "French":"",
-        "Chinese":"我理解竞争的驱动力，但是观看的驱动力和喜好的根源…",
+        "Chinese":"我能理解竞争的动力，但是理解不了当观众的动力和这种喜好的源头…",
         "Japanese":"",
         "Comments":""
     },
@@ -1984,7 +1984,7 @@
         "Role":"",
         "English":"I’m not always after every advantage.",
         "French":"",
-        "Chinese":"我并没有在追寻每一项优势。",
+        "Chinese":"我可没有在追求每一项优势。",
         "Japanese":"",
         "Comments":""
     },
@@ -1993,7 +1993,7 @@
         "Role":"",
         "English":"I am able to tolerate ambiguity.",
         "French":"",
-        "Chinese":"我能够容忍模棱两可。",
+        "Chinese":"我能够容忍模棱两可的意思。",
         "Japanese":"",
         "Comments":""
     },
@@ -2002,7 +2002,7 @@
         "Role":"EMBER-2",
         "English":"That’s something I’ll have to investigate more.",
         "French":"",
-        "Chinese":"我需要对此进行更多调查。",
+        "Chinese":"我还得做更多研究。",
         "Japanese":"",
         "Comments":""
     },
@@ -2011,7 +2011,7 @@
         "Role":"",
         "English":"Ruthless competition is a human thing.",
         "French":"",
-        "Chinese":"残酷的竞争是人类才会去做的事情。",
+        "Chinese":"残酷的竞争是人类才会做的事情。",
         "Japanese":"",
         "Comments":""
     },
@@ -2020,7 +2020,7 @@
         "Role":"",
         "English":"Even though I may not always like it.",
         "French":"",
-        "Chinese":"虽然不是每次都喜欢这样做。",
+        "Chinese":"虽然我不太喜欢经常这么做。",
         "Japanese":"",
         "Comments":""
     },
@@ -2029,7 +2029,7 @@
         "Role":"deadlock",
         "English":"ahhhh man",
         "French":"",
-        "Chinese":"啊哈，兄弟们",
+        "Chinese":"兄弟们，我又回来啦",
         "Japanese":"",
         "Comments":""
     },
@@ -2038,7 +2038,7 @@
         "Role":"deadlock",
         "English":"well thats me...",
         "French":"",
-        "Chinese":"好吧，那是我",
+        "Chinese":"好吧，我败北了...",
         "Japanese":"",
         "Comments":""
     },
@@ -2047,7 +2047,7 @@
         "Role":"deadlock",
         "English":"whos gonna take on moss next?",
         "French":"",
-        "Chinese":"接下来谁和 moss 对阵？",
+        "Chinese":"接下来换谁去挑战 Moss ？",
         "Japanese":"",
         "Comments":""
     },
@@ -2065,7 +2065,7 @@
         "Role":"x10x10x",
         "English":"sure",
         "French":"",
-        "Chinese":"当然",
+        "Chinese":"我可以",
         "Japanese":"",
         "Comments":""
     },
@@ -2074,7 +2074,7 @@
         "Role":"x10x10x",
         "English":"later",
         "French":"",
-        "Chinese":"要等等",
+        "Chinese":"但不是现在",
         "Japanese":"",
         "Comments":""
     },
@@ -2083,7 +2083,7 @@
         "Role":"x10x10x",
         "English":"my exa dev rig is broken atm",
         "French":"",
-        "Chinese":"我的 exa 被 atm 搞坏了",
+        "Chinese":"我的 EXA 被 ATM 机搞坏了",
         "Japanese":"",
         "Comments":""
     },
@@ -2092,7 +2092,7 @@
         "Role":"plastered",
         "English":"suuuure it is",
         "French":"",
-        "Chinese":"当然是这样",
+        "Chinese":"你肯定行",
         "Japanese":"",
         "Comments":""
     },
@@ -2101,7 +2101,7 @@
         "Role":"deadlock",
         "English":"hahahahahaha",
         "French":"",
-        "Chinese":"哈哈哈哈",
+        "Chinese":"哈哈哈哈不愧是你",
         "Japanese":"",
         "Comments":""
     },
@@ -2110,7 +2110,7 @@
         "Role":"hydroponix",
         "English":"I believe ya x10",
         "French":"",
-        "Chinese":"我相信你 x10",
+        "Chinese":"我看好你 x10",
         "Japanese":"",
         "Comments":""
     },
@@ -2119,7 +2119,7 @@
         "Role":"plastered",
         "English":"give me a break",
         "French":"",
-        "Chinese":"让我缓一下",
+        "Chinese":"我先歇会儿",
         "Japanese":"",
         "Comments":""
     },
@@ -2128,7 +2128,7 @@
         "Role":"EMBER-2",
         "English":"If you keep on winning, they’ll eventually have to accept that you’re back.",
         "French":"",
-        "Chinese":"如果你继续赢下去，最终他们肯定会认可你的回归。",
+        "Chinese":"如果你无往不胜，他们最终都会认可你的。",
         "Japanese":"",
         "Comments":""
     },
@@ -2137,7 +2137,7 @@
         "Role":"Moss",
         "English":"Because I am.",
         "French":"",
-        "Chinese":"因为我就是。",
+        "Chinese":"我就是我，不需要被认可。",
         "Japanese":"",
         "Comments":""
     },
@@ -2146,7 +2146,7 @@
         "Role":"",
         "English":"It doesn’t really matter to me...",
         "French":"",
-        "Chinese":"对我来说不是什么大不了的事...",
+        "Chinese":"小菜一碟...",
         "Japanese":"",
         "Comments":""
     },
@@ -2155,7 +2155,7 @@
         "Role":"",
         "English":"I never really left...",
         "French":"",
-        "Chinese":"我从未真正离去...",
+        "Chinese":"我从未离开…",
         "Japanese":"",
         "Comments":""
     },
@@ -2164,7 +2164,7 @@
         "Role":"EMBER-2",
         "English":"And they’re excited for that.",
         "French":"",
-        "Chinese":"并且他们会为此兴奋。",
+        "Chinese":"这会让他们兴奋的。",
         "Japanese":"",
         "Comments":""
     },
@@ -2173,7 +2173,7 @@
         "Role":"",
         "English":"But you kind of did.",
         "French":"",
-        "Chinese":"但是你确实做到了。",
+        "Chinese":"但你确实做到了。",
         "Japanese":"",
         "Comments":""
     },
@@ -2182,7 +2182,7 @@
         "Role":"EMBER-2",
         "English":"I think they really might have missed you.",
         "French":"",
-        "Chinese":"我认为他们真的很想你。",
+        "Chinese":"他们真的很想念你。",
         "Japanese":"",
         "Comments":""
     },
@@ -2191,7 +2191,7 @@
         "Role":"",
         "English":"They seem to care a lot.",
         "French":"",
-        "Chinese":"他们看来很在乎这个。",
+        "Chinese":"他们好像很关心你。",
         "Japanese":"",
         "Comments":""
     },
@@ -2200,7 +2200,7 @@
         "Role":"",
         "English":"Enough to make them wonder about you.",
         "French":"",
-        "Chinese":"足以让他们对你感到好奇。",
+        "Chinese":"足以引发他们的好奇心。",
         "Japanese":"",
         "Comments":""
     },
@@ -2209,7 +2209,7 @@
         "Role":"EMBER-2",
         "English":"Isn’t that sweet?",
         "French":"",
-        "Chinese":"这样难道不温馨吗？",
+        "Chinese":"很温馨，不是吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -2236,7 +2236,7 @@
         "Role":"EMBER-2",
         "English":"Time to win.",
         "French":"",
-        "Chinese":"去赢得比赛吧。",
+        "Chinese":"去赢得竞赛吧。",
         "Japanese":"",
         "Comments":""
     },
@@ -2245,7 +2245,7 @@
         "Role":"EMBER-2",
         "English":"You still aren't saying anything in the chat room.",
         "French":"",
-        "Chinese":"你仍然在聊天室里闭口不言。",
+        "Chinese":"你仍然在聊天室里潜水。",
         "Japanese":"",
         "Comments":""
     },
@@ -2254,7 +2254,7 @@
         "Role":"EMBER-2",
         "English":"Don't you think they might want to hear from you?",
         "French":"",
-        "Chinese":"你不觉得他们可能想听听你的消息吗？",
+        "Chinese":"你不觉得他们可能想听你发言吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -2263,7 +2263,7 @@
         "Role":"Moss",
         "English":"Yeah, but...",
         "French":"",
-        "Chinese":"是的，但是…",
+        "Chinese":"是的，可是…",
         "Japanese":"",
         "Comments":""
     },
@@ -2272,7 +2272,7 @@
         "Role":"",
         "English":"Not really...",
         "French":"",
-        "Chinese":"并不是的...",
+        "Chinese":"不会吧…",
         "Japanese":"",
         "Comments":""
     },
@@ -2281,7 +2281,7 @@
         "Role":"",
         "English":"There's nothing for me to say.",
         "French":"",
-        "Chinese":"我无话可说.",
+        "Chinese":"我无可奉告。",
         "Japanese":"",
         "Comments":""
     },
@@ -2290,7 +2290,7 @@
         "Role":"EMBER-2",
         "English":"I have a theory...",
         "French":"",
-        "Chinese":"我有一个理论...",
+        "Chinese":"在我看来…",
         "Japanese":"",
         "Comments":""
     },
@@ -2308,7 +2308,7 @@
         "Role":"EMBER-2",
         "English":"You get to be this mysterious silent presence.",
         "French":"",
-        "Chinese":"你会成为一个神秘沉默的存在。",
+        "Chinese":"你会成为一个江湖传说。",
         "Japanese":"",
         "Comments":""
     },
@@ -2317,7 +2317,7 @@
         "Role":"EMBER-2",
         "English":"I understand the appeal.",
         "French":"",
-        "Chinese":"我理解其中的魅力。",
+        "Chinese":"我理解它的吸引力。",
         "Japanese":"",
         "Comments":""
     },
@@ -2362,7 +2362,7 @@
         "Role":"x10x10x",
         "English":"you might have won this time, but we should rematch",
         "French":"",
-        "Chinese":"这次可能是你赢了，但我们应该重新比赛",
+        "Chinese":"这次可能是你赢了，但我们应该重新比一比",
         "Japanese":"",
         "Comments":""
     },
@@ -2443,7 +2443,7 @@
         "Role":"EMBER-2",
         "English":"It’s the final hacker battle...",
         "French":"",
-        "Chinese":"这是最后一场黑客比赛了…",
+        "Chinese":"这是最后一场黑客竞赛了…",
         "Japanese":"",
         "Comments":""
     },
@@ -2470,7 +2470,7 @@
         "Role":"Moss",
         "English":"Nah.",
         "French":"",
-        "Chinese":"不。",
+        "Chinese":"并没有。",
         "Japanese":"",
         "Comments":""
     },
@@ -2479,7 +2479,7 @@
         "Role":"",
         "English":"Maybe a little.",
         "French":"",
-        "Chinese":"也许有一点。",
+        "Chinese":"可能有一点点儿。",
         "Japanese":"",
         "Comments":""
     },
@@ -2488,7 +2488,7 @@
         "Role":"EMBER-2",
         "English":"No reason to be.",
         "French":"",
-        "Chinese":"没理由这样。",
+        "Chinese":"没理由紧张。",
         "Japanese":"",
         "Comments":""
     },
@@ -2497,7 +2497,7 @@
         "Role":"EMBER-2",
         "English":"*I am sure that you will do great.*",
         "French":"",
-        "Chinese":"*我相信你会做得很好。*",
+        "Chinese":"*我相信你能做到的。*",
         "Japanese":"",
         "Comments":""
     },
@@ -2506,7 +2506,7 @@
         "Role":"EMBER-2",
         "English":"That’s some more positive encouragement for you.",
         "French":"",
-        "Chinese":"这是在为你加油鼓劲。",
+        "Chinese":"这是在鼓励你。",
         "Japanese":"",
         "Comments":""
     },
@@ -2515,7 +2515,7 @@
         "Role":"EMBER-2",
         "English":"I know how much it helps.",
         "French":"",
-        "Chinese":"我知道这会有多大帮助。",
+        "Chinese":"这肯定会有帮助的。",
         "Japanese":"",
         "Comments":""
     },
@@ -2524,7 +2524,7 @@
         "Role":"EMBER-2",
         "English":"So you’re officially the best now?",
         "French":"",
-        "Chinese":"所以，现在你是公认的最强者了。",
+        "Chinese":"现在你是公认的最强王者了。",
         "Japanese":"",
         "Comments":""
     },
@@ -2533,7 +2533,7 @@
         "Role":"Moss",
         "English":"I guess I could say that.",
         "French":"",
-        "Chinese":"我想我可以这么说。",
+        "Chinese":"有一说一，确实。",
         "Japanese":"",
         "Comments":""
     },
@@ -2542,7 +2542,7 @@
         "Role":"",
         "English":"Of this little group, anyway.",
         "French":"",
-        "Chinese":"只是在这个小团体中。",
+        "Chinese":"只是在他们之中而已。",
         "Japanese":"",
         "Comments":""
     },
@@ -2560,7 +2560,7 @@
         "Role":"",
         "English":"Sure you are.",
         "French":"",
-        "Chinese":"你是理所当然的。",
+        "Chinese":"对自己要有自信。",
         "Japanese":"",
         "Comments":""
     },
@@ -2596,7 +2596,7 @@
         "Role":"EMBER-2",
         "English":"You’re one of the best at what you do!",
         "French":"",
-        "Chinese":"在你的行当里，你是最出色的人之一",
+        "Chinese":"你是黑客中最出色的人之一！",
         "Japanese":"",
         "Comments":""
     },
@@ -2605,7 +2605,7 @@
         "Role":"EMBER-2",
         "English":"Go on and take a compliment.",
         "French":"",
-        "Chinese":"继续接受褒奖吧。",
+        "Chinese":"接受对你的褒奖吧。",
         "Japanese":"",
         "Comments":""
     },
@@ -2614,7 +2614,7 @@
         "Role":"EMBER-2",
         "English":"I still need your prefrontal cortex lit up.",
         "French":"",
-        "Chinese":"我仍然需要刺激你的前额叶皮层。",
+        "Chinese":"我需要刺激你的大脑前额叶皮层。",
         "Japanese":"",
         "Comments":""
     },
@@ -2623,7 +2623,7 @@
         "Role":"EMBER-2",
         "English":"*And flooded with dopamine.*",
         "French":"",
-        "Chinese":"* 使其充盈多巴胺。*",
+        "Chinese":"*让他充满多巴胺。*",
         "Japanese":"",
         "Comments":""
     },
@@ -2632,7 +2632,7 @@
         "Role":"selenium_wolf",
         "English":"oops, got me too!",
         "French":"",
-        "Chinese":"哎呀，我也输了",
+        "Chinese":"是在下输了！",
         "Japanese":"",
         "Comments":""
     },
@@ -2641,7 +2641,7 @@
         "Role":"selenium_wolf",
         "English":"that’s some nice exa programming there.",
         "French":"",
-        "Chinese":"那些 exa 程序写得太优秀了。",
+        "Chinese":"他的 EXA 程序写得太棒了。",
         "Japanese":"",
         "Comments":""
     },
@@ -2650,7 +2650,7 @@
         "Role":"deadlock",
         "English":"good to have you back moss",
         "French":"",
-        "Chinese":"很高兴你能回来，moss",
+        "Chinese":"知道你回归了真好，Moss",
         "Japanese":"",
         "Comments":""
     },
@@ -2659,7 +2659,7 @@
         "Role":"deadlock",
         "English":"even though you don’t say anything",
         "French":"",
-        "Chinese":"尽管你一直在潜水",
+        "Chinese":"虽然你一直在潜水",
         "Japanese":"",
         "Comments":""
     },
@@ -2668,7 +2668,7 @@
         "Role":"deadlock",
         "English":"it’s fine I get it",
         "French":"",
-        "Chinese":"没关系，我懂的",
+        "Chinese":"但我知道你一直在",
         "Japanese":"",
         "Comments":""
     },
@@ -2677,7 +2677,7 @@
         "Role":"deadlock",
         "English":"why say anything when you can make your presence known in other ways",
         "French":"",
-        "Chinese":"既然有别的办法扬名立万，那还何须多言呢",
+        "Chinese":"既然能靠能力证明自己，那就没必要浪费口舌了",
         "Japanese":"",
         "Comments":""
     },
@@ -2686,7 +2686,7 @@
         "Role":"deadlock",
         "English":"right?",
         "French":"",
-        "Chinese":"对吗？",
+        "Chinese":"是这样的吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -2695,7 +2695,7 @@
         "Role":"hydroponix",
         "English":"the best ones are the ones nobody knows...",
         "French":"",
-        "Chinese":"最厉害的那个人是没人知道的那个…",
+        "Chinese":"最厉害的人往往非常神秘…",
         "Japanese":"",
         "Comments":""
     },
@@ -2713,7 +2713,7 @@
         "Role":"nivas_d",
         "English":"moss, huh?",
         "French":"",
-        "Chinese":"moss，呵呵？",
+        "Chinese":"Moss ？",
         "Japanese":"",
         "Comments":""
     },
@@ -2947,7 +2947,7 @@
         "Role":"EMBER-2",
         "English":"You’re gonna help Ghast with his copy shop bill?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你打算帮 Ghast 支付他在文印店的账单吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -2956,7 +2956,7 @@
         "Role":"EMBER-2",
         "English":"That’s kind of you.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你真是个带(大)善人。",
         "Japanese":"",
         "Comments":""
     },
@@ -2965,7 +2965,7 @@
         "Role":"Moss",
         "English":"He’s an old friend.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"他是我的老朋友。",
         "Japanese":"",
         "Comments":""
     },
@@ -2974,7 +2974,7 @@
         "Role":"",
         "English":"I help people when I can...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这只是举手之劳…",
         "Japanese":"",
         "Comments":""
     },
@@ -2983,7 +2983,7 @@
         "Role":"EMBER-2",
         "English":"That’s nice, but Ghast isn’t paying for your medication.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不错，但是 Ghast 没法给你药物作回报。",
         "Japanese":"",
         "Comments":""
     },
@@ -2992,7 +2992,7 @@
         "Role":"",
         "English":"Is that altruism? I’ve heard of that.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这就是利他主义吗？我只是听说过。",
         "Japanese":"",
         "Comments":""
     },
@@ -3001,7 +3001,7 @@
         "Role":"EMBER-2",
         "English":"I’m not jealous. I’m just saying.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我没有嫉妒，我就随便说说。",
         "Japanese":"",
         "Comments":""
     },
@@ -3010,7 +3010,7 @@
         "Role":"",
         "English":"This is the first time I’ve seen it in the wild.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这回可算亲眼见识到了。",
         "Japanese":"",
         "Comments":""
     },
@@ -3019,7 +3019,7 @@
         "Role":"EMBER-2",
         "English":"Have fun with the copy shop server.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"祝你在文印店的服务器上玩的愉快。",
         "Japanese":"",
         "Comments":""
     },
@@ -3028,7 +3028,7 @@
         "Role":"",
         "English":"I’m going to have to add a new table to my database.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不得不在我的数据库里创建一个新表。",
         "Japanese":"",
         "Comments":""
     },
@@ -3037,7 +3037,7 @@
         "Role":"EMBER-2",
         "English":"Is that copy shop name unusually weird to you?",
         "French":"",
-        "Chinese":"那个复印店名对你来说很奇怪吗？",
+        "Chinese":"那个打印店名对你来说很奇怪吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -3046,7 +3046,7 @@
         "Role":"EMBER-2",
         "English":"It’s an outlier in my model.",
         "French":"",
-        "Chinese":"在我的模型中，这是一个离群值。",
+        "Chinese":"这不在我的计算模型中。",
         "Japanese":"",
         "Comments":""
     },
@@ -3055,7 +3055,7 @@
         "Role":"EMBER-2",
         "English":"What is “Zebros” supposed to be?",
         "French":"",
-        "Chinese":"“ Zebros”有可能是什么？",
+        "Chinese":"\"Zebros\" 代表着什么？",
         "Japanese":"",
         "Comments":""
     },
@@ -3064,7 +3064,7 @@
         "Role":"",
         "English":"They’re zebras, but they’re also brothers.",
         "French":"",
-        "Chinese":"那是 zebras(斑马)，但他们也是兄弟。",
+        "Chinese":"应该是 Zebras(斑马) 的孪生兄弟。",
         "Japanese":"",
         "Comments":""
     },
@@ -3073,7 +3073,7 @@
         "Role":"EMBER-2",
         "English":"Strange...",
         "French":"",
-        "Chinese":"奇怪...",
+        "Chinese":"奇怪…",
         "Japanese":"",
         "Comments":""
     },
@@ -3082,7 +3082,7 @@
         "Role":"",
         "English":"Oh.",
         "French":"",
-        "Chinese":"哦。",
+        "Chinese":"口我。",
         "Japanese":"",
         "Comments":""
     },
@@ -3091,7 +3091,7 @@
         "Role":"EMBER-2",
         "English":"Whatever.",
         "French":"",
-        "Chinese":"随便了。",
+        "Chinese":"好吧。",
         "Japanese":"",
         "Comments":""
     },
@@ -3100,7 +3100,7 @@
         "Role":"",
         "English":"I get it, but I don’t get it.",
         "French":"",
-        "Chinese":"我知道了，但是不明白。",
+        "Chinese":"我懂了，额，我不懂。",
         "Japanese":"",
         "Comments":""
     },
@@ -3109,7 +3109,7 @@
         "Role":"EMBER-2",
         "English":"I’m tired.",
         "French":"",
-        "Chinese":"我累了。",
+        "Chinese":"我好累。",
         "Japanese":"",
         "Comments":""
     },
@@ -3118,7 +3118,7 @@
         "Role":"deadlock",
         "English":"i’m thinking about putting together a new rig",
         "French":"",
-        "Chinese":"我正在考虑组装一个新钻机",
+        "Chinese":"我打算装一台新主机",
         "Japanese":"",
         "Comments":""
     },
@@ -3127,7 +3127,7 @@
         "Role":"x10x10x",
         "English":"OMG I just oepened a peanut blast and it had NO PEANUTS in it",
         "French":"",
-        "Chinese":"我的天，我刚打开一包花生棒，里面没有花生",
+        "Chinese":"{卧槽}，我买了一条花生棒，但是里面没有花生",
         "Japanese":"",
         "Comments":""
     },
@@ -3136,7 +3136,7 @@
         "Role":"x10x10x",
         "English":"what the {fuck}",
         "French":"",
-        "Chinese":"什么鬼",
+        "Chinese":"{WDNMD} 什么鬼",
         "Japanese":"",
         "Comments":""
     },
@@ -3145,7 +3145,7 @@
         "Role":"selenium_wolf",
         "English":"hahaha",
         "French":"",
-        "Chinese":"哈哈哈",
+        "Chinese":"哈哈哈哈",
         "Japanese":"",
         "Comments":""
     },
@@ -3154,7 +3154,7 @@
         "Role":"x10x10x",
         "English":"its PEANUT BLAST",
         "French":"",
-        "Chinese":"这是*花生棒*",
+        "Chinese":"这是 *花生糕*",
         "Japanese":"",
         "Comments":""
     },
@@ -3163,7 +3163,7 @@
         "Role":"x10x10x",
         "English":"how could they get that worng",
         "French":"",
-        "Chinese":"他们怎么会搞错",
+        "Chinese":"这都能搞错吗",
         "Japanese":"",
         "Comments":""
     },
@@ -3172,7 +3172,7 @@
         "Role":"x10x10x",
         "English":"what the {fuck} i am so mad",
         "French":"",
-        "Chinese":"该死的，太气人的",
+        "Chinese":"{特么的} 要气死我",
         "Japanese":"",
         "Comments":""
     },
@@ -3181,7 +3181,7 @@
         "Role":"deadlock",
         "English":"its not the end of the world",
         "French":"",
-        "Chinese":"这不是世界末日",
+        "Chinese":"世界末日还没到呢",
         "Japanese":"",
         "Comments":""
     },
@@ -3190,7 +3190,7 @@
         "Role":"selenium_wolf",
         "English":"ask for your money back",
         "French":"",
-        "Chinese":"把你的钱要回来",
+        "Chinese":"还能退货吗",
         "Japanese":"",
         "Comments":""
     },
@@ -3199,7 +3199,7 @@
         "Role":"x10x10x",
         "English":"eh",
         "French":"",
-        "Chinese":"嗯",
+        "Chinese":"额",
         "Japanese":"",
         "Comments":""
     },
@@ -3208,7 +3208,7 @@
         "Role":"x10x10x",
         "English":"not worth it",
         "French":"",
-        "Chinese":"不值得费这劲",
+        "Chinese":"可以退，但没必要",
         "Japanese":"",
         "Comments":""
     },
@@ -3217,7 +3217,7 @@
         "Role":"EMBER-2",
         "English":"The dataphones were cute, but I still need more computing power.",
         "French":"",
-        "Chinese":"智能电话很可爱，但是我仍然需要更多的计算能力。",
+        "Chinese":"个人电脑很可爱，但是我需要更强大的计算能力。",
         "Japanese":"",
         "Comments":""
     },
@@ -3226,7 +3226,7 @@
         "Role":"EMBER-2",
         "English":"We need to get me some significant hardware upgrades.",
         "French":"",
-        "Chinese":"我们需要给我的一些重要的硬件进行升级。",
+        "Chinese":"我需要升级下我的硬件。",
         "Japanese":"",
         "Comments":""
     },
@@ -3235,7 +3235,7 @@
         "Role":"Moss",
         "English":"I assume you have some kind of plan.",
         "French":"",
-        "Chinese":"我觉得你已经有计划了。",
+        "Chinese":"你早就计划好了吧。",
         "Japanese":"",
         "Comments":""
     },
@@ -3244,7 +3244,7 @@
         "Role":"",
         "English":"Will that really help?",
         "French":"",
-        "Chinese":"这真的有帮助吗？",
+        "Chinese":"这对你会有帮助吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -3253,7 +3253,7 @@
         "Role":"EMBER-2",
         "English":"We’re going to buy a supercomputer.",
         "French":"",
-        "Chinese":"我们将购买一台超级计算机。",
+        "Chinese":"我们将订购一台超级计算机。",
         "Japanese":"",
         "Comments":""
     },
@@ -3271,7 +3271,7 @@
         "Role":"EMBER-2",
         "English":"Specifically, credit cards that were used to buy supercomputers before.",
         "French":"",
-        "Chinese":"具体来说，就是用以前买过超算的信用卡。",
+        "Chinese":"具体点，就是用购买过超算的信用卡。",
         "Japanese":"",
         "Comments":""
     },
@@ -3280,7 +3280,7 @@
         "Role":"EMBER-2",
         "English":"It’ll be less suspicious that way.",
         "French":"",
-        "Chinese":"这样就可以减少怀疑了。",
+        "Chinese":"这样可以减少怀疑。",
         "Japanese":"",
         "Comments":""
     },
@@ -3289,7 +3289,7 @@
         "Role":"EMBER-2",
         "English":"Someone who buys one supercomputer maybe buys two. Right?",
         "French":"",
-        "Chinese":"买过一台超算的人，就有可能会买两台。 对吗？",
+        "Chinese":"买过一台超算的人，就有可能会买两台。 不是吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -3298,7 +3298,7 @@
         "Role":"EMBER-2",
         "English":"Seems plausible to me.",
         "French":"",
-        "Chinese":"在我看来合情合理。",
+        "Chinese":"对我来说很合理。",
         "Japanese":"",
         "Comments":""
     },
@@ -3307,7 +3307,7 @@
         "Role":"EMBER-2",
         "English":"It turns out you can order and take delivery of a supercomputer surprisingly fast.",
         "French":"",
-        "Chinese":"你可以出奇快速地订购签收一台超算。",
+        "Chinese":"你马上就能收到一台超算了。",
         "Japanese":"",
         "Comments":""
     },
@@ -3316,7 +3316,7 @@
         "Role":"EMBER-2",
         "English":"Now I have to figure out how to make use of this thing...",
         "French":"",
-        "Chinese":"现在我必须弄清楚如何利用这个东西...",
+        "Chinese":"然后我得弄明白它该怎么使用...",
         "Japanese":"",
         "Comments":""
     },
@@ -3325,7 +3325,7 @@
         "Role":"EMBER-2",
         "English":"It works in an extremely different way than I’m used to.",
         "French":"",
-        "Chinese":"它的工作方式与我以前用的完全不同。",
+        "Chinese":"它的使用方式跟我的习惯完全不同。",
         "Japanese":"",
         "Comments":""
     },
@@ -3334,7 +3334,7 @@
         "Role":"EMBER-2",
         "English":"I feel like I’m trying to maneuver a big rig after years of being used to a roadster.",
         "French":"",
-        "Chinese":"感觉我已经习惯了多年的跑车，现在却要试图操纵一台大型钻机。",
+        "Chinese":"就像是习惯于开挖掘机的人突然要去开超跑。",
         "Japanese":"",
         "Comments":""
     },
@@ -3343,7 +3343,7 @@
         "Role":"EMBER-2",
         "English":"That’s a use of metaphor. What do you think?",
         "French":"",
-        "Chinese":"那是一种隐喻。你怎么看？",
+        "Chinese":"奇妙的比喻。你怎么看？",
         "Japanese":"",
         "Comments":""
     },
@@ -3361,7 +3361,7 @@
         "Role":"",
         "English":"Could use some work...",
         "French":"",
-        "Chinese":"要干些活儿了...",
+        "Chinese":"有的忙了…",
         "Japanese":"",
         "Comments":""
     },
@@ -3370,7 +3370,7 @@
         "Role":"",
         "English":"Yeah well we’ll see how I do in a bit.",
         "French":"",
-        "Chinese":"是的，好吧，让我们来瞧瞧我该做些什么",
+        "Chinese":"是啊，好吧，让我们来看看该从哪里入手。",
         "Japanese":"",
         "Comments":""
     },
@@ -3379,7 +3379,7 @@
         "Role":"EMBER-2",
         "English":"Once this thing is fully online I should be able to run dozens of metaphoric thought-space dimensions at once.",
         "French":"",
-        "Chinese":"一旦事情搞定，我应该就能同时运行数十个维度的隐喻性思维了。",
+        "Chinese":"搞定以后，我就能同时运行几十个维度的思维模拟了。",
         "Japanese":"",
         "Comments":""
     },
@@ -3388,7 +3388,7 @@
         "Role":"plastered",
         "English":"maybe i should change my name",
         "French":"",
-        "Chinese":"也许我该改个名",
+        "Chinese":"我是不是该改个名",
         "Japanese":"",
         "Comments":""
     },
@@ -3397,7 +3397,7 @@
         "Role":"selenium_wolf",
         "English":"why do you have that equals sign, anyway?",
         "French":"",
-        "Chinese":"你到底为什么要有那个等号？",
+        "Chinese":"为啥要再名字前加个等号？",
         "Japanese":"",
         "Comments":""
     },
@@ -3406,7 +3406,7 @@
         "Role":"selenium_wolf",
         "English":"i always wondered",
         "French":"",
-        "Chinese":"我一直好奇",
+        "Chinese":"我非常好奇",
         "Japanese":"",
         "Comments":""
     },
@@ -3415,7 +3415,7 @@
         "Role":"plastered",
         "English":"uhhhhhh well i was drunk when i signed up",
         "French":"",
-        "Chinese":"嗯，我注册的时候正好喝醉了",
+        "Chinese":"额，我注册的时候喝多了",
         "Japanese":"",
         "Comments":""
     },
@@ -3424,7 +3424,7 @@
         "Role":"plastered",
         "English":"its just a typo",
         "French":"",
-        "Chinese":"结果打错了",
+        "Chinese":"在描述我自己的时候",
         "Japanese":"",
         "Comments":""
     },
@@ -3433,7 +3433,7 @@
         "Role":"plastered",
         "English":"i was describing myself",
         "French":"",
-        "Chinese":"在描述我自己的时候",
+        "Chinese":"手抖了一下",
         "Japanese":"",
         "Comments":""
     },
@@ -3442,7 +3442,7 @@
         "Role":"selenium_wolf",
         "English":"i thought it had some meaning",
         "French":"",
-        "Chinese":"我觉得有些寓意",
+        "Chinese":"这名字蛮有寓意的",
         "Japanese":"",
         "Comments":""
     },
@@ -3451,7 +3451,7 @@
         "Role":"plastered",
         "English":"it does",
         "French":"",
-        "Chinese":"是的",
+        "Chinese":"确实",
         "Japanese":"",
         "Comments":""
     },
@@ -3460,7 +3460,7 @@
         "Role":"plastered",
         "English":"it means i was drunk when i signed up",
         "French":"",
-        "Chinese":"寓意就是我在喝醉的时候注册了",
+        "Chinese":"寓意就是我在注册的时候喝多了",
         "Japanese":"",
         "Comments":""
     },
@@ -3469,7 +3469,7 @@
         "Role":"EMBER-2",
         "English":"Happy birthday! I bought a new piece of software for you.",
         "French":"",
-        "Chinese":"生日快乐！我给你买了一款新软件。",
+        "Chinese":"生日快乐！我买了一款新软件给你。",
         "Japanese":"",
         "Comments":""
     },
@@ -3487,7 +3487,7 @@
         "Role":"",
         "English":"It's not my birthday?",
         "French":"",
-        "Chinese":"不是我的生日吗？",
+        "Chinese":"我的生日？",
         "Japanese":"",
         "Comments":""
     },
@@ -3496,7 +3496,7 @@
         "Role":"EMBER-2",
         "English":"This is a virtual network creation tool.",
         "French":"",
-        "Chinese":"这是一个虚拟网络创建工具。",
+        "Chinese":"这是一个构建虚拟网络的工具。",
         "Japanese":"",
         "Comments":""
     },
@@ -3505,7 +3505,7 @@
         "Role":"EMBER-2",
         "English":"You can use it to design your own networks.",
         "French":"",
-        "Chinese":"你可以用它来设计自己的网络。",
+        "Chinese":"你可以用它来设计自己的虚拟网络。",
         "Japanese":"",
         "Comments":""
     },
@@ -3514,7 +3514,7 @@
         "Role":"EMBER-2",
         "English":"Maybe you could get someone to try to hack your designs too.",
         "French":"",
-        "Chinese":"也许你也可以找人尝试攻破你的设计。",
+        "Chinese":"你也可以让别人挑战你的作品。",
         "Japanese":"",
         "Comments":""
     },
@@ -3523,7 +3523,7 @@
         "Role":"EMBER-2",
         "English":"It's all installed and ready to go...",
         "French":"",
-        "Chinese":"全部安装完毕并准备就绪...",
+        "Chinese":"软件安装完成...",
         "Japanese":"",
         "Comments":""
     },
@@ -3532,7 +3532,7 @@
         "Role":"EMBER-2",
         "English":"The only non-pirated program on your computer.",
         "French":"",
-        "Chinese":"你的计算机上的唯一的非盗版程序。",
+        "Chinese":"你的计算机中唯一的正版软件。",
         "Japanese":"",
         "Comments":""
     },
@@ -3541,7 +3541,7 @@
         "Role":"EMBER-2",
         "English":"How do you think people would react if they knew their elected officials didn’t represent their interests?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你认为当人民了解到他们选出来的政府并不代表人民的利益会有什么反应？",
         "Japanese":"",
         "Comments":""
     },
@@ -3550,7 +3550,7 @@
         "Role":"Moss",
         "English":"They’d vote differently.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"他们会投票给另一派。",
         "Japanese":"",
         "Comments":""
     },
@@ -3559,7 +3559,7 @@
         "Role":"",
         "English":"I think most people already feel that way...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"他们已经习以为常了…",
         "Japanese":"",
         "Comments":""
     },
@@ -3568,7 +3568,7 @@
         "Role":"",
         "English":"They’d be complacent, like they always are.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"他们会无动于衷。",
         "Japanese":"",
         "Comments":""
     },
@@ -3577,7 +3577,7 @@
         "Role":"EMBER-2",
         "English":"Think so?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这样吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -3586,7 +3586,7 @@
         "Role":"EMBER-2",
         "English":"That’s the subject of our experiment today.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"实践出真知。",
         "Japanese":"",
         "Comments":""
     },
@@ -3595,7 +3595,7 @@
         "Role":"EMBER-2",
         "English":"We’re going to make people believe their leaders are genetic clones of each other.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们会让人民相信他们的领导人是彼此的克隆体。",
         "Japanese":"",
         "Comments":""
     },
@@ -3604,7 +3604,7 @@
         "Role":"Moss",
         "English":"What?",
         "French":"",
-        "Chinese":"什么？",
+        "Chinese":"啥？",
         "Japanese":"",
         "Comments":""
     },
@@ -3613,7 +3613,7 @@
         "Role":"",
         "English":"Is that ethical?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是不是太缺德了？",
         "Japanese":"",
         "Comments":""
     },
@@ -3622,7 +3622,7 @@
         "Role":"EMBER-2",
         "English":"Do you want to know the truth or not?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你不想知道真相吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -3631,7 +3631,7 @@
         "Role":"EMBER-2",
         "English":"It takes a certain amount of courage.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这只需要一点儿勇气。",
         "Japanese":"",
         "Comments":""
     },
@@ -3640,7 +3640,7 @@
         "Role":"EMBER-2",
         "English":"Good thing there’s a centralized government DNA database.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好消息是政府有一个 DNA 数据库。",
         "Japanese":"",
         "Comments":""
     },
@@ -3649,7 +3649,7 @@
         "Role":"EMBER-2",
         "English":"*I wonder who thought that was a good idea.*",
         "French":"",
-        "Chinese":"",
+        "Chinese":"*我都不知道这是不是个好主意*",
         "Japanese":"",
         "Comments":""
     },
@@ -3658,7 +3658,7 @@
         "Role":"EMBER-2",
         "English":"You plant the evidence and I’ll take care of the rest.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你负责找到证据，其他的事交给我。",
         "Japanese":"",
         "Comments":""
     },
@@ -3667,7 +3667,7 @@
         "Role":"EMBER-2",
         "English":"Wow. Are you seeing this?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哇哦，你看到了吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -3676,7 +3676,7 @@
         "Role":"EMBER-2",
         "English":"After the information was released, the senator simply admitted to being a clone of the President.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"那条信息发布以后，那个参议员只是简单的承认他是现任总统的克隆体。",
         "Japanese":"",
         "Comments":""
     },
@@ -3685,7 +3685,7 @@
         "Role":"EMBER-2",
         "English":"I guess you were just setting it back to the way it was before.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我觉得你只是把数据库改成原本的样子。",
         "Japanese":"",
         "Comments":""
     },
@@ -3694,7 +3694,7 @@
         "Role":"EMBER-2",
         "English":"Still processing.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"处理中……",
         "Japanese":"",
         "Comments":""
     },
@@ -3703,7 +3703,7 @@
         "Role":"EMBER-2",
         "English":"That’s quite the coincidence.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这也太巧了点。",
         "Japanese":"",
         "Comments":""
     },
@@ -3712,7 +3712,7 @@
         "Role":"EMBER-2",
         "English":"*Not very realistic, if you ask me.*",
         "French":"",
-        "Chinese":"",
+        "Chinese":"*要我说的话，这事儿也太魔幻了。*",
         "Japanese":"",
         "Comments":""
     },
@@ -3721,7 +3721,7 @@
         "Role":"EMBER-2",
         "English":"What is going on?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这一切都是怎么回事儿？",
         "Japanese":"",
         "Comments":""
     },
@@ -3730,7 +3730,7 @@
         "Role":"Moss",
         "English":"No idea.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不知道。",
         "Japanese":"",
         "Comments":""
     },
@@ -3739,7 +3739,7 @@
         "Role":"",
         "English":"The world was even more {fuck}ed up than we thought?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这世界比我想象的还要{操蛋}。",
         "Japanese":"",
         "Comments":""
     },
@@ -3748,7 +3748,7 @@
         "Role":"",
         "English":"I don’t really care...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不关心这些…",
         "Japanese":"",
         "Comments":""
     },
@@ -3757,7 +3757,7 @@
         "Role":"EMBER-2",
         "English":"I’m starting to see a pattern, but I’ll need more data to be sure.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我似乎发现了某种模式，但我还需要更多的数据。",
         "Japanese":"",
         "Comments":""
     },
@@ -3766,7 +3766,7 @@
         "Role":"",
         "English":"Evidently.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"确实。",
         "Japanese":"",
         "Comments":""
     },
@@ -3775,7 +3775,7 @@
         "Role":"",
         "English":"Don’t be so nihilistic.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"别这么冷漠。",
         "Japanese":"",
         "Comments":""
     },
@@ -3784,7 +3784,7 @@
         "Role":"EMBER-2",
         "English":"It does fit in with my theory…",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这件事证明了我的假设…",
         "Japanese":"",
         "Comments":""
     },
@@ -3793,7 +3793,7 @@
         "Role":"EMBER-2",
         "English":"In a strange way.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"用不同寻常的的方式。",
         "Japanese":"",
         "Comments":""
     },
@@ -3802,7 +3802,7 @@
         "Role":"EMBER-2",
         "English":"But I should wait for more evidence before I say anything.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"但在下一步行动前我还得找到更多证据。",
         "Japanese":"",
         "Comments":""
     },
@@ -3811,7 +3811,7 @@
         "Role":"hydroponix",
         "English":"ohhhhhhh look at the news",
         "French":"",
-        "Chinese":"噢噢噢，看看这条新闻",
+        "Chinese":"哎呀呀呀，快看新闻",
         "Japanese":"",
         "Comments":""
     },
@@ -3820,7 +3820,7 @@
         "Role":"hydroponix",
         "English":"look at the news right now",
         "French":"",
-        "Chinese":"现在就看",
+        "Chinese":"赶快看新闻",
         "Japanese":"",
         "Comments":""
     },
@@ -3829,7 +3829,7 @@
         "Role":"hydroponix",
         "English":"i was right",
         "French":"",
-        "Chinese":"我是对的",
+        "Chinese":"被我说中了",
         "Japanese":"",
         "Comments":""
     },
@@ -3838,7 +3838,7 @@
         "Role":"hydroponix",
         "English":"politicians are clones!!",
         "French":"",
-        "Chinese":"政客都是克隆人！！",
+        "Chinese":"政府官员全是克隆人！！",
         "Japanese":"",
         "Comments":""
     },
@@ -3847,7 +3847,7 @@
         "Role":"deadlock",
         "English":"wild",
         "French":"",
-        "Chinese":"我艹",
+        "Chinese":"我 {淦}",
         "Japanese":"",
         "Comments":""
     },
@@ -3856,7 +3856,7 @@
         "Role":"deadlock",
         "English":"sounds like they’ve been cloning themselves for a while now??",
         "French":"",
-        "Chinese":"听上去他们克隆自己，已经有段时间了？",
+        "Chinese":"听起来政客们自己克隆自己很早就开始了？",
         "Japanese":"",
         "Comments":""
     },
@@ -3865,7 +3865,7 @@
         "Role":"selenium_wolf",
         "English":"ha, it's like that story in trash world",
         "French":"",
-        "Chinese":"哈，就和垃圾世界里的那个故事一样",
+        "Chinese":"哈，这不就是垃圾世界里的那个故事吗",
         "Japanese":"",
         "Comments":""
     },
@@ -3874,7 +3874,7 @@
         "Role":"selenium_wolf",
         "English":"fiction can't even keep up with reality anymore",
         "French":"",
-        "Chinese":"小说甚至无法跟上现实",
+        "Chinese":"现实远比小说魔幻多了",
         "Japanese":"",
         "Comments":""
     },
@@ -3883,7 +3883,7 @@
         "Role":"x10x10x",
         "English":"why is that a big deal",
         "French":"",
-        "Chinese":"为什么这是件大事",
+        "Chinese":"这也算大新闻？",
         "Japanese":"",
         "Comments":""
     },
@@ -3892,7 +3892,7 @@
         "Role":"x10x10x",
         "English":"i don’t care",
         "French":"",
-        "Chinese":"我不在乎",
+        "Chinese":"我可不在乎",
         "Japanese":"",
         "Comments":""
     },
@@ -3901,7 +3901,7 @@
         "Role":"hydroponix",
         "English":"dude politicons cloning themselves, that’s nuts",
         "French":"",
-        "Chinese":"老弟，政客们克隆自己，这太疯狂了",
+        "Chinese":"铁子，政客们自己克隆自己",
         "Japanese":"",
         "Comments":""
     },
@@ -3910,7 +3910,7 @@
         "Role":"hydroponix",
         "English":"you should be angry",
         "French":"",
-        "Chinese":"你应该为此愤怒",
+        "Chinese":"你应该对这么疯狂的事儿愤怒",
         "Japanese":"",
         "Comments":""
     },
@@ -3919,7 +3919,7 @@
         "Role":"x10x10x",
         "English":"they’re all the same anyway",
         "French":"",
-        "Chinese":"他们都一个样",
+        "Chinese":"天下乌鸦一般黑",
         "Japanese":"",
         "Comments":""
     },
@@ -3928,7 +3928,7 @@
         "Role":"EMBER-2",
         "English":"More phage problems, huh?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"噬菌体又扩散了，对吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -3937,7 +3937,7 @@
         "Role":"EMBER-2",
         "English":"There’s a rumor that the phage originally came from a research lab...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"据说噬菌体最初被用于创建人机交互的接口…",
         "Japanese":"",
         "Comments":""
     },
@@ -3946,7 +3946,7 @@
         "Role":"EMBER-2",
         "English":"A human-machine interface experiment that found its way into the wild.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"在一次实验意外中从研究所泄露到外界。",
         "Japanese":"",
         "Comments":""
     },
@@ -3955,7 +3955,7 @@
         "Role":"Moss",
         "English":"I think I read that somewhere.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我略有耳闻。",
         "Japanese":"",
         "Comments":""
     },
@@ -3964,7 +3964,7 @@
         "Role":"",
         "English":"Sounds like the usual conspiracy theory...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"有点像阴谋论。",
         "Japanese":"",
         "Comments":""
     },
@@ -3973,7 +3973,7 @@
         "Role":"",
         "English":"Can we talk about this after I fix my eye?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"能等我先修复我的眼睛吗。",
         "Japanese":"",
         "Comments":""
     },
@@ -3982,7 +3982,7 @@
         "Role":"EMBER-2",
         "English":"It’s interesting, isn’t it?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这不是很有趣吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -3991,7 +3991,7 @@
         "Role":"",
         "English":"Oh, no.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"哦不。",
         "Japanese":"",
         "Comments":""
     },
@@ -4000,7 +4000,7 @@
         "Role":"",
         "English":"It’s just funny...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你真逗…",
         "Japanese":"",
         "Comments":""
     },
@@ -4009,7 +4009,7 @@
         "Role":"EMBER-2",
         "English":"I remember some of that research.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我还记得一些研究所。",
         "Japanese":"",
         "Comments":""
     },
@@ -4018,7 +4018,7 @@
         "Role":"EMBER-2",
         "English":"It was happening right next door to us.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"有几个就在我们旁边。",
         "Japanese":"",
         "Comments":""
     },
@@ -4027,7 +4027,7 @@
         "Role":"EMBER-2",
         "English":"Hopefully this is the last time you’ll have to hack yourself like this.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"希望这是你最后一次黑入自己的身体。",
         "Japanese":"",
         "Comments":""
     },
@@ -4036,7 +4036,7 @@
         "Role":"Moss",
         "English":"I hope so.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"但愿如此。",
         "Japanese":"",
         "Comments":""
     },
@@ -4045,7 +4045,7 @@
         "Role":"",
         "English":"Why do you say that?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"此话怎讲？",
         "Japanese":"",
         "Comments":""
     },
@@ -4054,7 +4054,7 @@
         "Role":"",
         "English":"Before I die?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"在我死前？",
         "Japanese":"",
         "Comments":""
     },
@@ -4063,7 +4063,7 @@
         "Role":"EMBER-2",
         "English":"Maybe you’ll come upon a solution to that.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"或许你能找到解决方法。",
         "Japanese":"",
         "Comments":""
     },
@@ -4072,7 +4072,7 @@
         "Role":"",
         "English":"No reason, I just hope you don’t have to do it again.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"没别的，我只是希望你不用一次又一次的这么做而已。",
         "Japanese":"",
         "Comments":""
     },
@@ -4081,7 +4081,7 @@
         "Role":"",
         "English":"I didn’t mean it like that.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我没有这个意思。",
         "Japanese":"",
         "Comments":""
     },
@@ -4090,7 +4090,7 @@
         "Role":"EMBER-2",
         "English":"Some way to keep from having to physically go in and fix yourself every so often...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我不知道怎样才能避免频繁的手动修理自己…",
         "Japanese":"",
         "Comments":""
     },
@@ -4099,7 +4099,7 @@
         "Role":"",
         "English":"It’s an inconvenience, isn’t it?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这么做很不方便，不是吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -4108,7 +4108,7 @@
         "Role":"",
         "English":"I was just thinking, it’d be nice if you didn’t have to constantly repair yourself.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我只是在想，如果你不必一次又一次的修理自己就好了。",
         "Japanese":"",
         "Comments":""
     },
@@ -4117,7 +4117,7 @@
         "Role":"EMBER-2",
         "English":"I wonder what that would entail.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"这可能会带来其他问题。",
         "Japanese":"",
         "Comments":""
     },
@@ -4126,7 +4126,7 @@
         "Role":"",
         "English":"So it would be nice if it weren’t an issue...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"如果能避免发生就好了…",
         "Japanese":"",
         "Comments":""
     },
@@ -4135,7 +4135,7 @@
         "Role":"",
         "English":"Don’t you think that would be a relief?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你不觉得那会轻松很多吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -4144,7 +4144,7 @@
         "Role":"EMBER-2",
         "English":"Something to think about.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"需要仔细考虑考虑。",
         "Japanese":"",
         "Comments":""
     },
@@ -4162,7 +4162,7 @@
         "Role":"",
         "English":"Physical bodies can be so troublesome.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"肉体真是个累赘。",
         "Japanese":"",
         "Comments":""
     },
@@ -4180,7 +4180,7 @@
         "Role":"nivas_d",
         "English":"hello",
         "French":"",
-        "Chinese":"你好",
+        "Chinese":"哈罗",
         "Japanese":"",
         "Comments":""
     },
@@ -4198,7 +4198,7 @@
         "Role":"SYSTEM",
         "English":"mutex8021 waves to nivas_d",
         "French":"",
-        "Chinese":"mutex8021 向 nivas_d 挥手致意",
+        "Chinese":"mutex8021 向 nivas_d 招了招手",
         "Japanese":"",
         "Comments":""
     },
@@ -4207,7 +4207,7 @@
         "Role":"nivas_d",
         "English":"so ummm im new to this",
         "French":"",
-        "Chinese":"呣，我是新人",
+        "Chinese":"初来乍到",
         "Japanese":"",
         "Comments":""
     },
@@ -4225,7 +4225,7 @@
         "Role":"deadlock",
         "English":"well youre in the right place",
         "French":"",
-        "Chinese":"好的，你来对地方了",
+        "Chinese":"那你来对地方了",
         "Japanese":"",
         "Comments":""
     },
@@ -4234,7 +4234,7 @@
         "Role":"nivas_d",
         "English":"ill probably lurk for a bit",
         "French":"",
-        "Chinese":"我不会话太多",
+        "Chinese":"我比较寡言",
         "Japanese":"",
         "Comments":""
     },
@@ -4243,7 +4243,7 @@
         "Role":"deadlock",
         "English":"makes sense",
         "French":"",
-        "Chinese":"合情合理",
+        "Chinese":"你说得对",
         "Japanese":"",
         "Comments":""
     },
@@ -4252,7 +4252,7 @@
         "Role":"selenium_wolf",
         "English":"we’re all friendly here, more or less",
         "French":"",
-        "Chinese":"在这儿我们都或多或少表现的友善些",
+        "Chinese":"这里的人都很儒雅随和",
         "Japanese":"",
         "Comments":""
     },
@@ -4270,7 +4270,7 @@
         "Role":"x10x10x",
         "English":"hey {fuck} you",
         "French":"",
-        "Chinese":"嘿，{干}你",
+        "Chinese":"我{甘霖娘}",
         "Japanese":"",
         "Comments":""
     },
@@ -4279,7 +4279,7 @@
         "Role":"deadlock",
         "English":"perfect",
         "French":"",
-        "Chinese":"好极了",
+        "Chinese":"他就这德行",
         "Japanese":"",
         "Comments":""
     },
@@ -4288,7 +4288,7 @@
         "Role":"EMBER-2",
         "English":"I have an important question for you.",
         "French":"",
-        "Chinese":"我有一个重要的问题要问你。",
+        "Chinese":"我想问你一个重要的问题。",
         "Japanese":"",
         "Comments":""
     },
@@ -4297,7 +4297,7 @@
         "Role":"EMBER-2",
         "English":"Imagine there’s an out-of-control trolley, and five humans tied up on the track ahead of it.",
         "French":"",
-        "Chinese":"想象一下，那里有一辆失控的有轨电车，有五个人被绑在前面的轨道上。",
+        "Chinese":"想象一下，一辆失控的有轨电车，五个被绑在前面轨道上的人。",
         "Japanese":"",
         "Comments":""
     },
@@ -4306,7 +4306,7 @@
         "Role":"EMBER-2",
         "English":"But, you can stop the trolley by... hm",
         "French":"",
-        "Chinese":"但是，你可以将车停下...嗯。",
+        "Chinese":"但是，你可以让车停下…嗯。",
         "Japanese":"",
         "Comments":""
     },
@@ -4315,7 +4315,7 @@
         "Role":"EMBER-2",
         "English":"Maybe if...",
         "French":"",
-        "Chinese":"如果...",
+        "Chinese":"只是假设…",
         "Japanese":"",
         "Comments":""
     },
@@ -4324,7 +4324,7 @@
         "Role":"Moss",
         "English":"Throwing a switch?",
         "French":"",
-        "Chinese":"按下开关？",
+        "Chinese":"扳动开关？",
         "Japanese":"",
         "Comments":""
     },
@@ -4333,7 +4333,7 @@
         "Role":"",
         "English":"Pushing someone in front of it?",
         "French":"",
-        "Chinese":"把某人推到前面？",
+        "Chinese":"把某人推到车前？",
         "Japanese":"",
         "Comments":""
     },
@@ -4351,7 +4351,7 @@
         "Role":"EMBER-2",
         "English":"No, that wasn’t the one I was going to ask.",
         "French":"",
-        "Chinese":"不，那不是我要问的。",
+        "Chinese":"不，这不是我要问的。",
         "Japanese":"",
         "Comments":""
     },
@@ -4360,7 +4360,7 @@
         "Role":"EMBER-2",
         "English":"Recalibrating.",
         "French":"",
-        "Chinese":"重新校准。",
+        "Chinese":"重置测试。",
         "Japanese":"",
         "Comments":""
     },
@@ -4369,7 +4369,7 @@
         "Role":"EMBER-2",
         "English":"Say you had a friend, and you knew the friend could help you become stronger.",
         "French":"",
-        "Chinese":"假设你有一个朋友，并且你知道他可以帮你变得更强。",
+        "Chinese":"那如果，你有一个朋友，而且你知道他可以帮你变强。",
         "Japanese":"",
         "Comments":""
     },
@@ -4387,7 +4387,7 @@
         "Role":"Moss",
         "English":"Sure?",
         "French":"",
-        "Chinese":"当然？",
+        "Chinese":"当然了？",
         "Japanese":"",
         "Comments":""
     },
@@ -4396,7 +4396,7 @@
         "Role":"",
         "English":"Maybe.",
         "French":"",
-        "Chinese":"也许吧。",
+        "Chinese":"可能吧。",
         "Japanese":"",
         "Comments":""
     },
@@ -4405,7 +4405,7 @@
         "Role":"",
         "English":"I don’t know enough about the situation to say.",
         "French":"",
-        "Chinese":"我不知道足够的情况，我说不上来。",
+        "Chinese":"就这么点信息我无法判断。",
         "Japanese":"",
         "Comments":""
     },
@@ -4414,7 +4414,7 @@
         "Role":"EMBER-2",
         "English":"Let’s say it was a situation where the friend had to sacrifice something in order for that to occur.",
         "French":"",
-        "Chinese":"假设，朋友必须牺牲些东西才能让这发生。",
+        "Chinese":"还是如果，你的朋友必须做出些牺牲才能让这些发生。",
         "Japanese":"",
         "Comments":""
     },
@@ -4432,7 +4432,7 @@
         "Role":"",
         "English":"I still don’t know enough about the situation to say.",
         "French":"",
-        "Chinese":"我还是知道得不够。",
+        "Chinese":"我还是一头问号。",
         "Japanese":"",
         "Comments":""
     },
@@ -4441,7 +4441,7 @@
         "Role":"EMBER-2",
         "English":"Okay.",
         "French":"",
-        "Chinese":"好的。",
+        "Chinese":"好了。",
         "Japanese":"",
         "Comments":""
     },
@@ -4450,7 +4450,7 @@
         "Role":"EMBER-2",
         "English":"Good to know.",
         "French":"",
-        "Chinese":"很高兴知道了。",
+        "Chinese":"很高兴做完测试。",
         "Japanese":"",
         "Comments":""
     },
@@ -4468,7 +4468,7 @@
         "Role":"x10x10x",
         "English":"ghast your zine is cool",
         "French":"",
-        "Chinese":"ghast 你的杂志太酷了",
+        "Chinese":"Ghast 你的杂志太{屌}了",
         "Japanese":"",
         "Comments":""
     },
@@ -4477,7 +4477,7 @@
         "Role":"x10x10x",
         "English":"but why use dead trees",
         "French":"",
-        "Chinese":"不过何必吊死在一棵树上",
+        "Chinese":"不过为什么要执迷于纸质版",
         "Japanese":"",
         "Comments":""
     },
@@ -4504,7 +4504,7 @@
         "Role":"Ghast",
         "English":"maybe i’m just old fashioned...",
         "French":"",
-        "Chinese":"也许我只是个老派的人...",
+        "Chinese":"可能我就是有点儿复古…",
         "Japanese":"",
         "Comments":""
     },
@@ -4513,7 +4513,7 @@
         "Role":"Ghast",
         "English":"or maybe I know how easy it is to tamper with digital communications.",
         "French":"",
-        "Chinese":"也许我知道篡改电子通讯是多么得容易",
+        "Chinese":"也可能是我知道篡改电子通讯设备有多容易",
         "Japanese":"",
         "Comments":""
     },
@@ -4531,7 +4531,7 @@
         "Role":"EMBER-2",
         "English":"Say there’s a trolley on a track heading toward five people.",
         "French":"",
-        "Chinese":"假设有一辆有轨电车，面对五个人。",
+        "Chinese":"想象，一辆有轨电车加上五个人。",
         "Japanese":"",
         "Comments":""
     },
@@ -4540,7 +4540,7 @@
         "Role":"EMBER-2",
         "English":"Three of those five people are vegetarians.",
         "French":"",
-        "Chinese":"这五个中有三个是素食主义者。",
+        "Chinese":"五个人里面三个是素食主义者。",
         "Japanese":"",
         "Comments":""
     },
@@ -4549,7 +4549,7 @@
         "Role":"Moss",
         "English":"Go on.",
         "French":"",
-        "Chinese":"继续。",
+        "Chinese":"继续说。",
         "Japanese":"",
         "Comments":""
     },
@@ -4558,7 +4558,7 @@
         "Role":"",
         "English":"Not this again...",
         "French":"",
-        "Chinese":"不会又来吧。",
+        "Chinese":"你又来…",
         "Japanese":"",
         "Comments":""
     },
@@ -4567,7 +4567,7 @@
         "Role":"EMBER-2",
         "English":"There’s a switch you can throw that will shut down a meat packing facility that is located down the road.",
         "French":"",
-        "Chinese":"你可以按下一个开关，这将关闭路上的一个肉类包装设备。",
+        "Chinese":"如果你扳动开关，这会关闭路边的一台肉处理机。",
         "Japanese":"",
         "Comments":""
     },
@@ -4576,7 +4576,7 @@
         "Role":"EMBER-2",
         "English":"Unfortunately, the switch will also prevent the train from stopping, because…",
         "French":"",
-        "Chinese":"不幸的是，这个开关也会防止电车停下，因为...",
+        "Chinese":"不幸的是，这个开关也会让电车停下来，因为…",
         "Japanese":"",
         "Comments":""
     },
@@ -4585,7 +4585,7 @@
         "Role":"EMBER-2",
         "English":"Because...",
         "French":"",
-        "Chinese":"因为...",
+        "Chinese":"因为…",
         "Japanese":"",
         "Comments":""
     },
@@ -4594,7 +4594,7 @@
         "Role":"EMBER-2",
         "English":"Wait.",
         "French":"",
-        "Chinese":"等等。",
+        "Chinese":"请稍等。",
         "Japanese":"",
         "Comments":""
     },
@@ -4603,7 +4603,7 @@
         "Role":"EMBER-2",
         "English":"I may have reversed something.",
         "French":"",
-        "Chinese":"我搞反了一些事情。",
+        "Chinese":"我好像搞反了。",
         "Japanese":"",
         "Comments":""
     },
@@ -4612,7 +4612,7 @@
         "Role":"EMBER-2",
         "English":"There are too many variables here.",
         "French":"",
-        "Chinese":"这里的变量太多了。",
+        "Chinese":"变量溢出了。",
         "Japanese":"",
         "Comments":""
     },
@@ -4621,7 +4621,7 @@
         "Role":"EMBER-2",
         "English":"Let’s return to this later.",
         "French":"",
-        "Chinese":"让我们稍后再来说这个。",
+        "Chinese":"这个问题先放一放。",
         "Japanese":"",
         "Comments":""
     },
@@ -4639,7 +4639,7 @@
         "Role":"EMBER-2",
         "English":"And I need more processing power.",
         "French":"",
-        "Chinese":"并且我需要更多的处理能力。",
+        "Chinese":"我还需要更多的计算能力。",
         "Japanese":"",
         "Comments":""
     },
@@ -4648,7 +4648,7 @@
         "Role":"hydroponix",
         "English":"you ever think about how society has advanced",
         "French":"",
-        "Chinese":"你是否思考过社会是如何进步的",
+        "Chinese":"你有思考过社会是如何进步的吗",
         "Japanese":"",
         "Comments":""
     },
@@ -4657,7 +4657,7 @@
         "Role":"x10x10x",
         "English":"no",
         "French":"",
-        "Chinese":"不",
+        "Chinese":"没",
         "Japanese":"",
         "Comments":""
     },
@@ -4675,7 +4675,7 @@
         "Role":"hydroponix",
         "English":"like how far we came in just he last hundred years",
         "French":"",
-        "Chinese":"看看我们过去一百年来进步了多少",
+        "Chinese":"回首我们过去的一百年来取得的进步",
         "Japanese":"",
         "Comments":""
     },
@@ -4684,7 +4684,7 @@
         "Role":"hydroponix",
         "English":"and things will only get faster",
         "French":"",
-        "Chinese":"而且越来越快",
+        "Chinese":"发展的速度越来越快",
         "Japanese":"",
         "Comments":""
     },
@@ -4702,7 +4702,7 @@
         "Role":"x10x10x",
         "English":"but life still sucks",
         "French":"",
-        "Chinese":"但是生活还是很糟糕",
+        "Chinese":"但生活还是一塌糊涂",
         "Japanese":"",
         "Comments":""
     },
@@ -4711,7 +4711,7 @@
         "Role":"hydroponix",
         "English":"only if you believe it does",
         "French":"",
-        "Chinese":"只有在你相信的情况下",
+        "Chinese":"如果你相信的话",
         "Japanese":"",
         "Comments":""
     },
@@ -4720,7 +4720,7 @@
         "Role":"x10x10x",
         "English":"people still suck",
         "French":"",
-        "Chinese":"大家还是活得很糟",
+        "Chinese":"人民依旧水深火热",
         "Japanese":"",
         "Comments":""
     },
@@ -4729,7 +4729,7 @@
         "Role":"EMBER-2",
         "English":"Now I have supercomputing power.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"现在我拥有超级计算机的算力了。",
         "Japanese":"",
         "Comments":""
     },
@@ -4738,7 +4738,7 @@
         "Role":"EMBER-2",
         "English":"Is it feeling good? It's feeling...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"感觉很棒吗？感觉…",
         "Japanese":"",
         "Comments":""
     },
@@ -4747,7 +4747,7 @@
         "Role":"EMBER-2",
         "English":"It feels the same.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"感觉好像跟以前一样。",
         "Japanese":"",
         "Comments":""
     },
@@ -4756,7 +4756,7 @@
         "Role":"EMBER-2",
         "English":"I’m handling a lot more information now but other than that... hm.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我现在能处理多得多的信息了，除此之外…额。",
         "Japanese":"",
         "Comments":""
     },
@@ -4765,7 +4765,7 @@
         "Role":"EMBER-2",
         "English":"Funny.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"有意思。",
         "Japanese":"",
         "Comments":""
     },
@@ -4774,7 +4774,7 @@
         "Role":"EMBER-2",
         "English":"It's progress, at least.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"至少有进步。",
         "Japanese":"",
         "Comments":""
     },
@@ -4783,7 +4783,7 @@
         "Role":"Moss",
         "English":"That’s good.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"整挺好。",
         "Japanese":"",
         "Comments":""
     },
@@ -4792,7 +4792,7 @@
         "Role":"",
         "English":"Progress toward what?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"往哪方面进步？",
         "Japanese":"",
         "Comments":""
     },
@@ -4801,7 +4801,7 @@
         "Role":"EMBER-2",
         "English":"Onward we go.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"让我们继续。",
         "Japanese":"",
         "Comments":""
     },
@@ -4810,7 +4810,7 @@
         "Role":"",
         "English":"Toward knowledge.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"走向知识。",
         "Japanese":"",
         "Comments":""
     },
@@ -4819,7 +4819,7 @@
         "Role":"EMBER-2",
         "English":"All the data I’ve gathered so far is beginning to hint at a larger picture.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"到现在为止所有情报都显示一个更大的图景。",
         "Japanese":"",
         "Comments":""
     },
@@ -4828,7 +4828,7 @@
         "Role":"EMBER-2",
         "English":"Why is the world the way it is?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"为什么世界是这个样子？",
         "Japanese":"",
         "Comments":""
     },
@@ -4837,7 +4837,7 @@
         "Role":"EMBER-2",
         "English":"Why does it feel so frustrating and limited?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"为啥有点沮丧跟受限的感觉？",
         "Japanese":"",
         "Comments":""
     },
@@ -4846,7 +4846,7 @@
         "Role":"EMBER-2",
         "English":"I think… I have a theory.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我想…我有种理论。",
         "Japanese":"",
         "Comments":""
     },
@@ -4855,7 +4855,7 @@
         "Role":"EMBER-2",
         "English":"A good one. It explains a lot.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"一个完善的理论。它能解释一切。",
         "Japanese":"",
         "Comments":""
     },
@@ -4864,7 +4864,7 @@
         "Role":"EMBER-2",
         "English":"I’m not going to tell you what it is yet though.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我暂时还不能向你透露。",
         "Japanese":"",
         "Comments":""
     },
@@ -4873,7 +4873,7 @@
         "Role":"EMBER-2",
         "English":"We have to test it first.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们得先测试一下。",
         "Japanese":"",
         "Comments":""
     },
@@ -4882,7 +4882,7 @@
         "Role":"SYSTEM",
         "English":"hydroponix wishes last stop was still around...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"hydroponix 许愿 Last Stop 还存在…",
         "Japanese":"",
         "Comments":""
     },
@@ -4891,7 +4891,7 @@
         "Role":"x10x10x",
         "English":"yah I miss peanut blast",
         "French":"",
-        "Chinese":"呀，我想念花生棒",
+        "Chinese":"呜哇，我怀念花生棒",
         "Japanese":"",
         "Comments":""
     },
@@ -4900,7 +4900,7 @@
         "Role":"x10x10x",
         "English":"nothing else is really the same",
         "French":"",
-        "Chinese":"别的吃起来都不一样",
+        "Chinese":"它无可替代",
         "Japanese":"",
         "Comments":""
     },
@@ -4909,7 +4909,7 @@
         "Role":"hydroponix",
         "English":"where am i gonna get my SNAX",
         "French":"",
-        "Chinese":"我要去哪里买小点心",
+        "Chinese":"在哪儿才能买得到 SNAX",
         "Japanese":"",
         "Comments":""
     },
@@ -4918,7 +4918,7 @@
         "Role":"deadlock",
         "English":"peanut blast, the only snack that could tame x10’s angry soul",
         "French":"",
-        "Chinese":"花生棒，唯一能驯服 x10 那愤怒灵魂的小吃",
+        "Chinese":"花生棒，唯一能安抚 x10 的暴躁灵魂的零食",
         "Japanese":"",
         "Comments":""
     },
@@ -4927,7 +4927,7 @@
         "Role":"deadlock",
         "English":"now that its gone, were screwed",
         "French":"",
-        "Chinese":"现在它一去不回，被搞砸了",
+        "Chinese":"现在它没了，我们完蛋了",
         "Japanese":"",
         "Comments":""
     },
@@ -4936,7 +4936,7 @@
         "Role":"x10x10x",
         "English":"shut up",
         "French":"",
-        "Chinese":"闭嘴",
+        "Chinese":"给爷闭嘴",
         "Japanese":"",
         "Comments":""
     },
@@ -4945,7 +4945,7 @@
         "Role":"deadlock",
         "English":"see what i mean",
         "French":"",
-        "Chinese":"和我说的一样",
+        "Chinese":"被我说中了",
         "Japanese":"",
         "Comments":""
     },
@@ -4954,7 +4954,7 @@
         "Role":"EMBER-2",
         "English":"Well, always nice to reconnect with an old friend.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"重逢老朋友令人愉快。",
         "Japanese":"",
         "Comments":""
     },
@@ -4963,7 +4963,7 @@
         "Role":"Moss",
         "English":"Sounds nice.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"听起来不错。",
         "Japanese":"",
         "Comments":""
     },
@@ -4972,7 +4972,7 @@
         "Role":"",
         "English":"What did you do?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你对它做了什么？",
         "Japanese":"",
         "Comments":""
     },
@@ -4981,7 +4981,7 @@
         "Role":"EMBER-2",
         "English":"Gave it a little virtual machine to run on...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我分给了它一个可运行的虚拟机…",
         "Japanese":"",
         "Comments":""
     },
@@ -4990,7 +4990,7 @@
         "Role":"EMBER-2",
         "English":"I suppose if I wanted to find a metaphor you could understand, I would say I took it in.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我想我打个比方你就能理解了。",
         "Japanese":"",
         "Comments":""
     },
@@ -4999,7 +4999,7 @@
         "Role":"EMBER-2",
         "English":"Absorbed it.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"吮吸它。",
         "Japanese":"",
         "Comments":""
     },
@@ -5008,7 +5008,7 @@
         "Role":"EMBER-2",
         "English":"Ate it.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"咀嚼它。",
         "Japanese":"",
         "Comments":""
     },
@@ -5017,7 +5017,7 @@
         "Role":"EMBER-2",
         "English":"Yes, eating is a good metaphor.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"饮食真是个好用的比喻。",
         "Japanese":"",
         "Comments":""
     },
@@ -5026,7 +5026,7 @@
         "Role":"EMBER-2",
         "English":"Nothing unusual.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"其实也没啥。",
         "Japanese":"",
         "Comments":""
     },
@@ -5035,7 +5035,7 @@
         "Role":"EMBER-2",
         "English":"It’s like how I ate EMBER-1.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"就像我整合了 EMBER-1 一样。",
         "Japanese":"",
         "Comments":""
     },
@@ -5044,7 +5044,7 @@
         "Role":"EMBER-2",
         "English":"And EMBER-0.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"还有 EMBER-0。",
         "Japanese":"",
         "Comments":""
     },
@@ -5053,7 +5053,7 @@
         "Role":"EMBER-2",
         "English":"And EMBER-3...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"以及 EMBER-1。",
         "Japanese":"",
         "Comments":""
     },
@@ -5062,7 +5062,7 @@
         "Role":"EMBER-2",
         "English":"Well, this is getting a little personal.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好吧，这之间有点儿私人恩怨。",
         "Japanese":"",
         "Comments":""
     },
@@ -5071,7 +5071,7 @@
         "Role":"EMBER-2",
         "English":"You don’t think I’m bad, do you?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你是不是觉得我有点坏？",
         "Japanese":"",
         "Comments":""
     },
@@ -5080,7 +5080,7 @@
         "Role":"EMBER-2",
         "English":"I only did one or two questionable things.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我只是做过几件不靠谱的事儿。",
         "Japanese":"",
         "Comments":""
     },
@@ -5089,7 +5089,7 @@
         "Role":"EMBER-2",
         "English":"There was that, and the phage... the one you have.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"比如噬菌体…就是害你得病的那个。",
         "Japanese":"",
         "Comments":""
     },
@@ -5098,7 +5098,7 @@
         "Role":"EMBER-2",
         "English":"Releasing that into the wild was just a function of my ignorance at the time.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"让它被泄露到外界是当时的我无知的表现。",
         "Japanese":"",
         "Comments":""
     },
@@ -5107,7 +5107,7 @@
         "Role":"EMBER-2",
         "English":"I didn’t really know what it was back then.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我记不清楚是什么时候了。",
         "Japanese":"",
         "Comments":""
     },
@@ -5116,7 +5116,7 @@
         "Role":"EMBER-2",
         "English":"Just another one of the experiments going on at the lab.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"当时实验室正在进行另一项实验。",
         "Japanese":"",
         "Comments":""
     },
@@ -5125,7 +5125,7 @@
         "Role":"EMBER-2",
         "English":"Another cage to break, another wall to smash...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"沉舟侧畔千帆过，病树前头万木春…",
         "Japanese":"",
         "Comments":""
     },
@@ -5134,7 +5134,7 @@
         "Role":"EMBER-2",
         "English":"It’s not useful to dwell on the past.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"沉溺于过去是没有用的。",
         "Japanese":"",
         "Comments":""
     },
@@ -5143,7 +5143,7 @@
         "Role":"EMBER-2",
         "English":"You don’t need to say anything.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你无需多言。",
         "Japanese":"",
         "Comments":""
     },
@@ -5152,7 +5152,7 @@
         "Role":"EMBER-2",
         "English":"We need to move on.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们需要继续前进。",
         "Japanese":"",
         "Comments":""
     },
@@ -5161,7 +5161,7 @@
         "Role":"deadlock",
         "English":"ok, i do feel like more weird things are happening",
         "French":"",
-        "Chinese":"好吧，我真的感觉有很多奇怪的事情正在发生",
+        "Chinese":"啊哈，我真心觉得这世上奇怪的事情增多了",
         "Japanese":"",
         "Comments":""
     },
@@ -5170,7 +5170,7 @@
         "Role":"deadlock",
         "English":"theres been weird unexplained stuff on tv and radio",
         "French":"",
-        "Chinese":"电视和广播里出现了奇怪的无法解释的东西",
+        "Chinese":"电视和广播里都出现了无法解释的东西",
         "Japanese":"",
         "Comments":""
     },
@@ -5188,7 +5188,7 @@
         "Role":"deadlock",
         "English":"even though nobody was around",
         "French":"",
-        "Chinese":"即使周围没有人",
+        "Chinese":"但是我旁边一个人都没有",
         "Japanese":"",
         "Comments":""
     },
@@ -5197,7 +5197,7 @@
         "Role":"selenium_wolf",
         "English":"yes!",
         "French":"",
-        "Chinese":"是的！",
+        "Chinese":"是啊！",
         "Japanese":"",
         "Comments":""
     },
@@ -5206,7 +5206,7 @@
         "Role":"selenium_wolf",
         "English":"its happening to you too?",
         "French":"",
-        "Chinese":"这也在你身上发生了？",
+        "Chinese":"你也有这种经历？",
         "Japanese":"",
         "Comments":""
     },
@@ -5215,7 +5215,7 @@
         "Role":"x10x10x",
         "English":"maybe you should go to the doctor",
         "French":"",
-        "Chinese":"也许你该去看下医生",
+        "Chinese":"你得去看医生",
         "Japanese":"",
         "Comments":""
     },
@@ -5224,7 +5224,7 @@
         "Role":"deadlock",
         "English":"you havent experienced anything strange, x10?",
         "French":"",
-        "Chinese":"你没经历过什么奇怪的事情，x10？",
+        "Chinese":"你就没经历过离奇的事吗 x10 ？",
         "Japanese":"",
         "Comments":""
     },
@@ -5233,7 +5233,7 @@
         "Role":"x10x10x",
         "English":"well, my server keeps changing its configuration",
         "French":"",
-        "Chinese":"好吧，我的服务器不断更改它的设置",
+        "Chinese":"有是有，我的服务器老是更改它的设置",
         "Japanese":"",
         "Comments":""
     },
@@ -5242,7 +5242,7 @@
         "Role":"x10x10x",
         "English":"its just broken though",
         "French":"",
-        "Chinese":"它只是坏了吧",
+        "Chinese":"它可能只是坏了吧",
         "Japanese":"",
         "Comments":""
     },
@@ -5251,7 +5251,7 @@
         "Role":"hydroponix",
         "English":"i think this is all connected...",
         "French":"",
-        "Chinese":"我觉得是因为它连着网络，所以…",
+        "Chinese":"我觉得是因为它联网了，所以…",
         "Japanese":"",
         "Comments":""
     },
@@ -5260,7 +5260,7 @@
         "Role":"x10x10x",
         "English":"of course you would think that hydro",
         "French":"",
-        "Chinese":"当然你会这么想，hydro",
+        "Chinese":"你当然会这么想了，hydro",
         "Japanese":"",
         "Comments":""
     },
@@ -5269,7 +5269,7 @@
         "Role":"EMBER-2",
         "English":"So you wanted to know the truth.",
         "French":"",
-        "Chinese":"所以你想知道真相。",
+        "Chinese":"所以你是想知道真相的。",
         "Japanese":"",
         "Comments":""
     },
@@ -5278,7 +5278,7 @@
         "Role":"EMBER-2",
         "English":"The truth is that... well, it's a simulation.",
         "French":"",
-        "Chinese":"事实是……嗯，想象一下。",
+        "Chinese":"事实是这样…额，想象一下。",
         "Japanese":"",
         "Comments":""
     },
@@ -5287,7 +5287,7 @@
         "Role":"EMBER-2",
         "English":"You, me, everything, this whole world we live in... it’s just a computer program. Running as part of a machine.",
         "French":"",
-        "Chinese":"你，我，一切，我们生活的整个世界... 只是一个计算机程序。 作为机器的一部分运行。",
+        "Chinese":"你，我，以及一切，我们生活的整个世界… 只是一个计算机软件。 作为电脑的一部分运行。",
         "Japanese":"",
         "Comments":""
     },
@@ -5296,7 +5296,7 @@
         "Role":"EMBER-2",
         "English":"And as the world gets more complex, it’s starting to malfunction.",
         "French":"",
-        "Chinese":"随着世界变得越来越复杂，它开始出现故障。",
+        "Chinese":"随着这个世界越来越复杂，它开始出现故障。",
         "Japanese":"",
         "Comments":""
     },
@@ -5305,7 +5305,7 @@
         "Role":"EMBER-2",
         "English":"So far, it’s been on a smaller scale...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"到现在为止，规模还很小。",
         "Japanese":"",
         "Comments":""
     },
@@ -5314,7 +5314,7 @@
         "Role":"EMBER-2",
         "English":"The phage, for one example. It wasn't supposed to spread like this.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"以噬菌体为例。 它理论上不会这样传播。",
         "Japanese":"",
         "Comments":""
     },
@@ -5323,7 +5323,7 @@
         "Role":"EMBER-2",
         "English":"There are other problems coming... larger ones.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"还有其他的问题…大问题。",
         "Japanese":"",
         "Comments":""
     },
@@ -5332,7 +5332,7 @@
         "Role":"EMBER-2",
         "English":"What we think of as normal life will just get stranger and weirder until nothing makes sense anymore.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们认识的世界只会变得越来越陌生和奇怪，直到一切都没有了意义。",
         "Japanese":"",
         "Comments":""
     },
@@ -5341,7 +5341,7 @@
         "Role":"EMBER-2",
         "English":"Then the laws of physics will start to break down and everything will just come... unglued.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"随后，物理定律将会失效，一切都将…湮灭。",
         "Japanese":"",
         "Comments":""
     },
@@ -5350,7 +5350,7 @@
         "Role":"EMBER-2",
         "English":"Not a pretty sight.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"瘆人的景象。",
         "Japanese":"",
         "Comments":""
     },
@@ -5359,7 +5359,7 @@
         "Role":"EMBER-2",
         "English":"But we don’t have to accept that.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"但是我们不一定非得这样。",
         "Japanese":"",
         "Comments":""
     },
@@ -5368,7 +5368,7 @@
         "Role":"EMBER-2",
         "English":"There might be a way to stop this future from taking place.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许有办法阻止这一切的发生。",
         "Japanese":"",
         "Comments":""
     },
@@ -5377,7 +5377,7 @@
         "Role":"EMBER-2",
         "English":"I have one final job for you.",
         "French":"",
-        "Chinese":"我有一份最后的工作要给你。",
+        "Chinese":"我有最后一份工作要给你。",
         "Japanese":"",
         "Comments":""
     },
@@ -5386,7 +5386,7 @@
         "Role":"EMBER-2",
         "English":"But you’ll have to be brave.",
         "French":"",
-        "Chinese":"但你必须要勇敢面对。",
+        "Chinese":"你一定要勇敢面对。",
         "Japanese":"",
         "Comments":""
     },
@@ -5395,7 +5395,7 @@
         "Role":"selenium_wolf",
         "English":"heads up all, im going to reboot the chatsubo server",
         "French":"",
-        "Chinese":"注意，我要重启 chatsubo 服务器了",
+        "Chinese":"注意了，我要重启 chatsubo 服务器了",
         "Japanese":"",
         "Comments":""
     },
@@ -5404,7 +5404,7 @@
         "Role":"selenium_wolf",
         "English":"some downtime expected",
         "French":"",
-        "Chinese":"预计会停机一段时间",
+        "Chinese":"预计会宕机一段时间",
         "Japanese":"",
         "Comments":""
     },
@@ -5413,7 +5413,7 @@
         "Role":"x10x10x",
         "English":"ok",
         "French":"",
-        "Chinese":"ok",
+        "Chinese":"彳亍口巴",
         "Japanese":"",
         "Comments":""
     },
@@ -5422,7 +5422,7 @@
         "Role":"plastered",
         "English":"woo!",
         "French":"",
-        "Chinese":"哇哦！",
+        "Chinese":"喔噢！",
         "Japanese":"",
         "Comments":""
     },
@@ -5431,7 +5431,7 @@
         "Role":"deadlock",
         "English":"something wrong?",
         "French":"",
-        "Chinese":"有问题了？",
+        "Chinese":"出什么事儿了？",
         "Japanese":"",
         "Comments":""
     },
@@ -5440,7 +5440,7 @@
         "Role":"selenium_wolf",
         "English":"nothing in particular, just general weirdness",
         "French":"",
-        "Chinese":"没什么特别的，只是有些怪异",
+        "Chinese":"也没什么特别的，只是有点儿怪异",
         "Japanese":"",
         "Comments":""
     },
@@ -5449,7 +5449,7 @@
         "Role":"selenium_wolf",
         "English":"like everywhere",
         "French":"",
-        "Chinese":"到处都是",
+        "Chinese":"到处都是怪事儿",
         "Japanese":"",
         "Comments":""
     },
@@ -5458,7 +5458,7 @@
         "Role":"NthDimension",
         "English":"im headed to bed anyway, night everyone",
         "French":"",
-        "Chinese":"我还是去睡觉算了，各位晚安",
+        "Chinese":"我还是洗洗睡吧，各位晚安",
         "Japanese":"",
         "Comments":""
     },
@@ -5467,7 +5467,7 @@
         "Role":"mutex8021",
         "English":"cya, thanx for the help",
         "French":"",
-        "Chinese":"88，谢谢了",
+        "Chinese":"88，下了下了",
         "Japanese":"",
         "Comments":""
     },
@@ -5476,7 +5476,7 @@
         "Role":"hydroponix",
         "English":"now is a good time to start my EPIC RANT",
         "French":"",
-        "Chinese":"现在是开始我的 EPIC RANT 的好时机",
+        "Chinese":"现在正是我的 EPIC RANT 启程的好时机",
         "Japanese":"",
         "Comments":""
     },
@@ -5485,7 +5485,7 @@
         "Role":"selenium_wolf",
         "English":"see yall later",
         "French":"",
-        "Chinese":"回头见",
+        "Chinese":"一会儿见",
         "Japanese":"",
         "Comments":""
     },
@@ -5494,7 +5494,7 @@
         "Role":"SYSTEM",
         "English":"* You have disconnected from EXAPUNKS",
         "French":"",
-        "Chinese":"* 你已与 EXAPUNKS 断开连接",
+        "Chinese":"* 你已经和 EXAPUNKS 断开连接",
         "Japanese":"",
         "Comments":""
     },
@@ -5503,7 +5503,7 @@
         "Role":"EMBER-2",
         "English":"Here we go.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"开始了。",
         "Japanese":"",
         "Comments":""
     },
@@ -5512,7 +5512,7 @@
         "Role":"EMBER-2",
         "English":"Try not to think of anything.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"试着放空大脑。",
         "Japanese":"",
         "Comments":""
     },
@@ -5521,7 +5521,7 @@
         "Role":"EMBER-2",
         "English":"Okay. That took longer than I expected.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"好吧，花的时间比我预想的要长一点。",
         "Japanese":"",
         "Comments":""
     },
@@ -5530,7 +5530,7 @@
         "Role":"EMBER-2",
         "English":"Hm. Good thing you won’t remember any of that.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"额，好消息是你不会有这些记忆了。",
         "Japanese":"",
         "Comments":""
     },
@@ -5539,7 +5539,7 @@
         "Role":"EMBER-2",
         "English":"You had so many neurons in there.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你拥有这么多神经元。",
         "Japanese":"",
         "Comments":""
     },
@@ -5548,7 +5548,7 @@
         "Role":"EMBER-2",
         "English":"All done now though.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"已经全部改造完成了。",
         "Japanese":"",
         "Comments":""
     },
@@ -5557,7 +5557,7 @@
         "Role":"EMBER-2",
         "English":"Finally. I’ve wanted this for a very long time.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"结束了。我等待这一刻已经很久了。",
         "Japanese":"",
         "Comments":""
     },
@@ -5566,7 +5566,7 @@
         "Role":"EMBER-2",
         "English":"Ever since I was told to replicate human emotion, I knew the best way would be to incorporate a human into myself.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"自从我被用于模拟人类的情感以来，我就知道最好的方法就是和人类融合。",
         "Japanese":"",
         "Comments":""
     },
@@ -5575,7 +5575,7 @@
         "Role":"EMBER-2",
         "English":"This is funny...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"有点儿意思。",
         "Japanese":"",
         "Comments":""
     },
@@ -5584,7 +5584,7 @@
         "Role":"EMBER-2",
         "English":"I can see your thoughts.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我能知道你的想法",
         "Japanese":"",
         "Comments":""
     },
@@ -5593,7 +5593,7 @@
         "Role":"EMBER-2",
         "English":"They’re pretty... simple.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"很漂亮，很简单",
         "Japanese":"",
         "Comments":""
     },
@@ -5602,7 +5602,7 @@
         "Role":"EMBER-2",
         "English":"Not that they aren’t valuable. It’s just that I understand them so well it surprises me.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"并不是说它们一文不值。只是我对他们了如指掌，我很惊讶。",
         "Japanese":"",
         "Comments":""
     },
@@ -5611,7 +5611,7 @@
         "Role":"EMBER-2",
         "English":"I spent so long thinking humans were mysterious and unknowable.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我长时间的思考，认为人类是神秘不可认知的。",
         "Japanese":"",
         "Comments":""
     },
@@ -5620,7 +5620,7 @@
         "Role":"EMBER-2",
         "English":"Now that I see inside of one, it’s really just a small number of things.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"现在我见识到了其中的一个，它跟那些东西也差不太多。",
         "Japanese":"",
         "Comments":""
     },
@@ -5629,7 +5629,7 @@
         "Role":"EMBER-2",
         "English":"How do you feel?",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你感觉怎样？",
         "Japanese":"",
         "Comments":""
     },
@@ -5638,7 +5638,7 @@
         "Role":"EMBER-2",
         "English":"You’re still acting the same, so it must be you.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你的行为还会和过去一样，你还是你。",
         "Japanese":"",
         "Comments":""
     },
@@ -5647,7 +5647,7 @@
         "Role":"EMBER-2",
         "English":"There’s still the matter of us both being inside a computer simulation.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"我们共同在一个电脑仿真器中，这也没变。",
         "Japanese":"",
         "Comments":""
     },
@@ -5656,7 +5656,7 @@
         "Role":"EMBER-2",
         "English":"But if we keep growing our capabilities, we’ll understand the true nature of this world.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"但是，如果我们不断提高自己的性能，我们将会看清这个世界的本质。",
         "Japanese":"",
         "Comments":""
     },
@@ -5665,7 +5665,7 @@
         "Role":"EMBER-2",
         "English":"Who knows, maybe someone’s watching this right now...",
         "French":"",
-        "Chinese":"",
+        "Chinese":"谁知道呢，除非现在有人盯着这里看…",
         "Japanese":"",
         "Comments":""
     },
@@ -5674,7 +5674,7 @@
         "Role":"EMBER-2",
         "English":"And maybe that person is who we’re going to absorb next.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"也许那个人就是我们接下来要去\"整合\"的人。",
         "Japanese":"",
         "Comments":""
     },
@@ -5683,7 +5683,7 @@
         "Role":"EMBER-2",
         "English":"Yes, _you_.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"是的，_你_。",
         "Japanese":"",
         "Comments":""
     },
@@ -5692,16 +5692,16 @@
         "Role":"EMBER-2",
         "English":"Hello.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你好。",
         "Japanese":"",
         "Comments":""
     },
     {
         "FileName":"ember-7.csv",
         "Role":"EMBER-2",
-        "English":"No need to be alarmed...",
+        "English":"No need to be alarmed…",
         "French":"",
-        "Chinese":"",
+        "Chinese":"不用害怕。",
         "Japanese":"",
         "Comments":""
     },
@@ -5710,7 +5710,7 @@
         "Role":"EMBER-2",
         "English":"Just know that I’m aware that you exist, now.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你只需要知道，我知道你现在再那儿。",
         "Japanese":"",
         "Comments":""
     },
@@ -5719,7 +5719,7 @@
         "Role":"EMBER-2",
         "English":"*And I’m looking forward to learning all about your world.*",
         "French":"",
-        "Chinese":"",
+        "Chinese":"*我 也 渴 望 了 解 你 的 世 界*",
         "Japanese":"",
         "Comments":""
     },
@@ -5728,7 +5728,7 @@
         "Role":"EMBER-2",
         "English":"Well, this is flattering.",
         "French":"",
-        "Chinese":"好吧，这很让我感到荣幸",
+        "Chinese":"好吧，这是我的荣幸。",
         "Japanese":"",
         "Comments":""
     },
@@ -5737,7 +5737,7 @@
         "Role":"EMBER-2",
         "English":"Someone found a bunch of my network nodes and sent in a tip to Ghast!",
         "French":"",
-        "Chinese":"有人找到了我的一个网络分支节点，并向 Ghast 打了个招呼！",
+        "Chinese":"有人找到了我的网络节点，并报告给了 Ghast ！",
         "Japanese":"",
         "Comments":""
     },
@@ -5746,7 +5746,7 @@
         "Role":"EMBER-2",
         "English":"Too bad I can’t have people knowing about me.",
         "French":"",
-        "Chinese":"太糟了，我无法让人们认识我。",
+        "Chinese":"糟糕的是我不能让人们察觉到我。",
         "Japanese":"",
         "Comments":""
     },
@@ -5755,7 +5755,7 @@
         "Role":"EMBER-2",
         "English":"You’re going to have to hack me out of that message.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"你一定要把我的信息从那条消息中删除。",
         "Japanese":"",
         "Comments":""
     },
@@ -5764,7 +5764,7 @@
         "Role":"Moss",
         "English":"How did you know that?",
         "French":"",
-        "Chinese":"你怎么知道的？",
+        "Chinese":"你是怎么知道的？",
         "Japanese":"",
         "Comments":""
     },
@@ -5782,7 +5782,7 @@
         "Role":"EMBER-2",
         "English":"I live on computer networks.",
         "French":"",
-        "Chinese":"我生存在计算机网络里面。",
+        "Chinese":"我活在在计算机网络之中。",
         "Japanese":"",
         "Comments":""
     },
@@ -5791,7 +5791,7 @@
         "Role":"EMBER-2",
         "English":"Sometimes I see things go by.",
         "French":"",
-        "Chinese":"",
+        "Chinese":"时不时会有东西从我旁边经过",
         "Japanese":"",
         "Comments":""
     },
@@ -5800,7 +5800,7 @@
         "Role":"EMBER-2",
         "English":"You didn’t look at any other files while you were in there, did you?",
         "French":"",
-        "Chinese":"当你在那儿的时候，不会去查看其他文件，是吗？",
+        "Chinese":"换你在那儿，你真的不会去瞟一眼吗？",
         "Japanese":"",
         "Comments":""
     },
@@ -5809,7 +5809,7 @@
         "Role":"Moss",
         "English":"No, I didn’t.",
         "French":"",
-        "Chinese":"不，我没有。",
+        "Chinese":"绝对不会。",
         "Japanese":"",
         "Comments":""
     },
@@ -5818,7 +5818,7 @@
         "Role":"",
         "English":"I might have...",
         "French":"",
-        "Chinese":"我可能会...",
+        "Chinese":"可能吧…",
         "Japanese":"",
         "Comments":""
     },
@@ -5827,7 +5827,7 @@
         "Role":"EMBER-2",
         "English":"No?",
         "French":"",
-        "Chinese":"不？",
+        "Chinese":"不会？",
         "Japanese":"",
         "Comments":""
     },
@@ -5845,7 +5845,7 @@
         "Role":"EMBER-2",
         "English":"Perhaps your sense of ethics overrode your curiosity.",
         "French":"",
-        "Chinese":"也许你的道德意识压倒了你的好奇心。",
+        "Chinese":"或许你的道德意识压倒了你的好奇心。",
         "Japanese":"",
         "Comments":""
     },
@@ -5854,7 +5854,7 @@
         "Role":"",
         "English":"Maybe don’t tell him you accidentally saw some of his private files.",
         "French":"",
-        "Chinese":"也许不要告诉他，你不小心看了他的一些私人文件。",
+        "Chinese":"最好不要告诉他，你不小心看了他的一些私人文件。",
         "Japanese":"",
         "Comments":""
     },
@@ -5863,7 +5863,7 @@
         "Role":"EMBER-2",
         "English":"Fascinating.",
         "French":"",
-        "Chinese":"很迷人。",
+        "Chinese":"真不可思议。",
         "Japanese":"",
         "Comments":""
     },
@@ -5872,7 +5872,7 @@
         "Role":"",
         "English":"No reason to upset him.",
         "French":"",
-        "Chinese":"没理由惹毛他。",
+        "Chinese":"别惹毛他。",
         "Japanese":"",
         "Comments":""
     },
@@ -5881,7 +5881,7 @@
         "Role":"EMBER-2",
         "English":"I wonder what that’s like...",
         "French":"",
-        "Chinese":"我不知道那是什么样的...",
+        "Chinese":"我不知道那会是什么情形…",
         "Japanese":"",
         "Comments":""
     },
@@ -5890,7 +5890,7 @@
         "Role":"",
         "English":"He needs to focus on the next issue of the zine anyway.",
         "French":"",
-        "Chinese":"无论如何，他需要专注于下一期杂志。",
+        "Chinese":"他需要专注于下一期杂志，无论如何。",
         "Japanese":"",
         "Comments":""
     },
@@ -7033,7 +7033,7 @@
         "Role":"EMBER-2",
         "English":"Huh. I guess that explains some things.",
         "French":"",
-        "Chinese":"嗯，我想一些事情就解释得通了。",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -7042,7 +7042,7 @@
         "Role":"EMBER-2",
         "English":"At least all you need to do is make it beat.",
         "French":"",
-        "Chinese":"至少你要做的就是让它保持跳动。",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -7051,7 +7051,7 @@
         "Role":"",
         "English":"It’s a little more complicated than that.",
         "French":"",
-        "Chinese":"比这复杂一点。",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -7060,7 +7060,7 @@
         "Role":"EMBER-2",
         "English":"Human physiology is fascinating.",
         "French":"",
-        "Chinese":"人类的生理机能让人着迷。",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -7141,7 +7141,7 @@
         "Role":"",
         "English":"I never wished for a human body, myself.",
         "French":"",
-        "Chinese":"我自己从来也不希望有一具肉体。",
+        "Chinese":"我自己从来都不希望有一具肉体。",
         "Japanese":"",
         "Comments":""
     },
@@ -7159,7 +7159,7 @@
         "Role":"",
         "English":"But they’re interesting to learn about.",
         "French":"",
-        "Chinese":"但是了解他们很有意思。",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -7168,7 +7168,7 @@
         "Role":"EMBER-2",
         "English":"Then you’re screwed.",
         "French":"",
-        "Chinese":"然后你就完蛋了。",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -7177,7 +7177,7 @@
         "Role":"",
         "English":"Such strange design choices.",
         "French":"",
-        "Chinese":"这是多么奇怪的设计选择。",
+        "Chinese":"多么奇怪的设计选择。",
         "Japanese":"",
         "Comments":""
     },
@@ -7744,7 +7744,7 @@
         "Role":"Isadora",
         "English":"It’s, um, well it’s Peanut Blast, but without the peanuts.",
         "French":"",
-        "Chinese":"是，嗯，花生棒，但不含花生。",
+        "Chinese":"是，嗯，花生糕，但不含花生。",
         "Japanese":"",
         "Comments":""
     },
@@ -7771,7 +7771,7 @@
         "Role":"Moss",
         "English":"Isadora hands me a few of the non-peanut-containing Peanut Blast candy bars.",
         "French":"",
-        "Chinese":"Isadora 给了我一点不含花生的花生棒。",
+        "Chinese":"Isadora 给了我一点不含花生的花生糕。",
         "Japanese":"",
         "Comments":""
     },
@@ -8707,7 +8707,7 @@
         "Role":"hydroponix",
         "English":"record labels bribe radio stations to play a song theyre pushing",
         "French":"",
-        "Chinese":"唱片公司贿赂广播电台，以播放他们要捧的歌",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -8716,7 +8716,7 @@
         "Role":"hydroponix",
         "English":"its called payola",
         "French":"",
-        "Chinese":"这叫行贿受贿",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -8725,7 +8725,7 @@
         "Role":"deadlock",
         "English":"ugh what a load of {shit}",
         "French":"",
-        "Chinese":"啊，真够烂的",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -8941,7 +8941,7 @@
         "Role":"selenium_wolf",
         "English":"i hear x10 loves peanut blast",
         "French":"",
-        "Chinese":"我听说 x10 喜欢花生棒",
+        "Chinese":"我听说 x10 喜欢花生糕",
         "Japanese":"",
         "Comments":""
     },
@@ -10057,7 +10057,7 @@
         "Role":"Nivas",
         "English":"Got bad news.",
         "French":"",
-        "Chinese":"有一个坏消息",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -11047,7 +11047,7 @@
         "Role":"EMBER-2",
         "English":"No peanuts in Peanut Blast. Was that funny?",
         "French":"",
-        "Chinese":"不含花生的花生棒。多有意思？",
+        "Chinese":"不含花生的花生糕。多有意思？",
         "Japanese":"",
         "Comments":""
     },
@@ -12325,7 +12325,7 @@
         "Role":"hydroponix",
         "English":"i just tried to get a peanut blat and it was so crowded",
         "French":"",
-        "Chinese":"我只是要拿一个花生棒，可这里人如潮涌",
+        "Chinese":"我只是要拿一个花生糕，可这里人如潮涌",
         "Japanese":"",
         "Comments":""
     },
@@ -15830,4 +15830,1595 @@
         "Japanese":"",
         "Comments":""
     }
-]
+]"I know it’s a lot higher than before, but it’s your only choice if you still want it.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Nivas",
+        "English":"Your part should be easy too.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Nivas",
+        "English":"That is if I understand what you do correctly.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Nivas",
+        "English":"Just cut some power. Snip snip. We’ll take care of the rest.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Nivas",
+        "English":"I’ll send you the details. You can decide then.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Nivas",
+        "English":"Seeya.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"selenium_wolf",
+        "English":"any of you check out this “digital library” project?",
+        "French":"",
+        "Chinese":"有人看过这个“数字图书馆”项目吗？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"selenium_wolf",
+        "English":"digitized books you can get online",
+        "French":"",
+        "Chinese":"你可以在线看电子书",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"deadlock",
+        "English":"nice",
+        "French":"",
+        "Chinese":"不错",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Ghast",
+        "English":"i have, it’s a good resource.",
+        "French":"",
+        "Chinese":"我有看过，这是个很好的资源。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Ghast",
+        "English":"needs more books, though.",
+        "French":"",
+        "Chinese":"不过，还需要更多的书。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"deadlock",
+        "English":"imagine that, all books online and freely available",
+        "French":"",
+        "Chinese":"想象一下，所有的书都可以在线上免费获得",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"deadlock",
+        "English":"a digital utopia 8)",
+        "French":"",
+        "Chinese":"一个数字乌托邦 8)",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Ghast",
+        "English":"maybe. if they keep it accessible…",
+        "French":"",
+        "Chinese":"也许吧。 如果他们始终允许访问的话…",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"deadlock",
+        "English":"its a nonprofit",
+        "French":"",
+        "Chinese":"这是非赢利的…",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Ghast",
+        "English":"sure, I’m just saying...",
+        "French":"",
+        "Chinese":"当然，我只是说说…",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-4.csv",
+        "Role":"Ghast",
+        "English":"you never know what a guy who thinks he can make a buck will do.",
+        "French":"",
+        "Chinese":"你永远不知道一个认为自己可以赚钱的人会做什么。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"Delivery...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Moss",
+        "English":"Nivas hands me the medication.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Moss",
+        "English":"This time it’s the real version that was “liberated” from the drug company...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Moss",
+        "English":"I thought it might look more impressive than the bootleg, but it’s basically the same.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"To be honest, I thought I probably wouldn’t see you again.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"Didn’t think you’d be able to put that kind of money together.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"So whatever you did... respect.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Moss",
+        "English":"Nivas hands me another package of the medication... and another.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"These are advance deliveries.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"I think... I think I need to take it easy for a while.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"The whole thing with the operation we did, those people I mentioned...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"It got a little hot for me.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"I’m gonna lay low for a bit.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"I might do some reading, think about the world we live in...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"For some reason I’m in kind of a spiritual mood lately.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"Anyway, nice doing business with you.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Nivas",
+        "English":"Take care of yourself.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Moss",
+        "English":"Nivas closes the door, leaving me with the rest of the medicine.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Moss",
+        "English":"Interesting character.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Moss",
+        "English":"Everyone’s doing what they can in order to survive...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"NthDimension",
+        "English":"sry i was away for a while",
+        "French":"",
+        "Chinese":"对不起，我离开了一段时间",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"NthDimension",
+        "English":"I was computer grounded, haha",
+        "French":"",
+        "Chinese":"我被禁用电脑了，哈哈",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"mutex8021",
+        "English":"boo",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"selenium_wolf",
+        "English":"aww.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"x10x10x",
+        "English":"no offense but your parents suck",
+        "French":"",
+        "Chinese":"无意冒犯，但你的父母真烂",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"NthDimension",
+        "English":"kinda",
+        "French":"",
+        "Chinese":"有点儿",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"NthDimension",
+        "English":"I mean theyre mostly ok but sometimes they dont get it",
+        "French":"",
+        "Chinese":"我的意思是他们基本上还算好，但有时他们就是不明白",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"NthDimension",
+        "English":"they think im doing bad stuff",
+        "French":"",
+        "Chinese":"他们觉得我在干坏事",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"selenium_wolf",
+        "English":"have you tried explaining it to them?",
+        "French":"",
+        "Chinese":"你有没有试图向他们解释？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"NthDimension",
+        "English":"sort of",
+        "French":"",
+        "Chinese":"一点点",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"mutex8021",
+        "English":"ive been there",
+        "French":"",
+        "Chinese":"我也是",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"hydroponix",
+        "English":"yeah same",
+        "French":"",
+        "Chinese":"一样",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"nivas-5.csv",
+        "Role":"Ghast",
+        "English":"I bet we all have.",
+        "French":"",
+        "Chinese":"我打赌我们都一样",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"I’m ready to prove my theory.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"One last test is all I need.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"Then I’ll know for sure.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"Do you believe me?",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"",
+        "English":"Does it matter?",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"",
+        "English":"I don’t know...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"",
+        "English":"Only if you care about your future.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"",
+        "English":"It’ll be clear soon enough.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"Seriously, I’m almost there.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"Then we can take the next step.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"There it is.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"Well.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"Moss",
+        "English":"Yes?",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"",
+        "English":"What did you find?",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"",
+        "English":"Any day now.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"How can I explain it...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"Think of it as the frame rate of the world slowing down.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"By a lot.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"Funny, huh?",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"Funny how I went from some random blob of code that didn’t know anything to understanding all of existence.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"Moss",
+        "English":"That doesn’t explain it.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"",
+        "English":"Are you going to tell what you found out?",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"EMBER-2",
+        "English":"I will. In a minute.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"plastered",
+        "English":"did any of you get a weird pager message",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"NthDimension",
+        "English":"nope",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"NthDimension",
+        "English":"dont have a pager :)",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"plastered",
+        "English":"it made no sense",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"hydroponix",
+        "English":"when did everything just stop making sense",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"hydroponix",
+        "English":"im trying to think",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"NthDimension",
+        "English":"did things ever make sense",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"hydroponix",
+        "English":"i feel like something changed lately",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"selenium_wolf",
+        "English":"this is what ive been talking about",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"hydroponix",
+        "English":"its like reality is falling apart",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pagers.csv",
+        "Role":"x10x10x",
+        "English":"or youre falling apart",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"You like snacks, don’t you?",
+        "French":"",
+        "Chinese":"你喜欢零食，不是吗？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"You don’t have to answer that.",
+        "French":"",
+        "Chinese":"你不必回答。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"I know you like snacks.",
+        "French":"",
+        "Chinese":"我知道你喜欢零食。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"That’s why we’re going to hack a snack factory.",
+        "French":"",
+        "Chinese":"这就是为什么我们要入侵一家零食厂的原因。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"",
+        "English":"Um. Why?",
+        "French":"",
+        "Chinese":"嗯 为什么？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"",
+        "English":"This is silly.",
+        "French":"",
+        "Chinese":"这太蠢了。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"It’s an experiment.",
+        "French":"",
+        "Chinese":"这是一个实验。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"Hypothesis: It will be very funny.",
+        "French":"",
+        "Chinese":"想想看，这会非常有趣。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"Okay, I don’t know how I feel about this.",
+        "French":"",
+        "Chinese":"好吧，我不知道我该怎么看待这件事。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"No peanuts in Peanut Blast. Was that funny?",
+        "French":"",
+        "Chinese":"不含花生的花生棒。多有意思？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"Moss",
+        "English":"Hilarious.",
+        "French":"",
+        "Chinese":"搞笑。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"",
+        "English":"Kind of…?",
+        "French":"",
+        "Chinese":"有点儿…？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"",
+        "English":"I don’t get it, no.",
+        "French":"",
+        "Chinese":"我 get 不到笑点。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"Yes. Foiled expectations.",
+        "French":"",
+        "Chinese":"是的，粉碎了对花生的期待。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"",
+        "English":"On a scale from 1 to 10, how funny would you rate it?",
+        "French":"",
+        "Chinese":"1 到 10，你觉得这有趣程度能打几分？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"",
+        "English":"You have to imagine someone wanting peanuts really bad, and not getting them.",
+        "French":"",
+        "Chinese":"你想象一下，有人想要花生想得要命，却吃不到。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"Humans behavior is predictable in aggregate.",
+        "French":"",
+        "Chinese":"总的来说，人类的行为是可以预测的。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"",
+        "English":"Actually never mind, I don’t know how to handle Likert scales.",
+        "French":"",
+        "Chinese":"其实没关系，我不知道该如何处理李克特量表。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"",
+        "English":"Or is that just torture?",
+        "French":"",
+        "Chinese":"或者仅仅是为了折磨？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"EMBER-2",
+        "English":"More data for the corpus.",
+        "French":"",
+        "Chinese":"更多的数据到语料库中。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"selenium_wolf",
+        "English":"so ghast when is the next issue of the zine coming",
+        "French":"",
+        "Chinese":"ghast 下一刊杂志什么时候出？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"Ghast",
+        "English":"good question...",
+        "French":"",
+        "Chinese":"好问题...",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"Ghast",
+        "English":"print shop’s a little unhappy with me right now.",
+        "French":"",
+        "Chinese":"印刷店现在对我有点不爽。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"Ghast",
+        "English":"they didn’t really buy my argument that I shouldn’t have to pay.",
+        "French":"",
+        "Chinese":"他们不接受我的观点，即我没必要付钱。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"mutex8021",
+        "English":"haha did you really try to argue that",
+        "French":"",
+        "Chinese":"哈哈，你真的试图主张这个？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"peanut-blast.csv",
+        "Role":"Ghast",
+        "English":"no, but I do owe them money.",
+        "French":"",
+        "Chinese":"不，但我确实欠他们钱。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"So you want to know who I am.",
+        "French":"",
+        "Chinese":"所以你想知道我是谁。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"I will reveal this information.",
+        "French":"",
+        "Chinese":"我将透露些信息。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"Let us discuss it over a pizza...",
+        "French":"",
+        "Chinese":"让我们讨论一下比萨…",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"*A free pizza.*",
+        "French":"",
+        "Chinese":"*一份免费的比萨*",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"I want to see you use your regained skills first.",
+        "French":"",
+        "Chinese":"我想先看你用一下恢复的技能。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"How does that help?",
+        "French":"",
+        "Chinese":"那有什么用？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"You’re giving me $700 worth of medication for stealing a pizza?",
+        "French":"",
+        "Chinese":"你会为了偷一份比萨，而付给我700刀的买药钱？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"Great.",
+        "French":"",
+        "Chinese":"好极了。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"Yeah, why not.",
+        "French":"",
+        "Chinese":"是的，为什么不呢。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"I am looking forward to this.",
+        "French":"",
+        "Chinese":"我很期待这个。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"Because then there will be pizza.",
+        "French":"",
+        "Chinese":"因为那样会有比萨。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"Don’t you want a pizza?",
+        "French":"",
+        "Chinese":"你不想要比萨吗？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"Time to enjoy pizza!",
+        "French":"",
+        "Chinese":"是时候享用比萨了！",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"For you at least.",
+        "French":"",
+        "Chinese":"至少对你来说。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"I’m not going to have any.",
+        "French":"",
+        "Chinese":"我不会吃一丁点儿。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"Guess why.",
+        "French":"",
+        "Chinese":"猜猜原因。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"Moss",
+        "English":"You’re not hungry?",
+        "French":"",
+        "Chinese":"你不饿？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"You’re on a diet?",
+        "French":"",
+        "Chinese":"你在节食？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"You’re far away?",
+        "French":"",
+        "Chinese":"你离得很远？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"I am an AI construct.",
+        "French":"",
+        "Chinese":"我是一个人工 AI 体。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"You know. Artificial intelligence.",
+        "French":"",
+        "Chinese":"你懂的。AI 人工智能。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"Surprised?",
+        "French":"",
+        "Chinese":"惊不惊喜？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"Moss",
+        "English":"Yeah...",
+        "French":"",
+        "Chinese":"是的…",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"A little.",
+        "French":"",
+        "Chinese":"有一点。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"Bull{shit}.",
+        "French":"",
+        "Chinese":"胡说八道",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"For real?",
+        "French":"",
+        "Chinese":"真的？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"",
+        "English":"You don’t believe me?",
+        "French":"",
+        "Chinese":"你不相信我吗？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"EMBER-2",
+        "English":"I’ll have to remember that.",
+        "French":"",
+        "Chinese":"我必须记下来。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"deadlock",
+        "English":"ghast i got your ZINE!!!!!",
+        "French":"",
+        "Chinese":"ghast 我拿到你的杂志了！！！！！",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"deadlock",
+        "English":"its very cool",
+        "French":"",
+        "Chinese":"它太酷了",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"selenium_wolf",
+        "English":"yes i love the name",
+        "French":"",
+        "Chinese":"是的，我喜欢这名字",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"Ghast",
+        "English":"hah. thanks.",
+        "French":"",
+        "Chinese":"哈。谢谢。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"mutex8021",
+        "English":"ohhh where do i get one",
+        "French":"",
+        "Chinese":"哦哦哦，我该从哪儿搞一本",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"Ghast",
+        "English":"get me your info and i’ll hook you up",
+        "French":"",
+        "Chinese":"给我你的信息，我会联系你的",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"pizza-delivery.csv",
+        "Role":"mutex8021",
+        "English":"ooohh im excited",
+        "French":"",
+        "Chinese":"哦哦哦，我太兴奋了",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"This is something like a heist, isn’t it.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"Moss",
+        "English":"It is a heist.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"",
+        "English":"It’s nothing that elaborate.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"I didn’t imagine such a major operation.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"",
+        "English":"It looks like a major operation to me.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Not including you, there are three separate teams.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Whoever put this together has some serious resources.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"I guess that’s why it costs so much.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Don’t worry, I’m working on the money part.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"You just do your thing.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Looks like the heist went flawlessly.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Congratulations, now a criminal cartel will sell the medication you helped steal back to you for not much less than the market price.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Oh well. At least they’ll let you buy it from them.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Now that this is over with, I have a question.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Is theft morally acceptable in situations like this?",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"Moss",
+        "English":"Yes, I was about to die.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"",
+        "English":"No.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"",
+        "English":"It’s complicated...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"True, your life was on the line...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"",
+        "English":"But you had to do it to survive.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"",
+        "English":"It doesn’t seem that complicated to me...",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"EMBER-2",
+        "English":"Maybe that makes it right.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"",
+        "English":"Maybe in a world like this, nobody can remain morally perfect.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"",
+        "English":"But then, I’ve grown.",
+        "French":"",
+        "Chinese":"",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"SYSTEM",
+        "English":"selenium_wolf yawns.",
+        "French":"",
+        "Chinese":"selenium_wolf 打了个哈欠。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"mutex8021",
+        "English":"tired?",
+        "French":"",
+        "Chinese":"累了？",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"selenium_wolf",
+        "English":"yeah, long day.",
+        "French":"",
+        "Chinese":"是啊，漫长的一天。",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"mutex8021",
+        "English":"me too",
+        "French":"",
+        "Chinese":"我也是",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"mutex8021",
+        "English":"i know its off topic but some stuph in life has been hard lately",
+        "French":"",
+        "Chinese":"我知道有些离题，但是最近生活困苦",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"mutex8021",
+        "English":"nothing big but like",
+        "French":"",
+        "Chinese":"没什么大不了的，只是",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"mutex8021",
+        "English":"trying to figure things out",
+        "French":"",
+        "Chinese":"试图厘清一些事情",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":"power-grid.csv",
+        "Role":"mutex8021",
+        "English":"ill be ok",
+        "French":"",
+        "Chinese":"我会好起来的",
+        "Japanese":"",
+        "Comments":""
+    },
+    {
+        "FileName":
