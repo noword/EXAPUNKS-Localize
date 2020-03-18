@@ -1444,7 +1444,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"尼瓦斯",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -4306,7 +4306,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"终点站：零食网络",
+        "Chinese":"",
         "Japanese":"",
         "Comments":""
     },
@@ -4333,7 +4333,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"让零食工厂生产不含花生的花生棒。",
+        "Chinese":"让 Last Stop 工厂生产不含花生的花生棒。",
         "Japanese":"",
         "Comments":""
     },
@@ -4378,7 +4378,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"消除 Ghast 在打印店里的欠款。",
+        "Chinese":"消除 Ghast 在打印店里的欠款记录。",
         "Japanese":"",
         "Comments":""
     },
@@ -4522,7 +4522,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"一切未知",
+        "Chinese":"网线另一头会有啥呢",
         "Japanese":"",
         "Comments":""
     },
@@ -5170,7 +5170,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"Sawayama 的神奇光驱",
+        "Chinese":"Sawayama WonderDisc",
         "Japanese":"",
         "Comments":""
     },
@@ -5179,7 +5179,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"光驱控制器",
+        "Chinese":"驱动控制器",
         "Japanese":"",
         "Comments":""
     },
@@ -5350,7 +5350,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"极限棒球联盟",
+        "Chinese":"Xtreme 棒球联盟",
         "Japanese":"",
         "Comments":""
     },
@@ -5395,7 +5395,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"国王的赎金 OL",
+        "Chinese":"国王的救赎 OL",
         "Japanese":"",
         "Comments":""
     },
@@ -5665,7 +5665,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"秘密地破坏 终点站 的铀离心机。",
+        "Chinese":"秘密地破坏 Last Stop 的铀离心机。",
         "Japanese":"",
         "Comments":""
     },
@@ -5719,7 +5719,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"和你的老朋友聊聊过去和将来。",
+        "Chinese":"和你的老朋友聊聊过去和未来。",
         "Japanese":"",
         "Comments":""
     },
@@ -6241,7 +6241,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"Wardialer 程序",
         "Japanese":"",
         "Comments":""
     },
@@ -6250,7 +6250,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"和 =plastered 一起制作一个能用的 Wardialer 程序。[1997]",
         "Japanese":"",
         "Comments":""
     },
@@ -6268,7 +6268,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"Española Valley 高中",
         "Japanese":"",
         "Comments":""
     },
@@ -6277,7 +6277,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"教务系统",
         "Japanese":"",
         "Comments":""
     },
@@ -6295,7 +6295,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"修改 selenium_wolf 的儿子的课表，让他能够上 AP 英语课。[1998]",
         "Japanese":"",
         "Comments":""
     },
@@ -6322,7 +6322,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"个人储存阵列",
         "Japanese":"",
         "Comments":""
     },
@@ -6331,7 +6331,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"从不正常工作的硬盘阵列中恢复 x10x10x 的漫画收藏。[1998]",
         "Japanese":"",
         "Comments":""
     },
@@ -6349,7 +6349,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"CrystalAir 国际航班",
         "Japanese":"",
         "Comments":""
     },
@@ -6358,7 +6358,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"票务系统",
         "Japanese":"",
         "Comments":""
     },
@@ -6376,7 +6376,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"帮助 deadlock 预定假期的机票。[1998]",
         "Japanese":"",
         "Comments":""
     },
@@ -6403,7 +6403,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"从电脑仿真器中逃离。[????]",
         "Japanese":"",
         "Comments":""
     },
@@ -18805,7 +18805,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"清除 Ghast 的账单。",
+        "Chinese":"消除 Ghast 的欠款。",
         "Japanese":"",
         "Comments":""
     },
