@@ -24,7 +24,7 @@ REGULAR_FONT = 'Source Han Sans'
 LIGHT_FONT = 'Source Han Sans Light'
 
 FONT_MAP = {
-    'mono': (MONO_FONT, 1.3, False),
+    'mono': (MONO_FONT, 1.2, False),
     'pixel': (MONO_FONT, 1.3, False),
     'karnivore': (REGULAR_FONT, 1.3, True),
     'impact': (REGULAR_FONT, 1.3, True),
