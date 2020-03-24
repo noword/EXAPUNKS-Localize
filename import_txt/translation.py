@@ -167,6 +167,9 @@ class Translation:
         self._df = df
         self.__process_dataframe()
 
+    def get_dataframe(self):
+        return self._df
+
     def set_data(self, data, columns):
         self.set_dataframe(pd.DataFrame(data, columns=columns, dtype=str))
 
