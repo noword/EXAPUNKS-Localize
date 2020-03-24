@@ -4,7 +4,7 @@ import os
 
 if __name__ == '__main__':
     chars = set('·’')
-    chars |= set([chr(i) for i in range(0x20, 0x7f)])
+    chars |= set([chr(i) for i in range(0x20, 0x100)])
     for root, dirs, files in os.walk('./'):
         for f in files:
             ext = os.path.splitext(f)[1].lower()
