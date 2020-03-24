@@ -18,12 +18,12 @@ if __name__ == '__main__':
     df = Translation(args.json_name[0]).get_dataframe()
     start_dropping = False
     for col in df.columns:
-        if start_dropping and col != args.translation[0]:
+        if start_dropping:
+            if col == args.translation[0]:
+                old_translation = df[args.translation[0]]
             df.drop(columns=[col], inplace=True)
         elif col == args.original[0]:
             start_dropping = True
-
-    old_translation = df[args.translation[0]]
 
     gr = GitRepository('./')
     commits = gr.get_commits_modified_file(args.json_name[0])
@@ -50,6 +50,7 @@ if __name__ == '__main__':
                 df[f'{date} {author}'] = new_translation
                 break
 
+    df[f'Current {args.translation[0]}'] = old_translation
     xlsx_name = os.path.splitext(args.json_name[0])[0] + '_history.xlsx'
     tr = Translation()
     tr.set_dataframe(df)
