@@ -976,7 +976,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的属性名称 {0} ",
         "Japanese":"",
         "Comments":""
     },
@@ -985,7 +985,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"意外错误 {0} {1}",
         "Japanese":"",
         "Comments":""
     },
@@ -994,7 +994,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"没有抓取文件",
         "Japanese":"",
         "Comments":""
     },
@@ -1003,7 +1003,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法抓取第二个文件",
         "Japanese":"",
         "Comments":""
     },
@@ -1012,7 +1012,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法删除此文件",
         "Japanese":"",
         "Comments":""
     },
@@ -1021,7 +1021,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法移动此文件",
         "Japanese":"",
         "Comments":""
     },
@@ -1030,7 +1030,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法在文件尾之后读取",
         "Japanese":"",
         "Comments":""
     },
@@ -1039,7 +1039,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"'无法在文件尾之后清除",
         "Japanese":"",
         "Comments":""
     },
@@ -1048,7 +1048,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法写入此文件",
         "Japanese":"",
         "Comments":""
     },
@@ -1057,7 +1057,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法清除此文件",
         "Japanese":"",
         "Comments":""
     },
@@ -1066,7 +1066,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"文件装满了",
         "Japanese":"",
         "Comments":""
     },
@@ -1075,7 +1075,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"文件 ID 不存在",
         "Japanese":"",
         "Comments":""
     },
@@ -1084,7 +1084,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"链路 ID 不存在",
         "Japanese":"",
         "Comments":""
     },
@@ -1093,7 +1093,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"操作的寄存器不存在",
         "Japanese":"",
         "Comments":""
     },
@@ -1102,7 +1102,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法读取只写寄存器",
         "Japanese":"",
         "Comments":""
     },
@@ -1111,7 +1111,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法写入只读寄存器",
         "Japanese":"",
         "Comments":""
     },
@@ -1120,7 +1120,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"指令参数只能为数字",
         "Japanese":"",
         "Comments":""
     },
@@ -1129,7 +1129,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法除以 0",
         "Japanese":"",
         "Comments":""
     },
@@ -1138,7 +1138,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"超出范围",
         "Japanese":"",
         "Comments":""
     },
@@ -1147,7 +1147,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"EXA 被终止",
         "Japanese":"",
         "Comments":""
     },
@@ -1156,7 +1156,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"执行完毕",
         "Japanese":"",
         "Comments":""
     },
@@ -1165,7 +1165,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"文件过多",
         "Japanese":"",
         "Comments":""
     },
@@ -1174,7 +1174,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"周期过多",
         "Japanese":"",
         "Comments":""
     },
@@ -1183,7 +1183,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"未知的主机类型",
         "Japanese":"",
         "Comments":""
     },
@@ -1192,7 +1192,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"计数不正确",
         "Japanese":"",
         "Comments":""
     },
@@ -1201,7 +1201,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"这本不该发生。",
         "Japanese":"",
         "Comments":""
     },
