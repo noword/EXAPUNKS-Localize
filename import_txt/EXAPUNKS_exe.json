@@ -841,7 +841,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"意料外的标记：{0}",
         "Japanese":"",
         "Comments":""
     },
@@ -904,7 +904,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"意料外的输入末尾",
         "Japanese":"",
         "Comments":""
     },
@@ -913,7 +913,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"意料外的数",
         "Japanese":"",
         "Comments":""
     },
@@ -922,7 +922,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"意料外的字符串",
         "Japanese":"",
         "Comments":""
     },
@@ -1039,7 +1039,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"'无法在文件尾之后清除",
+        "Chinese":"无法在文件尾之后清除",
         "Japanese":"",
         "Comments":""
     },
@@ -1057,7 +1057,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"无法清除此文件",
+        "Chinese":"无法在此文件中清除",
         "Japanese":"",
         "Comments":""
     },
@@ -1066,7 +1066,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"文件装满了",
+        "Chinese":"文件已满",
         "Japanese":"",
         "Comments":""
     },
@@ -1138,7 +1138,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"超出范围",
+        "Chinese":"无效的范围",
         "Japanese":"",
         "Comments":""
     },
@@ -6268,7 +6268,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"EspaÑola Valley 高中",
+        "Chinese":"Española Valley 高中",
         "Japanese":"",
         "Comments":""
     },
@@ -9634,7 +9634,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的标签名。",
         "Japanese":"",
         "Comments":""
     },
@@ -9643,7 +9643,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"标签未定义。",
         "Japanese":"",
         "Comments":""
     },
@@ -9652,7 +9652,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"标签重复定义。",
         "Japanese":"",
         "Comments":""
     },
@@ -9661,7 +9661,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的指令。",
         "Japanese":"",
         "Comments":""
     },
@@ -9670,7 +9670,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"参数过多。",
         "Japanese":"",
         "Comments":""
     },
@@ -9679,7 +9679,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"此处应为标签。",
         "Japanese":"",
         "Comments":""
     },
@@ -9688,7 +9688,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的数值。",
         "Japanese":"",
         "Comments":""
     },
@@ -9697,7 +9697,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"数值过小。",
         "Japanese":"",
         "Comments":""
     },
@@ -9706,7 +9706,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"数值过大。",
         "Japanese":"",
         "Comments":""
     },
@@ -9715,7 +9715,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的寄存器。",
         "Japanese":"",
         "Comments":""
     },
@@ -9724,7 +9724,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的硬件寄存器名。",
         "Japanese":"",
         "Comments":""
     },
@@ -9733,7 +9733,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"此处应为寄存器或数。",
         "Japanese":"",
         "Comments":""
     },
@@ -9742,7 +9742,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"此处应为条件。",
         "Japanese":"",
         "Comments":""
     },
@@ -9751,7 +9751,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"此处应为比较运算符。",
         "Japanese":"",
         "Comments":""
     },
@@ -9760,7 +9760,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"此处应为 F 或 M 寄存器。",
         "Japanese":"",
         "Comments":""
     },
@@ -9769,7 +9769,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的比较运算符。",
         "Japanese":"",
         "Comments":""
     },
@@ -9778,7 +9778,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"M 寄存器被使用了超过一次。",
         "Japanese":"",
         "Comments":""
     },
@@ -9787,7 +9787,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"超出大小限制。",
         "Japanese":"",
         "Comments":""
     },
@@ -9796,7 +9796,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"不能内嵌 @REP 指示。",
         "Japanese":"",
         "Comments":""
     },
@@ -9805,7 +9805,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"@END 指示必须在 @REP 之后。",
         "Japanese":"",
         "Comments":""
     },
@@ -9814,7 +9814,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"重复次数不能为负。",
         "Japanese":"",
         "Comments":""
     },
@@ -9823,7 +9823,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"语法错误。",
         "Japanese":"",
         "Comments":""
     },
@@ -9832,7 +9832,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"@REP 指示后没有 @END。",
         "Japanese":"",
         "Comments":""
     },
@@ -9841,7 +9841,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"RAND 指令在该任务中不可使用。",
         "Japanese":"",
         "Comments":""
     },
@@ -14395,7 +14395,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的文件图标。",
         "Japanese":"",
         "Comments":""
     },
@@ -16159,7 +16159,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":" 未定义",
         "Japanese":"",
         "Comments":""
     },
@@ -16726,7 +16726,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"传递到 {0}() 的参数过少。",
         "Japanese":"",
         "Comments":""
     },
@@ -16735,7 +16735,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"传递到 {0}() 的参数过多。",
         "Japanese":"",
         "Comments":""
     },
@@ -16753,7 +16753,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第一",
         "Japanese":"",
         "Comments":""
     },
@@ -16762,7 +16762,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第二",
         "Japanese":"",
         "Comments":""
     },
@@ -16771,7 +16771,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第三",
         "Japanese":"",
         "Comments":""
     },
@@ -16780,7 +16780,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第四",
         "Japanese":"",
         "Comments":""
     },
@@ -16789,7 +16789,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第五",
         "Japanese":"",
         "Comments":""
     },
@@ -16798,7 +16798,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第六",
         "Japanese":"",
         "Comments":""
     },
@@ -16807,7 +16807,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第七",
         "Japanese":"",
         "Comments":""
     },
@@ -16816,7 +16816,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第八",
         "Japanese":"",
         "Comments":""
     },
@@ -16825,7 +16825,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第九",
         "Japanese":"",
         "Comments":""
     },
@@ -16834,7 +16834,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"第十",
         "Japanese":"",
         "Comments":""
     },
@@ -16843,7 +16843,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"传递到 {1}() 的{0}个参数类型错误。",
         "Japanese":"",
         "Comments":""
     },
@@ -18283,7 +18283,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"该测试运行无效。",
         "Japanese":"",
         "Comments":""
     },
@@ -29632,7 +29632,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"重复的主机名：",
         "Japanese":"",
         "Comments":""
     },
@@ -29659,7 +29659,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无法创建链接。主机必须对齐并恰好间隔 2 个空格。",
         "Japanese":"",
         "Comments":""
     },
@@ -29686,7 +29686,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"无效的文件 ID；指定文件无法删除。",
         "Japanese":"",
         "Comments":""
     },
@@ -29722,7 +29722,7 @@
         "German":"",
         "French":"",
         "Russian":"",
-        "Chinese":"",
+        "Chinese":"模拟状态构造错误：",
         "Japanese":"",
         "Comments":""
     },
