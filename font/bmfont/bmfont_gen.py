@@ -57,14 +57,13 @@ class FontGenerator:
         ("invB", "0"),
         ("outlineThickness", "0"),))
 
-    icons = []
-
     def __init__(self, name=u"Arial Unicode MS", size=20, bold=False, italic=False):
         self.uuid = str(uuid.uuid4())
         self.set_font_name(name)
         self.set_font_size(size)
         self.set_font_bold(bold)
         self.set_font_italic(italic)
+        self.icons = []
 
     def Gen(self, texts, fix_height=True):
         self.set_chars(texts)
@@ -162,7 +161,7 @@ class FontGenerator:
         self.save_bmfc(open(bmfc_name, "w"))
         if os.path.exists(fnt_name):
             os.remove(fnt_name)
-        os.system("%s -c %s -o %s" % (BMFONT_COM, bmfc_name, fnt_name))
+        os.system('"%s" -c %s -o %s' % (BMFONT_COM, bmfc_name, fnt_name))
         fnt = Fnt(open(fnt_name, "r"))
         return fnt
 

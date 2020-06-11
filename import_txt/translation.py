@@ -75,9 +75,9 @@ class Translation:
     def save(self, name, index='English'):
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
-            self.save_excel(name)
+            self.save_excel(name, index)
         elif ext == '.json':
-            self.save_json(name)
+            self.save_json(name, index)
         else:
             raise TypeError(f'not support type: "{ext}"')
 
@@ -159,6 +159,7 @@ class Translation:
                 for i, cell in enumerate(row[1]):
                     if len(cell) == 0:
                         row[1][i] = row[0]
+        df.drop_duplicates([index], inplace=True)
         return df.to_dict('index')
 
     def set_dataframe(self, df, add_comments=True):

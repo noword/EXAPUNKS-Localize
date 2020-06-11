@@ -39,7 +39,7 @@ class InfoTxt(InfoBase):
         self.outline = _get_int(line, "outline")
 
     def save(self, io):
-        io.write('info face="%s" size=%d bold=%d italic=%d charset="%s" unicode=%d stretchH=%d smooth=%d aa=%d padding=%d,%d,%d,%d spacing=%d,%d outline=%d\r\n' % (
+        io.write('info face="%s" size=%d bold=%d italic=%d charset="%s" unicode=%d stretchH=%d smooth=%d aa=%d padding=%d,%d,%d,%d spacing=%d,%d outline=%d\n' % (
             self.face,
             self.size,
             self.bold,
@@ -74,7 +74,7 @@ class CommonTxt(CommonBase):
         self.blueChnl = _get_int(line, "blueChnl")
 
     def save(self, io):
-        io.write('common lineHeight=%d base=%d scaleW=%d scaleH=%d pages=%d packed=%d alphaChnl=%d redChnl=%d greenChnl=%d blueChnl=%d\r\n' % (
+        io.write('common lineHeight=%d base=%d scaleW=%d scaleH=%d pages=%d packed=%d alphaChnl=%d redChnl=%d greenChnl=%d blueChnl=%d\n' % (
             self.lineHeight,
             self.base,
             self.scaleW,
@@ -104,7 +104,7 @@ class PagesTxt(PagesBase):
 
     def save(self, io):
         for i, name in enumerate(self):
-            io.write('page id=%d file="%s"\r\n' % (i, name))
+            io.write('page id=%d file="%s"\n' % (i, name))
 
 
 class CharsTxt(CharsBase):
@@ -126,9 +126,9 @@ class CharsTxt(CharsBase):
             self.append(char)
 
     def save(self, io):
-        io.write("chars count=%d\r\n" % len(self))
+        io.write("chars count=%d\n" % len(self))
         for char in self:
-            io.write("char id=%-4d x=%-5d y=%-5d width=%-5d height=%-5d xoffset=%-5d yoffset=%-5d xadvance=%-5d page=%-2d chnl=%-2d\r\n" % (
+            io.write("char id=%-4d x=%-5d y=%-5d width=%-5d height=%-5d xoffset=%-5d yoffset=%-5d xadvance=%-5d page=%-2d chnl=%-2d\n" % (
                 char["id"],
                 char["x"],
                 char["y"],
@@ -157,9 +157,9 @@ class KerningsTxt(KerningsBase):
             self.append(kerning)
 
     def save(self, io):
-        io.write("kernings count=%d\r\n" % len(self))
+        io.write("kernings count=%d\n" % len(self))
         for kerning in self:
-            io.write("kerning first=%-3d  second=%-3d  amount=%-4d\r\n" % (
+            io.write("kerning first=%-3d  second=%-3d  amount=%-4d\n" % (
                 kerning["first"],
                 kerning["second"],
                 kerning["amount"],
