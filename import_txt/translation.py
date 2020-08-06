@@ -65,6 +65,7 @@ class Translation:
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
             _df = pd.read_excel(name, engine='openpyxl')
+            _df = _df.replace({'_x000D_': '\r'}, regex=True)
         elif ext == '.json':
             _df = pd.read_json(name)
         else:
@@ -72,7 +73,9 @@ class Translation:
 
         self.set_dataframe(_df)
 
-    def save(self, name, index='English'):
+    def save(self, name, index='English', drop_dup=False):
+        if drop_dup:
+            self._df.drop_duplicates([index], inplace=True)
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
             self.save_excel(name, index)
