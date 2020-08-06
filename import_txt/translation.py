@@ -183,20 +183,33 @@ class Translation:
 
     def check_variables(self, regex, org_index, trans_index, ordered=True):
         resuls = []
-        trans = self.get_translation(index=org_index, empty_filter=False)
-        for i, (org, row) in enumerate(trans.items()):
-            if len(row[trans_index]) > 0:
-                org_vars = re.findall(regex, org)
-                trans_vars = re.findall(regex, row[trans_index])
-                if len(org_vars) != len(trans_vars):
+        for i, row in self._df.iterrows():
+            org_vars = re.findall(regex, row[org_index])
+            trans_vars = re.findall(regex, row[trans_index])
+            if len(org_vars) != len(trans_vars):
+                resuls.append([i, org_vars, trans_vars])
+            else:
+                if not ordered:
+                    org_vars = set(org_vars)
+                    trans_vars = set(trans_vars)
+                if org_vars != trans_vars:
                     resuls.append([i, org_vars, trans_vars])
-                else:
-                    if not ordered:
-                        org_vars = set(org_vars)
-                        trans_vars = set(trans_vars)
-                    if org_vars != trans_vars:
-                        resuls.append([i, org_vars, trans_vars])
         return resuls
+
+    def check_size(self, org_index, trans_index, encoding):
+        result = []
+        for i, row in self._df.iterrows():
+            org = row[org_index]
+            trans = row[trans_index]
+            org_size = len(org.encode(encoding))
+            trans_size = len(trans.encode(encoding))
+            if org_size < trans_size:
+                result.append([i, org_size, trans_size, org, trans])
+        return result
+
+    def __iter__(self):
+        for _, row in self._df.iterrows():
+            yield row
 
 
 def try_to_get_translation(name):
