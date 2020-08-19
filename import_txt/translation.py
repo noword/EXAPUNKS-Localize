@@ -5,8 +5,10 @@ import os
 import re
 import openpyxl
 from openpyxl.styles.borders import Border, Side
+from openpyxl import Workbook
+from typing import Optional, List
 
-
+# This font can be gotten from https://github.com/adobe-fonts/source-han-mono/releases
 EXCEL_FONT_NAME = 'Source Han Mono'
 
 
@@ -56,12 +58,14 @@ class Theme:
 
 
 class Translation:
-    def __init__(self, name=None, theme=Theme()):
+    def __init__(self,
+                 name: str = None,
+                 theme: Theme = Theme()):
         self.theme = theme
         if name is not None:
             self.load(name)
 
-    def load(self, name):
+    def load(self, name: str):
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
             _df = pd.read_excel(name, engine='openpyxl')
@@ -73,18 +77,23 @@ class Translation:
 
         self.set_dataframe(_df)
 
-    def save(self, name, index='English', drop_dup=False):
+    def save(self,
+             name: str,
+             index: str = 'English',
+             drop_dup: bool = False):
         if drop_dup:
             self._df.drop_duplicates([index], inplace=True)
         ext = os.path.splitext(name)[1].lower()
         if ext == '.xlsx':
             self.save_excel(name, index)
         elif ext == '.json':
-            self.save_json(name, index)
+            self.save_json(name)
         else:
             raise TypeError(f'not support type: "{ext}"')
 
-    def __set_excel_styles(self, workbook, frezze_index):
+    def __set_excel_styles(self,
+                           workbook: Workbook,
+                           frezze_index: int):
         trans_rule = openpyxl.formatting.rule.CellIsRule(operator='notEqual',
                                                          formula=['""'],
                                                          border=self.theme.border,
@@ -134,14 +143,16 @@ class Translation:
             cell[0].font = self.theme.org_font
             cell[0].border = self.theme.border
 
-    def save_excel(self, name, index='English'):
+    def save_excel(self,
+                   name: str,
+                   index: str = 'English'):
         frezze_index = self._df.columns.to_list().index(index) + 2
         self._df.to_excel(name, freeze_panes=(1, frezze_index), engine='openpyxl')
         wb = openpyxl.load_workbook(name)
         self.__set_excel_styles(wb, frezze_index)
         wb.save(name)
 
-    def save_json(self, name):
+    def save_json(self, name: str):
         json_str = self._df.to_json(orient='records', force_ascii=False, indent=4)
         open(name, 'w', encoding='utf-8').write(json_str)
 
@@ -149,7 +160,10 @@ class Translation:
         self._df.replace(float('nan'), '', inplace=True)
         self._df.drop(columns=filter(lambda x: 'Unnamed' in x or re.search(r'_\d', x), self._df.columns), inplace=True)
 
-    def get_translation(self, index='English', fill_empty_with_org=False, empty_filter=True):
+    def get_translation(self,
+                        index: str = 'English',
+                        fill_empty_with_org: bool = False,
+                        empty_filter: bool = True):
         start_index = self._df.columns.to_list().index(index) + 1
         if empty_filter:
             rows = filter(lambda x: sum([len(y) for y in x[start_index:]]) > 0, self._df.itertuples(index=False))
@@ -165,7 +179,9 @@ class Translation:
         df.drop_duplicates([index], inplace=True)
         return df.to_dict('index')
 
-    def set_dataframe(self, df, add_comments=True):
+    def set_dataframe(self,
+                      df: pd.DataFrame,
+                      add_comments: bool = True):
         if add_comments and 'Comments' not in df.columns:
             df['Comments'] = [''] * len(df)
         self._df = df
@@ -174,14 +190,22 @@ class Translation:
     def get_dataframe(self):
         return self._df
 
-    def set_data(self, data, columns):
+    def set_data(self,
+                 data: List,
+                 columns: Optional[List] = None):
+        if columns is None:
+            columns = data[0].keys()
         self.set_dataframe(pd.DataFrame(data, columns=columns, dtype=str))
 
-    def get_percent(self, target_index):
+    def get_percent(self, target_index: str):
         count = len(self._df[self._df[target_index] != ''])
         return count / len(self._df.index) * 100
 
-    def check_variables(self, regex, org_index, trans_index, ordered=True):
+    def check_variables(self,
+                        regex: str,
+                        org_index: str,
+                        trans_index: str,
+                        ordered: bool = True):
         resuls = []
         for i, row in self._df.iterrows():
             org_vars = re.findall(regex, row[org_index])
@@ -196,7 +220,10 @@ class Translation:
                     resuls.append([i, org_vars, trans_vars])
         return resuls
 
-    def check_size(self, org_index, trans_index, encoding):
+    def check_size(self,
+                   org_index: str,
+                   trans_index: str,
+                   encoding: str):
         result = []
         for i, row in self._df.iterrows():
             org = row[org_index]
@@ -212,7 +239,7 @@ class Translation:
             yield row
 
 
-def try_to_get_translation(name):
+def try_to_get_translation(name: str):
     if os.path.exists(name):
         return Translation(name).get_translation()
     else:
