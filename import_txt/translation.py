@@ -208,8 +208,8 @@ class Translation:
                         ordered: bool = True):
         resuls = []
         for i, row in self._df.iterrows():
-            org_vars = re.findall(regex, row[org_index])
-            trans_vars = re.findall(regex, row[trans_index])
+            org_vars = re.findall(regex, row[org_index], re.MULTILINE | re.DOTALL)
+            trans_vars = re.findall(regex, row[trans_index], re.MULTILINE | re.DOTALL)
             if len(org_vars) != len(trans_vars):
                 resuls.append([i, org_vars, trans_vars])
             else:
