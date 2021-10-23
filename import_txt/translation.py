@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import pandas as pd
@@ -214,9 +215,9 @@ class Translation:
                 resuls.append([i, org_vars, trans_vars])
             else:
                 if not ordered:
-                    org_vars = set(org_vars)
-                    trans_vars = set(trans_vars)
-                if org_vars != trans_vars:
+                    unordered_org_vars = sorted(org_vars)
+                    unordered_trans_vars = sorted(trans_vars)
+                if unordered_org_vars != unordered_trans_vars:
                     resuls.append([i, org_vars, trans_vars])
         return resuls
 
