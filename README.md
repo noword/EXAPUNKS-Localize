@@ -87,7 +87,7 @@ traverse current directory, generate .xlsx files from  all .json files.
 ```
 json2excel.py
 ```
-automatically decide whether to overwrite based on update date
+automatically decide whether to overwrite the current .xlsx files based on update date
 ```
 json2excel.py --auto
 ```
@@ -99,7 +99,7 @@ It will traverse directory ``images/PackedContent``, convert all .tex files to .
 
 Pick up the images what you want to modify. (No need for ``half``'s, will be generated  automatically.)
 
-Put all of them to the ``new`` dirctory, keep the some directory struct.
+Put all of them to the ``new`` dirctory, keep the same directory struct.
 
 # Generate the localization patch
 Run ``run.bat``, the localization patch will be generated in ``patch`` directory.
