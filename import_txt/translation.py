@@ -213,11 +213,14 @@ class Translation:
             if len(org_vars) != len(trans_vars):
                 resuls.append([i, org_vars, trans_vars])
             else:
-                if not ordered:
+                if ordered:
+                    if org_vars != trans_vars:
+                        resuls.append([i, org_vars, trans_vars])
+                else:
                     unordered_org_vars = sorted(org_vars)
                     unordered_trans_vars = sorted(trans_vars)
-                if unordered_org_vars != unordered_trans_vars:
-                    resuls.append([i, org_vars, trans_vars])
+                    if unordered_org_vars != unordered_trans_vars:
+                        resuls.append([i, org_vars, trans_vars])
         return resuls
 
     def check_size(self,
