@@ -1,0 +1,135 @@
+42027c42027
+<     IL_0061:  ldc.i4.1
+---
+>     IL_0061:  ldc.i4.6
+42033a42034,42059
+> //-------------------------------------
+>  ldloc.s  V_4
+>  ldc.i4.1
+>  ldc.i4.2
+>  stelem.i4
+> 
+>  ldloc.s  V_4
+>  ldc.i4.2
+>  ldc.i4.3
+>  stelem.i4
+> 
+>  ldloc.s  V_4
+>  ldc.i4.3
+>  ldc.i4.4
+>  stelem.i4
+> 
+>  ldloc.s  V_4
+>  ldc.i4.4
+>  ldc.i4.5
+>  stelem.i4
+> 
+>  ldloc.s  V_4
+>  ldc.i4.5
+>  ldc.i4.6
+>  stelem.i4
+> //-------------------------------------    
+152888c152914
+<     IL_0955:  ldstr      "Record Solution GIF     "
+---
+>     IL_0955:  ldstr      "Record Solution GIF"
+225089c225115
+<     .maxstack  7
+---
+>     .maxstack  8
+225956,225958c225982,225999
+<     IL_095c:  ldstr      "fonts/font_cpmono"
+<     IL_0961:  call       class FontSheet FontSheet::smethod_4(string)
+<     IL_0966:  newobj     instance void GClass109::.ctor(class FontSheet)
+---
+> //    IL_095c:  ldstr      "fonts/font_cpmono"
+> //    IL_0961:  call       class FontSheet FontSheet::smethod_4(string)
+> //    IL_0966:  newobj     instance void GClass109::.ctor(class FontSheet)
+> 	ldstr      "pixel_regular.ttf"
+> 	ldstr      "pixel_regular.ttf"
+> 	ldstr      "pixel_regular.ttf"
+> 	ldc.r4     7.5
+> 	ldc.i4.0
+> 	ldc.i4.0
+> 	ldnull
+> 	call       class GClass109 GClass109::smethod_0(string,
+>                                                               string,
+>                                                               string,
+>                                                               float32,
+>                                                               int32,
+>                                                               bool,
+>                                                               class GClass109)
+> 
+225961,225963c226002,226019
+<     IL_0975:  ldstr      "fonts/font_cga"
+<     IL_097a:  call       class FontSheet FontSheet::smethod_4(string)
+<     IL_097f:  newobj     instance void GClass109::.ctor(class FontSheet)
+---
+> //    IL_0975:  ldstr      "fonts/font_cga"
+> //    IL_097a:  call       class FontSheet FontSheet::smethod_4(string)
+> //    IL_097f:  newobj     instance void GClass109::.ctor(class FontSheet)
+> 	ldstr      "pixel_regular.ttf"
+> 	ldstr      "pixel_regular.ttf"
+> 	ldstr      "pixel_regular.ttf"
+> 	ldc.r4     7.5
+> 	ldc.i4.0
+> 	ldc.i4.0
+> 	ldnull
+> 	call       class GClass109 GClass109::smethod_0(string,
+>                                                               string,
+>                                                               string,
+>                                                               float32,
+>                                                               int32,
+>                                                               bool,
+>                                                               class GClass109)
+> 
+278822c278878
+<     IL_0dba:  ldstr      "Record Solution GIF     "
+---
+>     IL_0dba:  ldstr      "Record Solution GIF"
+347230a347287,347291
+> 
+> ldsfld     string [mscorlib]System.String::Empty
+> call       class LocString GClass7::smethod_5(string, string)
+> callvirt   instance string LocString::vmethod_0()
+> 
+347264a347326,347330
+> 
+> ldsfld     string [mscorlib]System.String::Empty
+> call       class LocString GClass7::smethod_5(string, string)
+> callvirt   instance string LocString::vmethod_0()
+> 
+347297a347364,347368
+> 
+> ldsfld     string [mscorlib]System.String::Empty
+> call       class LocString GClass7::smethod_5(string, string)
+> callvirt   instance string LocString::vmethod_0()
+> 
+347330a347402,347406
+> 
+> ldsfld     string [mscorlib]System.String::Empty
+> call       class LocString GClass7::smethod_5(string, string)
+> callvirt   instance string LocString::vmethod_0()
+> 
+378169c378245
+<     IL_0e37:  brfalse.s  IL_0eb6
+---
+>     IL_0e37:  brfalse  IL_0eb6
+378181a378258,378262
+> 
+> ldsfld     string [mscorlib]System.String::Empty
+> call       class LocString GClass7::smethod_5(string, string)
+> callvirt   instance string LocString::vmethod_0()
+> 
+378192a378274,378278
+> 
+> ldsfld     string [mscorlib]System.String::Empty
+> call       class LocString GClass7::smethod_5(string, string)
+> callvirt   instance string LocString::vmethod_0() 
+> 
+378209a378296,378300
+> 
+> ldsfld     string [mscorlib]System.String::Empty
+> call       class LocString GClass7::smethod_5(string, string)
+> callvirt   instance string LocString::vmethod_0() 
+> 
