@@ -17,6 +17,11 @@ cd images
 import_imgs.py
 cd ..
 
+cd manual
+gen.py
+move manual\digital_en_1.pdf manual\digital_cn_1.pdf
+cd ..
+
 md patch\Content patch\PackedContent\fonts
 
 move import_txt\strings.csv patch\Content
