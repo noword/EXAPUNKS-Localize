@@ -118,3 +118,7 @@ Language = English
 ![](screenshot/screenshot_2.jpg)
 
 ![](screenshot/screenshot_3.jpg)
+
+# PDF 手册 (苦逼翻译/改图中)
+![](screenshot/digital_en_1_01.jpg)
+![](screenshot/digital_en_1_06.jpg)

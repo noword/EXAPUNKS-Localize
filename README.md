@@ -119,3 +119,7 @@ Change 'English' to 'Chinese | Japanese | French'
 ![](screenshot/screenshot_2.jpg)
 
 ![](screenshot/screenshot_3.jpg)
+
+# PDF Manual (still in progress)
+![](screenshot/digital_en_1_01.jpg)
+![](screenshot/digital_en_1_06.jpg)
