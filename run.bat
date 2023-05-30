@@ -18,11 +18,16 @@ import_imgs.py
 cd ..
 
 cd manual
+:: Generate pdf manual
 gen.py
-move manual\digital_en_1.pdf manual\digital_cn_1.pdf
 cd ..
 
-md patch\Content patch\PackedContent\fonts
+md patch
+md patch\Content
+md patch\Content\manual
+md patch\PackedContent
+md patch\PackedContent\fonts
 
-move import_txt\strings.csv patch\Content
-move font\*.packedfont patch\PackedContent\fonts
+move import_txt\strings.csv  patch\Content
+move font\*.packedfont       patch\PackedContent\fonts
+move manual\digital_en_1.pdf patch\Content\manual\digital_cn_1.pdf
