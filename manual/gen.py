@@ -16,7 +16,7 @@ def gen_pdf(name):
     jpgs = []
     update = False
     while True:
-        page_name = f'{name}_{count:02d}'
+        page_name = f'{name}/{name}_{count:02d}'
         count += 1
         xcf_name = f'{page_name}.xcf'
         if os.path.exists(xcf_name):
