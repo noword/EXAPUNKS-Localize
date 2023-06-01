@@ -2,6 +2,19 @@
 # -*- coding: utf-8 -*-
 import os
 
+# fonts used:
+# 江城斜黑体
+# 锐字云细圆体
+# 文泉驿微米黑
+# 青鸟华光简淡古印
+# 字心坊鸿潮榜书
+# 造字工房哲黑（非商用）常规体 (removed)
+# 造字工房羽逸(非商用）常规体
+# 思源黑体
+# 隶书
+# MBitmapRoundHK-Light
+# mplus_hzk_12
+
 
 def need_update(xcf_name, jpg_name):
     if os.path.exists(jpg_name):
