@@ -49,3 +49,4 @@ def gen_pdf(name):
 
 if __name__ == '__main__':
     gen_pdf('digital_en_1')
+    gen_pdf('digital_en_2')
