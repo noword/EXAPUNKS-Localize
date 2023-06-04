@@ -25,7 +25,7 @@ def need_update(xcf_name, jpg_name):
 
 
 def gen_pdf(name):
-    count = 1
+    count = 0 if os.path.exists(f'{name}/{name}_00.xcf') else 1
     jpgs = []
     update = False
     while True:
