@@ -36,7 +36,7 @@ def gen_pdf(name):
             if need_update(xcf_name, jpg_name):
                 update = True
                 print(f'{xcf_name} ==> {jpg_name}')
-                quality = '-quality 70' if count > 2 else ''
+                quality = '-quality 80' if count > 2 else ''
                 os.system(f'convert.exe {xcf_name} -flatten {quality} {jpg_name}')
             jpgs.append(jpg_name)
         else:
